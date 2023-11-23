@@ -1,945 +1,945 @@
-企··企画··きかく·(0)·キ·0501·planning; plan··a1
-企··企図··きと·(1,2)·キ·0501·plan; project··a1
-企··企業··きぎょう·(1)·キ·0501·enterprise; business··a1
-企··企てる··くわだてる·(4)·くわだ.てる·0501·to plan; to plot··b1
-企··企み··たくらみ·(0,4)·たくら.み·0501·plot; scheme··bir1
-曲··曲線··きょくせん·(0)·キョク·0502·curve··a1
-曲··曲面··きょくめん·(3)·キョク·0502·curved surface··a1
-曲··名曲··めいきょく·(0)·キョク·0502·famous piece of music; excellent song··a1
-曲··曲がる··まがる·(0)·ま.がる·0502·to bend; to curve··b1
-曲··曲げる··まげる·(0,3)·ま.げる·0502·to bend; to crook··b2
-典··典拠··てんきょ·(1)·テン·0503·(an) authority; (a) source··a1
-典··古典··こてん·(0)·テン·0503·classic (work, esp. book); the classics··a1
-興··興行··こうぎょう·(0)·コウ·0504·show; performance··a1
-興··復興··ふっこう·(0)·コウ·0504·revival; reconstruction··a1
-興··興味··きょうみ·(1)·キョウ·0504·interest (in something); curiosity (about something)··a2
-興··興趣··きょうしゅ·(1)·キョウ·0504·interest (in something)··a2
-興··余興··よきょう·(0)·キョウ·0504·performance (at a party or banquet, etc.); side show··a2
-興··興る·起こる·おこる·(2)·おこ.る·0504·to rise; to flourish··b1
-興··興す·起こす·おこす·(2)·おこ.す·0504·to vitalize (e.g. an industry); to invigorate··b2
-輿··輿論··よろん·(1)·ヨ·0505·public opinion; popular voice··a1
-輿··神輿··みこし, しんよ, じんよ·(0,1)·こし·0505·portable shrine (carried in festivals); palanquin··b1
-竜·龍·竜頭蛇尾··りゅうとうだび·(5)·リュウ·0506·strong beginning and weak ending; anticlimax··a1
-竜·龍·竜巻··たつまき·(0)·たつ·0506·tornado; waterspout··b1
-滝·瀧·滝つぼ··たきつぼ·(0)·たき·0507·plunge basin; waterfall lake··b1
-籠··籠城··ろうじょう·(0,1)·ロウ·0508·holding a castle (during a siege); holing up··a1
-籠··籠··かご·(0)·かご·0508·basket (shopping, etc.); hamper··b1
-籠··籠める··こめる·(2)·こ.める·0508·to load (a gun, etc.); to charge··b2
-籠··籠もる··こもる·(2)·こも.る·0508·to shut oneself in (e.g. one's room); to be confined in··b3
-辰··星辰··せいしん·(0)·シン·0509·celestial bodies; stars··a1
-辰··辰年··たつどし·(0)·たつ·0509·year of the Dragon··b1
-農··農業··のうぎょう·(1)·ノウ·0510·agriculture··a1
-農··農具··のうぐ·(1)·ノウ·0510·farming implement; farm tools··a1
-濃··濃厚··のうこう·(0)·ノウ·0511·rich (flavor, color, etc.); strong (e.g. odor)··a1
-濃··濃紺··のうこん·(0)·ノウ·0511·dark blue··a1
-濃··濃さ··こさ·(1)·こ.い·0511·depth (colour); strength (taste)··b1
-豊·豐·豊作··ほうさく·(0)·ホウ·0512·abundant harvest; bumper crop··a1
-豊·豐·豊満··ほうまん·(0)·ホウ·0512·stout; corpulent··a1
-豊·豐·豊富··ほうふ·(0,1)·ホウ·0512·abundant; plentiful··a1
-豊·豐·豊か··ゆたか·(1)·ゆた.か·0512·abundant; plentiful··b1
-吉··吉日··きちにち, きつじつ, きちじつ·(0,4; 0; 0)·キチ·0513·lucky day; unspecified day of the month (used to obscure the date a letter, invitation, etc. was written)··a1
-吉··吉例··きちれい, きつれい·(0)·キチ·0513·festive annual custom··a1
-吉··大吉··だいきち·(0)·キチ·0513·excellent luck··a1
-吉··吉報··きっぽう·(0)·キツ·0513·good news··a2
-吉··不吉··ふきつ·(0)·キツ·0513·ominous; sinister··a2
-詰··詰問··きつもん·(0)·キツ·0514·cross-examination; close questioning··a1
-詰··難詰··なんきつ·(0)·キツ·0514·reprimand··a1
-詰··面詰··めんきつ·(0)·キツ·0514·reprimanding (a person) personally; personal reproof··a1
-詰··詰め物··つめもの·(2)·つ.める·0514·filling; packing material··b1
-詰··行き詰まる··いきづまる, ゆきづまる·(4)·つ.まる·0514·to come to a dead end; to come to a standstill··b2
-詰··詰み··つみ·(2)·つ.む·0514·checkmate··b3
-結··結論··けつろん·(0,2)·ケツ·0515·conclusion (of an argument, discussion, study, etc.); conclusion··a1
-結··連結··れんけつ·(0)·ケツ·0515·connection; linking··a1
-結··結ぶ··むすぶ·(3)·むす.ぶ·0515·to tie; to bind··b1
-結··元結··もとゆい, もとい, もっとい·(3; 2; 3)·ゆ.う·0515·(paper) cord for tying the hair··b2
-結··結わえる··ゆわえる·(3)·ゆ.わえる·0515·to bind; to fasten··b3
-投··投資··とうし·(0,1)·トウ·0516·investment··a1
-投··投下··とうか·(1,0)·トウ·0516·throwing down; dropping··a1
-投··暴投··ぼうとう·(0)·トウ·0516·wild pitch··a1
-投··身投げ··みなげ·(0,3)·な.げる·0516·throwing oneself (e.g. into the water to commit suicide)··b1
-投··投網··とあみ·(0)··0516·cast net; casting net··c
-役··役所··やくしょ·(3)·ヤク·0517·government office; public office··a1
-役··役目··やくめ·(3)·ヤク·0517·duty; role··a1
-役··荷役··にやく, にえき·(0)·ヤク·0517·handling cargo; loading and unloading··a1
-役··役務··えきむ·(1)·エキ·0517·labor; labour··a2
-役··兵役··へいえき·(0)·エキ·0517·military service; conscription··a2
-没··没収··ぼっしゅう·(0)·ボツ·0518·forfeiture; seizure··a1
-没··没交渉··ぼっこうしょう, ぼつこうしょう·(3; 3)·ボツ·0518·lack of relation (to); independence (of)··a1
-没··出没··しゅつぼつ·(0)·ボツ·0518·making frequent appearances; appearing often··a1
-設··設立··せつりつ·(0)·セツ·0519·establishment; founding··a1
-設··設備··せつび·(1)·セツ·0519·equipment; facilities··a1
-設··建設··けんせつ·(0)·セツ·0519·construction; establishment··a1
-設··設ける··もうける·(3)·もう.ける·0519·to prepare; to provide··b1
-段··段落··だんらく·(0)·ダン·0520·paragraph; end··a1
-段··手段··しゅだん·(1)·ダン·0520·means; way··a1
-殺·殺·殺人··さつじん·(0)·サツ·0521·murder; homicide··a1
-殺·殺·殺到··さっとう·(0)·サツ·0521·rush; flood··a1
-殺·殺·相殺··そうさい, そうさつ·(0)·サイ·0521·offset; offsetting each other··a2
-殺·殺·殺生··せっしょう·(1)·セツ·0521·killing; destruction of life··a3
-殺·殺·人殺し··ひとごろし·(0,5)·ころ.す·0521·murder; murderer··b1
-殺·殺·見殺し··みごろし·(0)·ころ.す·0521·letting (someone) die without helping··b1
-刹··古刹··こさつ·(0)·サツ·0522·ancient temple··a1
-刹··名刹··めいさつ·(0)·サツ·0522·famous temple··a1
-刹··刹那··せつな·(1)·セツ·0522·moment; instant··a2
-刈··刈り入れ··かりいれ·(0)·か.る·0523·harvest··b1
-絵·繪·絵画··かいが·(1)·カイ·0524·painting; picture··a1
-絵·繪·絵本··えほん·(2)·エ·0524·picture book··a2
-絵·繪·絵図··えず·(1)·エ·0524·illustration; drawing··a2
-給··給水··きゅうすい·(0)·キュウ·0525·water supply; supplied water··a1
-給··配給··はいきゅう·(0)·キュウ·0525·distribution (e.g. films, rice); rationing (e.g. food, gasoline)··a1
-給··月給··げっきゅう·(0)·キュウ·0525·monthly salary··a1
-巴··巴奈馬··パナマ·(1)·ハ·0526·Panama··a1
-巴··巴··ともえ·(0)·ともえ·0526·tomoe; heraldic design composed of two or more interlocked comma-shaped figures··b1
-色··原色··げんしょく·(0)·ショク·0527·primary colour; primary color··a1
-色··特色··とくしょく·(0)·ショク·0527·characteristic; feature··a1
-色··物色··ぶっしょく·(0)·ショク·0527·looking for (a suitable thing or person); searching for··a1
-色··色彩··しきさい·(0)·シキ·0527·colour; color··a2
-色··色調··しきちょう·(0)·シキ·0527·color tone; colour tone··a2
-色··色欲··しきよく·(0)·シキ·0527·lust; sexual appetite··a2
-色··色づく··いろづく·(3)·いろ·0527·to change color (esp. of leaves, fruit, flowers) (colour); to turn crimson (e.g. leaves in autumn)··b1
-声·聲·声楽··せいがく·(0)·セイ·0528·vocal music··a1
-声·聲·声援··せいえん·(0)·セイ·0528·(shout of) encouragement; cheering··a1
-声·聲·名声··めいせい·(0)·セイ·0528·fame; reputation··a1
-声·聲·大音声··だいおんじょう·(3)·ショウ·0528·very loud voice··a2
-声·聲·歌声··うたごえ, かせい·(0,3)·こえ·0528·singing voice; (sound of) singing··b1
-声·聲·声色··こわいろ·(0)·こわ-·0528·tone of voice; mimicry··b2
-眉··眉目··びもく·(1)·ビ·0529·face; looks··a1
-眉··焦眉··しょうび·(1)·ビ·0529·emergency; urgency··a1
-眉··眉間··みけん·(0)·ミ·0529·brow; glabella··a2
-眉··眉毛··まゆげ·(1)·まゆ·0529·eyebrow··b1
-里··里程··りてい·(0)·リ·0530·mileage; distance··a1
-里··千里眼··せんりがん·(0)·リ·0530·clairvoyance; second sight··a1
-里··里心··さとごころ·(3)·さと·0530·homesickness; nostalgia··b1
-理··理科··りか·(1)·リ·0531·science (inc. mathematics, medicine, etc.); natural science··a1
-理··理由··りゆう, わけ·(0)·リ·0531·reason; pretext··a1
-埋··埋没··まいぼつ·(0)·マイ·0532·being buried; remaining unknown··a1
-埋··埋蔵··まいぞう·(0)·マイ·0532·burying in the ground; having underground deposits··a1
-埋··埋め立て··うめたて·(0)·う.める·0532·land reclamation··b1
-埋··穴埋め··あなうめ·(0,4)·う.める·0532·filling (up) a hole; filling in (for a gap, vacancy, etc.)··b1
-埋··埋まる··うまる·(0)·う.まる·0532·to be buried; to be covered··b2
-埋··埋もれ木··うもれぎ, むもれぎ·(0,3)·う.もれる·0532·bogwood; bog oak··b3
-野··野外··やがい·(1,0)·ヤ·0533·outdoors; outside··a1
-野··野性··やせい·(0)·ヤ·0533·wildness (plants, animals, etc.); uncouth··a1
-野··分野··ぶんや·(1)·ヤ·0533·field; sphere··a1
-野··野原··のはら·(1)·の；の-·0533·field; plain··b1
-野··野放し··のばなし·(2)·の；の-·0533·pasturing; letting (an animal) run loose··b1
-黒·黑·暗黒··あんこく·(0)·コク·0534·darkness··a1
-黒·黑·真っ黒··まっくろ·(3)·くろ·0534·pitch black··b1
-黒·黑·腹黒い··はらぐろい·(4)·くろ.い·0534·mean; malicious··b2
-墨·墨·筆墨··ひつぼく·(0)·ボク·0535·stationery; pen and ink··a1
-墨·墨·白墨··はくぼく·(0)·ボク·0535·(piece of) chalk··a1
-墨·墨·遺墨··いぼく·(0)·ボク·0535·autographs (brushwork) of departed person··a1
-墨·墨·墨絵··すみえ·(0)·すみ·0535·ink painting··b1
-墨·墨·眉墨··まゆずみ·(2)·すみ·0535·eyebrow pencil; blackened eyebrows··b1
-童··童話··どうわ·(0)·ドウ·0536·children's story; fairy tale··a1
-童··童心··どうしん·(0)·ドウ·0536·child's mind; childlike innocence··a1
-童··童歌··わらべうた·(3)·わらべ·0536·children's song; nursery song··b1
-量··量産··りょうさん·(0)·リョウ·0537·mass production··a1
-量··度量··どりょう·(1)·リョウ·0537·generosity; magnanimity··a1
-量··量る·計る，測る，図る，謀る·はかる·(2)·はか.る·0537·to measure; to weigh··b1
-重··重量··じゅうりょう·(3)·ジュウ·0538·weight; heavyweight boxer··a1
-重··重大··じゅうだい·(0)·ジュウ·0538·serious; important··a1
-重··二重··にじゅう, ふたえ·(0)·ジュウ·0538·double; two-fold··a1
-重··重畳··ちょうじょう, じゅうじょう·(0)·チョウ·0538·placed one upon another; piled up··a2
-重··一重··ひとえ·(2)·え·0538·one layer; single layer··b1
-重··重たい··おもたい·(0)·おも.い·0538·heavy; weighty··b2
-重··重り··おもり·(0)·おも.り·0538·weight; sinker··b3
-重··重ね着··かさねぎ·(0,3)·かさ.ねる·0538·layering (clothing); wearing one garment over another··b4
-重··重なる··かさなる·(0)·かさ.なる·0538·to be piled up; to lie on top of one another··b5
-重··十重二十重··とえはたえ·(4)··0538·multitude··c
-動··動物··どうぶつ·(0)·ドウ·0539·animal··a1
-動··動く··うごく·(2)·うご.く·0539·to move; to stir··b1
-動··動かす··うごかす·(3)·うご.かす·0539·to move; to shift··b2
-働··実働··じつどう·(0)·ドウ·0540·actual work··a1
-働··働く··はたらく·(0)·はたら.く·0540·to work; to labor··b1
-労·勞·労働··ろうどう·(0)·ロウ·0541·manual labor; manual labour··a1
-労·勞·労力··ろうりょく·(1)·ロウ·0541·labour; labor··a1
-協··協力··きょうりょく·(0)·キョウ·0542·cooperation; collaboration··a1
-協··協会··きょうかい·(0)·キョウ·0542·association; society··a1
-種··種類··しゅるい·(1)·シュ·0543·variety; kind··a1
-種··人種··じんしゅ·(0)·シュ·0543·race (of people); type of person··a1
-種··品種··ひんしゅ·(0)·シュ·0543·type (of goods); sort··a1
-種··菜種··なたね·(2)·たね·0543·rapeseed; coleseed··b1
-種··一粒種··ひとつぶだね·(5)·たね·0543·only child··b1
-亜·亞·亜流··ありゅう·(0)·ア·0544·(inferior) imitator; epigone··a1
-亜·亞·亜麻··あま, アマ·(1)·ア·0544·flax (Linum usitatissimum); linseed··a1
-亜·亞·亜熱帯··あねったい·(2)·ア·0544·subtropics··a1
-悪·惡·悪事··あくじ·(1)·アク·0545·evil deed; wrongdoing··a1
-悪·惡·悪意··あくい·(0)·アク·0545·ill will; spite··a1
-悪·惡·悪寒··おかん·(0)·オ·0545·chill; shakes··a2
-悪·惡·好悪··こうお·(1)·オ·0545·likes and dislikes··a2
-悪·惡·悪者··わるもの·(0)·わる.い·0545·bad guy; villain··b1
-悪·惡·悪し··あし·(1)·あ.し·0545·bad; evil··bir1
-要··要点··ようてん·(3)·ヨウ·0546·gist; main point··a1
-要··要注意··ようちゅうい·(3,1—1)·ヨウ·0546·need for caution; need for care··a1
-要··重要··じゅうよう·(0)·ヨウ·0546·important; momentous··a1
-要··要る·入る·いる·(0)·い.る·0546·to need; to want··b1
-要··要··かなめ·(0)·かなめ·0546·pivot; vital point··b2
-価·價·価格··かかく·(0,1)·カ·0547·price; value··a1
-価·價·価·値·あたい·(0)·あたい·0547·price; cost··b1
-必··必然··ひつぜん·(0)·ヒツ·0548·inevitable; necessary··a1
-必··必死··ひっし·(0)·ヒツ·0548·frantic; frenetic··a1
-必··必要··ひつよう·(0)·ヒツ·0548·necessary; needed··a1
-必··必ずしも··かならずしも·(4)·かなら.ず·0548·(not) always; (not) necessarily··b1
-証·證·証明··しょうめい·(0)·ショウ·0549·proof; testimony··a1
-証·證·免許証··めんきょしょう·(0,3)·ショウ·0549·licence; license··a1
-証·證·証··あかし·(0)·あかし·0549·proof; evidence··bir1
-歪··歪曲··わいきょく·(0)·ワイ·0550·distortion; falsification··a1
-歪··歪む··ゆがむ·(0,2)·ゆが.む·0550·to warp; to bend··b1
-歪··歪める··ゆがめる·(0,3)·ゆが.める·0550·to bend; to curve··b2
-歪··歪む··ひずむ·(0,2)·ひず.む·0550·to warp; to become strained··b3
-歪··歪··いびつ·(0)·いびつ·0550·distorted; crooked··b4
-否··否定··ひてい·(0)·ヒ·0551·denial; negation··a1
-否··適否··てきひ·(1)·ヒ·0551·propriety; fitness··a1
-否··安否··あんぴ, あんぷ, あんぶ, あんび·(1)·ヒ·0551·safety; welfare··a1
-否··否めない··いなめない·(3)·いな·0551·cannot deny; undeniable··b1
-処·處·処置··しょち·(1)·ショ·0552·measure; step··a1
-処·處·処女··しょじょ·(1)·ショ·0552·virgin (usu. female); maiden··a1
-拠·據·拠点··きょてん·(0)·キョ·0553·position; location··a1
-拠·據·証拠··しょうこ·(0)·コ·0553·evidence; proof··a2
-計··計算··けいさん·(0)·ケイ·0554·calculation; reckoning··a1
-計··計画··けいかく·(0)·ケイ·0554·plan; project··a1
-計··寒暖計··かんだんけい·(0,3)·ケイ·0554·thermometer··a1
-計··計る·測る，量る，図る，謀る·はかる·(2)·はか.る·0554·to measure; to weigh··b1
-計··計らい··はからい·(0,3)·はか.らう·0554·arrangement; good offices··b2
-計··時計··とけい·(0)··0554·clock; watch··c
-針··針路··しんろ·(1)·シン·0555·course; direction··a1
-針··運針··うんしん·(0)·シン·0555·handling the needle··a1
-針··針金··はりがね·(0)·はり·0555·wire··b1
-総·總·総合··そうごう·(0)·ソウ·0556·synthesis; combination··a1
-総·總·総意··そうい·(1)·ソウ·0556·consensus; collective will··a1
-総·總·総括··そうかつ·(0,1)·ソウ·0556·summarization; summary··a1
-窓··車窓··しゃそう·(0)·ソウ·0557·train window; car window··a1
-窓··同窓··どうそう·(0)·ソウ·0557·being a graduate of the same school; person who went to the same school··a1
-窓··深窓··しんそう·(0)·ソウ·0557·secluded inner room··a1
-窓··窓口··まどぐち·(2)·まど·0557·counter; window··b1
-矢··一矢を報いる··いっしをむくいる·(0)·シ·0558·to retaliate; to return a blow··a1
-矢··矢印··やじるし·(2)·や·0558·arrow (symbol); (romantic) interest (for a certain person)··b1
-矢··矢面··やおもて·(2)·や·0558·firing line; position where one is subject to questioning, criticism, etc.··b1
-知··知識··ちしき·(1)·チ·0559·knowledge; information··a1
-知··知人··ちじん·(0)·チ·0559·friend; acquaintance··a1
-知··通知··つうち·(0)·チ·0559·notice; notification··a1
-知··物知り··ものしり·(3,4,0)·し.る·0559·well-informed person; walking dictionary··b1
-知··知らせる··しらせる·(0)·し.らせる·0559·to notify; to advise··b2
-知··知れる··しれる·(0)·し.れる·0559·to become known; to come to light··b3
-医·醫·医学··いがく·(1)·イ·0560·medical science; medicine··a1
-医·醫·名医··めいい·(1)·イ·0560·noted doctor; excellent physician··a1
-短··短歌··たんか, みじかうた·(1)·タン·0561·tanka; 31-mora Japanese poem··a1
-短··短所··たんしょ·(1)·タン·0561·defect; demerit··a1
-短··長短··ちょうたん·(1)·タン·0561·(relative) length; advantages and disadvantages··a1
-短··短い··みじかい·(3)·みじか.い·0561·short; brief··b1
-失··失望··しつぼう·(0)·シツ·0562·disappointment; despair··a1
-失··失敗··しっぱい·(0)·シツ·0562·failure; mistake··a1
-失··消失··しょうしつ·(0)·シツ·0562·disappearance; vanishing··a1
-失··失う··うしなう·(4)·うしな.う·0562·to lose; to miss (a chance, opportunity)··b1
-鉄·鐵·鉄道··てつどう·(0)·テツ·0563·railroad; railway··a1
-鉄·鐵·鉄筋··てっきん·(0)·テツ·0563·rebar; (iron) reinforcing bar··a1
-夫··夫妻··ふさい·(1,2)·フ·0564·husband and wife; married couple··a1
-夫··農夫··のうふ·(1)·フ·0564·(male) farmer; peasant··a1
-夫··凡夫··ぼんぷ, ぼんぶ·(1)·フ·0564·ordinary person; unenlightened person··a1
-夫··夫婦··ふうふ·(1)·フウ·0564·married couple; husband and wife··a2
-夫··工夫··くふう·(0)·フウ·0564·devising (a way); contriving··a2
-夫··夫··おっと·(0)·おっと·0564·husband··b1
-朱··朱肉··しゅにく·(0)·シュ·0565·thick red ink (used for signature seals); red ink pad··a1
-朱··朱筆··しゅひつ·(0)·シュ·0565·red-ink brush··a1
-朱··朱塗り··しゅぬり·(0)·シュ·0565·painting something vermillion; lacquering something vermillion··a1
-株··株式··かぶしき·(2)·かぶ·0566·share (in a company); stock··b1
-族··一族··いちぞく·(2)·ゾク·0567·family; relatives··a1
-族··家族··かぞく·(1)·ゾク·0567·family··a1
-旅··旅行··りょこう·(0)·リョ·0568·travel; trip··a1
-旅··旅情··りょじょう·(0)·リョ·0568·one's mood while traveling (travelling)··a1
-旅··旅先··たびさき·(0)·たび·0568·destination; place one stays during a trip··b1
-遊··遊戯··ゆうぎ·(1)·ユウ·0569·play; playing··a1
-遊··遊離··ゆうり·(1,0)·ユウ·0569·separation; isolation··a1
-遊··交遊··こうゆう·(0)·ユウ·0569·friendship; companionship··a1
-遊··遊山··ゆさん·(0,1)·ユ·0569·excursion; outing··a2
-遊··遊ぶ··あそぶ·(0)·あそ.ぶ·0569·to play (games, sports); to enjoy oneself··b1
-遊··遊ばす··あそばす·(0)·あそ.ばす·0569·to let (someone) play; to keep (someone) amused··b2
-施··施設··しせつ·(1,2)·シ·0570·institution; establishment··a1
-施··施政··しせい·(0)·シ·0570·government; administration··a1
-施··実施··じっし·(0)·シ·0570·enforcement; implementation··a1
-施··施主··せしゅ·(1)·セ·0570·donor; benefactor··a2
-施··施療··せりょう·(0)·セ·0570·free medical treatment; gratuitous treatment··a2
-施··布施··ふせ·(2,0)·セ·0570·alms-giving; charity··a2
-施··施し··ほどこし·(0)·ほどこ.す·0570·charity; almsgiving··b1
-旋··旋回··せんかい·(0)·セン·0571·revolution; rotation··a1
-旋··旋律··せんりつ·(0)·セン·0571·melody; tune··a1
-旋··周旋··しゅうせん·(0)·セン·0571·(acting as an) intermediate; mediation··a1
-旗··旗手··きしゅ·(1,2)·キ·0572·standard-bearer; flag-bearer··a1
-旗··旗艦··きかん·(0,2,1)·キ·0572·flagship··a1
-旗··国旗··こっき·(0)·キ·0572·national flag··a1
-旗··旗色··はたいろ, きしょく·(0)·はた·0572·situation; outlook··b1
-旗··手旗··てばた·(0)·はた·0572·semaphore (hand) flag··b1
-放··放送··ほうそう·(0)·ホウ·0573·broadcasting; broadcast··a1
-放··手放す·(離す)·てばなす·(3)·はな.す·0573·to let go of; to release··b1
-放··置きっ放し··おきっぱなし·(0)·-.っぱな.し·0573·leaving something where it is; abandoning something··b2
-放··放つ··はなつ·(2)·はな.つ·0573·to fire (gun, arrow, questions, etc.); to shoot··b3
-放··放れる·離れる·はなれる·(3)·はな.れる·0573·to get free (from); to be freed··b4
-放··放る··ほうる·(0)·ほう.る·0573·to throw; to fling··b5
-激··激動··げきどう·(0)·ゲキ·0574·violent shock; agitation··a1
-激··感激··かんげき·(0)·ゲキ·0574·deep emotion; impression··a1
-激··激する··げきする·(3)·ゲキ·0574·to intensify; to be excited··a1
-激··激しい··はげしい·(3)·はげ.しい·0574·violent; furious··b1
-牧··牧師··ぼくし·(1,0)·ボク·0575·pastor; minister··a1
-牧··遊牧··ゆうぼく·(0)·ボク·0575·nomadism··a1
-牧··牧場··ぼくじょう, まきば·(0; 0)·まき·0575·farm (livestock); stock farm··b1
-位··第一位··だいいちい·(DAi iCHIi)·イ·0576·first place··a1
-位··位取り··くらいどり·(0)·くらい·0576·grade; class··b1
-位··位する··くらいする·(0)·くらい·0576·to rank (as); to occupy (a position)··b1
-位··三位一体··さんみいったい·(1)··0576·the Trinity (in Christianity)··c
-位··従三位··じゅさんみ·(2)··0576·second grade of the third rank of honor (honour)··c
-泣··号泣··ごうきゅう·(0)·キュウ·0577·crying loudly; bawling··a1
-泣··感泣··かんきゅう·(0)·キュウ·0577·being moved to tears··a1
-泣··泣き沈む··なきしずむ·(4)·な.く·0577·to abandon oneself to grief··b1
-笑··笑覧··しょうらん·(0)·ショウ·0578·(your) reading (of my work)··a1
-笑··談笑··だんしょう·(0)·ショウ·0578·friendly chat; pleasant chat··a1
-笑··大笑い··おおわらい·(3)·わら.う·0578·great laughter; burst of laughter··b1
-笑··ほくそ笑む··ほくそえむ·(4)·え.む·0578·to chuckle to oneself; to gloat (over)··b2
-笑··笑み··えみ·(1)·え.む·0578·smile··b2
-笑··笑顔··えがお·(1)··0578·smiling face; smile··c
-専·專·専門··せんもん·(0)·セン·0579·speciality; specialty··a1
-専·專·専属··せんぞく·(0)·セン·0579·exclusive; attached to··a1
-専·專·専用··せんよう·(0)·セン·0579·(one's) exclusive use; private use··a1
-専·專·専ら··もっぱら·(1,0)·もっぱ.ら·0579·wholly; solely··b1
-恵·惠·恵贈··けいぞう·(0)·ケイ·0580·presenting (a gift, etc.); giving··a1
-恵·惠·恵与··けいよ·(1)·ケイ·0580·presentation; giving··a1
-恵·惠·恩恵··おんけい·(0)·ケイ·0580·grace; favor··a1
-恵·惠·恵方参り··えほうまいり·(4)·エ·0580·New Year's visit to a shrine or temple which lies in a favorable (favourable) or lucky direction··a2
-恵·惠·知恵··ちえ·(2)·エ·0580·wisdom; wit··a2
-恵·惠·恵み··めぐみ·(0)·めぐ.む·0580·blessing; grace··b1
-連··連合··れんごう·(0)·レン·0581·union; combination··a1
-連··連続··れんぞく·(0)·レン·0581·continuation; succession··a1
-連··関連··かんれん·(0)·レン·0581·relation; connection··a1
-連··連なる··つらなる·(3)·つら.なる·0581·to extend; to stretch out··b1
-連··連ねる··つらねる·(3)·つら.ねる·0581·to line up; to put in a row··b2
-連··連れ··つれ, ツレ·(0)·つ.れる·0581·companion; company··b3
-軍··軍隊··ぐんたい·(1)·グン·0582·armed forces; military··a1
-軍··軍備··ぐんび·(1)·グン·0582·armaments; military preparations··a1
-軍··空軍··くうぐん·(0)·グン·0582·air force··a1
-運··運動··うんどう·(0)·ウン·0583·exercise; physical training··a1
-運··運命··うんめい·(1)·ウン·0583·fate; destiny··a1
-運··海運··かいうん·(0)·ウン·0583·maritime; marine transportation··a1
-運··運ぶ··はこぶ·(0,3)·はこ.ぶ·0583·to carry; to transport··b1
-蓮··日蓮··にちれん·(2,1)·レン·0584·Nichiren (Buddhist priest, 1222-82, founder of the Nichiren sect)··a1
-蓮··蓮の花··はすのはな·(はす 0)·はす·0584·sacred lotus (Nelumbo nucifera); Indian lotus··b1
-蓮··蓮··はす, はちす, ハス·(0; 0)·はちす·0584·sacred lotus (Nelumbo nucifera); Indian lotus··b2
-隊··隊列··たいれつ·(0)·タイ·0585·rank (of troops); file··a1
-隊··部隊··ぶたい·(1)·タイ·0585·force; unit··a1
-呈··呈上··ていじょう, ていしょう·(0)·テイ·0586·giving; gifting··a1
-呈··進呈··しんてい·(0)·テイ·0586·presentation (e.g. of a gift)··a1
-程··程度··ていど·(1,0)·テイ·0587·degree; amount··a1
-程··日程··にってい·(0)·テイ·0587·schedule; program··a1
-程··過程··かてい·(0)·テイ·0587·process; course··a1
-程··程遠い··ほどとおい·(0)·ほど；-ほど·0587·far away; far off··b1
-程··身の程··みのほど·(0)·ほど；-ほど·0587·one's social position; one's place··b1
-聖··聖書··せいしょ·(1)·セイ·0588·Bible; the Scriptures··a1
-聖··聖人··せいじん·(0,1)·セイ·0588·saint; wise and virtuous person (esp. in Confucianism)··a1
-丑··丁丑··ていちゅう, ひのとのうし·(?)·チュウ·0589·Fire Ox (14th year of the sexagenary cycle, e.g. 1937, 1997, 2057)··a1
-丑··丑年··うしどし·(0)·うし·0589·year of the Ox··b1
-紐··紐帯··ちゅうたい, じゅうたい·(0)·チュウ·0590·important connection; important social foundation··a1
-紐··紐帯··ちゅうたい, じゅうたい·(0; 0)·ジュウ·0590·important connection; important social foundation·Main: 紐帯（ちゅうたい）·a2
-紐··紐を結ぶ··ひもをむすぶ·(ひも 0)·ひも·0590·to tie a string··b1
-革··革新··かくしん·(0)·カク·0591·reform; innovation··a1
-革··改革··かいかく·(0)·カク·0591·reform; reformation··a1
-革··皮革··ひかく·(0)·カク·0591·leather; hide··a1
-革··革靴·(皮)·かわぐつ·(0)·かわ·0591·leather shoes; leather boots··b1
-靴··製靴··せいか·(1,0)·カ·0592·shoe-making··a1
-靴··靴下··くつした·(2,3,4)·くつ·0592·socks; sock··b1
-鞄··鞄··ホウ·(?)·ホウ·0593·かばん··a1
-鞄··鞄··かばん·(0)·かばん·0593·bag; satchel··b1
-皮··皮相··ひそう·(0)·ヒ·0594·surface; outward appearance··a1
-皮··樹皮··じゅひ·(1)·ヒ·0594·bark (of a tree, etc.)··a1
-皮··毛皮·(革)·けがわ, もうひ·(0)·かわ·0594·fur; skin··b1
-破··破壊··はかい·(0)·ハ·0595·destruction; disruption··a1
-破··破産··はさん·(0)·ハ·0595·bankruptcy; insolvency··a1
-破··破棄··はき·(1)·ハ·0595·tearing up and discarding (e.g. documents); destruction··a1
-破··型破り··かたやぶり·(3)·やぶ.る·0595·unusual; unconventional··b1
-破··破れる·敗れる·やぶれる·(3)·やぶ.れる·0595·to get torn; to tear··b2
-彼··彼我··ひが·(1)·ヒ·0596·self and others; this and that··a1
-彼··彼岸··ひがん·(0,2)·ヒ·0596·equinoctial week (when Buddhist services are held); Buddhist services during the equinoctial wee··a1
-彼··彼ら··かれら·(1)·かれ·0596·they; them··b1
-彼··彼女··かのじょ·(1)·かの·0596·she; her··b2
-波··波浪··はろう·(0)·ハ·0597·waves; billows··a1
-波··波及··はきゅう·(0)·ハ·0597·spread; extension··a1
-波··電波··でんぱ·(1)·ハ·0597·radio wave; reception··a1
-波··波立つ··なみだつ·(3)·なみ·0597·to be choppy (of waves); to be rough··b1
-波··波止場··はとば·(0)··0597·wharf; quay··c
-果··果実··かじつ·(1)·カ·0598·fruit; nut··a1
-果··果断··かだん·(0)·カ·0598·decisive; resolute··a1
-果··結果··けっか·(0,1)·カ·0598·result; consequence··a1
-果··果たして··はたして·(2)·はた.す；は.たす；-はた.す·0598·as was expected; just as one thought··b1
-果··果てる··はてる·(2)·は.てる；-は.てる·0598·to end; to be finished··b2
-果··果て··はて·(2)·は.て·0598·the end; the extremity··b3
-果··果物··くだもの·(2)··0598·fruit··c
-課··日課··にっか·(0)·カ·0599·daily routine; daily work··a1
-課··課する··かする·(2)·カ·0599·to impose (a tax, fine, etc.); to levy··a1
-巣·巢·営巣··えいそう·(0)·ソウ·0600·building a nest··a1
-巣·巢·卵巣··らんそう·(0)·ソウ·0600·ovary··a1
-巣·巢·病巣··びょうそう·(0)·ソウ·0600·focus; nidus··a1
-巣·巢·巣箱··すばこ·(1)·す·0600·birdhouse; nest box··b1
-巣·巢·巣立つ··すだつ·(2)·す·0600·to leave the nest; to go out into the world··b1
-菓··菓子··かし·(1)·カ·0601·confectionery; sweets··a1
-菓··製菓··せいか·(1)·カ·0601·confectionery production··a1
-茶··茶色··ちゃいろ·(0)·チャ·0602·brown; light brown··a1
-茶··茶番劇··ちゃばんげき·(2)·チャ·0602·burlesque; low comedy··a1
-茶··番茶··ばんちゃ·(0)·チャ·0602·coarse tea··a1
-茶··茶菓··さか, ちゃか·(1)·サ·0602·tea and cakes; refreshments··a2
-茶··茶話会··さわかい, ちゃわかい·(2,0)·サ·0602·tea party··a2
-茶··喫茶··きっさ·(0)·サ·0602·tea drinking; teahouse··a2
-世··世紀··せいき·(1)·セイ·0603·century; era··a1
-世··時世··じせい, ときよ·(1,0)·セイ·0603·the times; an age··a1
-世··処世··しょせい·(0)·セイ·0603·making one's way through life; conduct of one's life··a1
-世··世界··せかい·(1)·セ·0603·the world; society··a2
-世··出世··しゅっせ·(0)·セ·0603·success in life; getting ahead··a2
-世··世の中··よのなか·(2)·よ·0603·society; the world··b1
-葉··葉緑素··ようりょくそ·(3,4)·ヨウ·0604·chlorophyl··a1
-葉··落葉··らくよう, おちば·(0; 1)·ヨウ·0604·fallen leaves; leaf litter··a1
-葉··枯れ葉··かれは·(0)·は·0604·dead leaf; dry leaves··b1
-葉··落ち葉··おちば, らくよう·(1)·は·0604·fallen leaves; leaf litter··b1
-棄··棄権··きけん·(0)·キ·0605·abstention (from voting); renunciation (of a right)··a1
-棄··放棄··ほうき·(1)·キ·0605·abandonment; renouncement··a1
-棄··棄てる··すてる·(0)·す.てる·0605·to throw away; to cast away··b1
-緑·綠·緑茶··りょくちゃ·(0)·リョク·0606·green tea; Japanese tea··a1
-緑·綠·緑陰··りょくいん·(0)·リョク·0606·shade of trees··a1
-緑·綠·新緑··しんりょく·(0)·リョク·0606·fresh verdure; new green leaves··a1
-緑·綠·緑青··ろくしょう, りょくしょう·(3)·ロク·0606·verdigris; green rust··a2
-緑·綠·薄緑··うすみどり·(3)·みどり·0606·light green··b1
-録·錄·録音··ろくおん·(0)·ロク·0607·(audio) recording··a1
-録·錄·記録··きろく·(0)·ロク·0607·record; minutes··a1
-録·錄·実録··じつろく·(0)·ロク·0607·authentic account··a1
-剥·剝·剥製··はくせい·(0)·ハク·0608·stuffing; mounting··a1
-剥·剝·剝奪··はくだつ·(0)·ハク·0608·stripping (of rights, office, etc.); deprivation··a1
-剥·剝·剥げる··はげる·(2)·は.げる·0608·to peel off; to come off··b1
-剥·剝·剥がれる··はがれる·(3)·は.がれる·0608·to come unstuck from; to peel off··b2
-剥·剝·剥ぐ··はぐ·(1)·は.ぐ·0608·to tear off; to peel off··b3
-剥·剝·剥がす··はがす·(2)·は.がす·0608·to tear off; to peel off··b4
-剥·剝·剥ける··むける·(0)·む.ける·0608·to peel off; to come off··bir1
-剥·剝·剥く··むく·(0)·む.く·0608·to peel; to skin··bir2
-縁·緣·縁故··えんこ·(1)·エン·0609·relation; connection··a1
-縁·緣·縁日··えんにち·(1)·エン·0609·temple festival; fair··a1
-縁·緣·因縁··いんねん, いんえん·(0)·エン·0609·fate; destiny··a1
-縁·緣·縁取り··ふちどり, へりとり·(0)·ふち·0609·hemming; bordering··b1
-縁·緣·縁取る··ふちどる·(3)·ふち.どる·0609·to border; to fringe··bir1
-縁·緣·縁··ゆかり·(0)·ゆかり·0609·connection (to a person, place, etc.); relation··bir2
-縁·緣·縁··よすが·(1)·よすが·0609·something to rely on; aid··bir3
-縁·緣·縁··へり·(2)·へり·0609·edge (of a river, woods, etc.); shoulder (of a road)··bir4
-縁·緣·縁··えにし·(1)·えにし·0609·fate; destiny (esp. as a mysterious force that binds two people together)··bir5
-介··介入··かいにゅう·(0)·カイ·0610·intervention··a1
-介··介する··かいする·(3)·カイ·0610·to use as an intermediary; to worry··a1
-界··限界··げんかい·(0)·カイ·0611·limit; bound··a1
-浮··浮沈··ふちん·(0)·フ·0612·floating and sinking; rise and fall··a1
-浮··浮力··ふりょく·(1)·フ·0612·buoyancy; floating power··a1
-浮··浮薄··ふはく·(0)·フ·0612·frivolous; fickle··a1
-浮··浮世絵··うきよえ·(0,3)·う.く·0612·ukiyo-e; ukiyoe··b1
-浮··浮かれる··うかれる·(0)·う.かれる·0612·to make merry; to be festive··b2
-浮··浮かぶ··うかぶ·(0)·う.かぶ·0612·to float; to be suspended··b3
-浮··浮かべる··うかべる·(0)·う.かべる·0612·to float; to set afloat··b4
-浮··浮気··うわき·(0)··0612·extramarital sex; affair··c
-浮··浮つく··うわつく·(0)··0612·to be fickle; to be frivolous··c
-将·將·将来··しょうらい·(1)·ショウ·0613·future; (future) prospects··a1
-将·將·将棋··しょうぎ·(0)·ショウ·0613·shogi; Japanese chess··a1
-将·將·大将··たいしょう, だいしょう·(1)·ショウ·0613·general; admiral··a1
-奨·奬·奨励··しょうれい·(0)·ショウ·0614·encouragement; promotion··a1
-奨·奬·奨学金··しょうがくきん·(0,4,3)·ショウ·0614·scholarship; stipend··a1
-奨·奬·推奨··すいしょう·(0)·ショウ·0614·recommendation; endorsement··a1
-状·狀·状態··じょうたい·(0)·ジョウ·0615·state; condition··a1
-状·狀·白状··はくじょう·(1)·ジョウ·0615·confession··a1
-状·狀·免状··めんじょう·(0,3)·ジョウ·0615·diploma; licence··a1
-病··病気··びょうき·(0)·ビョウ·0616·illness (usu. excluding minor ailments, e.g. common cold); disease··a1
-病··病根··びょうこん·(0)·ビョウ·0616·cause of a disease; root of an evil··a1
-病··看病··かんびょう·(1)·ビョウ·0616·nursing (a patient)··a1
-病··疾病··しっぺい·(0)·ヘイ·0616·illness; disease··a2
-病··病み付き··やみつき·(0)·や.む·0616·being addicted to; being wholly absorbed by··b1
-病··病··やまい·(1)·やまい·0616·illness; disease··b2
-症··症状··しょうじょう·(3,0)·ショウ·0617·symptoms; condition (of a patient)··a1
-症··炎症··えんしょう·(0)·ショウ·0617·inflammation; irritation··a1
-症··重症··じゅうしょう·(0)·ショウ·0617·serious illness··a1
-痛··痛快··つうかい·(0)·ツウ·0618·exhilarating; thrilling··a1
-痛··苦痛··くつう·(0)·ツウ·0618·pain; agony··a1
-痛··心痛··しんつう·(0)·ツウ·0618·worry; mental agony··a1
-痛··痛い··いたい·(2)·いた.い·0618·painful; sore··b1
-痛··痛ましい·(傷む，悼む)·いたましい·(4)·いた.む·0618·pitiful; heartbreaking··b2
-痛··痛ましい··いたましい·(4)·いた.ましい·0618·pitiful; heartbreaking··b3
-痛··痛める·傷める·いためる·(3)·いた.める·0618·to hurt; to injure··b4
-憶··記憶··きおく·(0)·オク·0619·memory; recollection··a1
-憶··追憶··ついおく·(0)·オク·0619·recollection; reminiscence··a1
-臆··臆説·憶説, (憶説。憶測)·おくせつ·(0)·オク·0620·hypothesis; speculation··a1
-臆··臆測·憶測·おくそく·(0)·オク·0620·guess; speculation··a1
-臆··臆病··おくびょう·(3)·オク·0620·cowardly; timid··a1
-億··億万··おくまん·(3)·オク·0621·millions and millions··a1
-億··一億··いちおく·(2)·オク·0621·100000000; one hundred million··a1
-視·視·視覚··しかく·(0)·シ·0622·sense of sight; vision··a1
-視·視·視力··しりょく·(0)·シ·0622·eyesight; vision··a1
-視·視·注視··ちゅうし·(1,0)·シ·0622·gazing steadily at; observing (a person) closely··a1
-規··規則··きそく·(2,1)·キ·0623·rule; regulation··a1
-規··定規··じょうぎ·(1)·キ·0623·(measuring) ruler··a1
-則··法則··ほうそく·(0)·ソク·0624·law; rule··a1
-則··鉄則··てっそく·(0)·ソク·0624·ironclad rule; inviolable rule··a1
-則··変則··へんそく·(0)·ソク·0624·irregularity; anomaly··a1
-側··側面··そくめん·(0,3,2)·ソク·0625·side; flank··a1
-側··側近··そっきん·(0)·ソク·0625·close associate; close aide··a1
-側··側壁··そくへき·(0)·ソク·0625·side wall··a1
-側··側··がわ, かわ·(0; 2; 1)·がわ·0625·side (of something, or taking someone's side); part··b1
-側··裏側··うらがわ·(0)·がわ·0625·the reverse; other side··b1
-側··片側··かたがわ·(0)·がわ·0625·one side··b1
-側··側··そば·(1)·そば·0625·near; close··bir1
-測··測量··そくりょう·(0,2)·ソク·0626·measurement; surveying··a1
-測··目測··もくそく·(0)·ソク·0626·eye measurement; measure with eye··a1
-測··推測··すいそく·(0)·ソク·0626·guess; conjecture··a1
-測··測る·計る，量る，図る·はかる·(2)·はか.る·0626·to measure; to weigh··b1
-考··考慮··こうりょ·(1)·コウ·0627·consideration; taking into account··a1
-考··思考··しこう·(0)·コウ·0627·thought; consideration··a1
-考··参考··さんこう·(0)·コウ·0627·reference; consultation··a1
-考··考え方··かんがえかた·(5,6)·かんが.える·0627·way of thinking··b1
-老··老巧··ろうこう·(0)·ロウ·0628·experienced; seasoned··a1
-老··老人··ろうじん·(0)·ロウ·0628·old person; senior citizen··a1
-老··長老··ちょうろう·(0)·ロウ·0628·elder; senior··a1
-老··老い··おい·(1,2,0)·お.いる·0628·old age; old person··b1
-老··老け役··ふけやく·(0)·ふ.ける·0628·(theatrical) role of old person··b2
-孝··孝行··こうこう·(1)·コウ·0629·filial piety; showing devotion (to someone)··a1
-孝··孝心··こうしん·(0,1)·コウ·0629·filial devotion··a1
-孝··不孝··ふこう, ふきょう·(2)·コウ·0629·undutifulness to one's parents; lack of filial piety··a1
-厚··厚情··こうじょう·(0)·コウ·0630·kindness; favour··a1
-厚··厚生··こうせい·(0)·コウ·0630·welfare; public welfare··a1
-厚··厚み··あつみ·(0)·あつ.い·0630·thickness; profundity··b1
-教··教育··きょういく·(0)·キョウ·0631·education; schooling··a1
-教··教える··おしえる·(0)·おし.える·0631·to teach; to instruct··b1
-教··教わる··おそわる·(0)·おそ.わる·0631·to be taught; to learn··b2
-完··完全··かんぜん·(0)·カン·0632·perfect; complete··a1
-完··完成··かんせい·(0)·カン·0632·completion; perfection··a1
-完··未完··みかん·(0)·カン·0632·incomplete; unfinished··a1
-院··院内··いんない·(1)·イン·0633·inside the House; inside the Diet··a1
-院··議院··ぎいん·(1)·イン·0633·parliament; congress··a1
-院··病院··びょういん·(0)·イン·0633·hospital; clinic··a1
-奈··奈落··ならく·(0)·ナ·0634·Naraka; Hell··a1
-宗··宗教··しゅうきょう·(1)·シュウ·0635·religion; religious affiliation··a1
-宗··宗派··しゅうは·(1,0)·シュウ·0635·sect; denomination··a1
-宗··改宗··かいしゅう·(0)·シュウ·0635·religious conversion··a1
-宗··宗家··そうけ, そうか·(1)·ソウ·0635·head of family; originator··a2
-宗··宗匠··そうしょう·(1)·ソウ·0635·master; teacher··a2
-祭··祭礼··さいれい·(0)·サイ·0636·(religious) festival··a1
-祭··文化祭··ぶんかさい·(3)·サイ·0636·school festival; cultural festival··a1
-祭··祭り上げる··まつりあげる·(5)·まつ.る·0636·to set up (in high position); to kick upstairs··b1
-祭··秋祭り··あきまつり·(3)·まつ.り；まつり·0636·autumn festival; fall festival··b2
-際··際限··さいげん·(3)·サイ·0637·limits; end··a1
-際··交際··こうさい·(0)·サイ·0637·company; friendship··a1
-際··この際··このさい·(3)·サイ·0637·on this occasion; now··a1
-際··際立つ··きわだつ·(3)·きわ·0637·to be prominent; to be conspicuous··b1
-際··窓際··まどぎわ·(0)·きわ·0637·(at the) window··b1
-察··察知··さっち·(1,0)·サツ·0638·to sense; to infer··a1
-察··考察··こうさつ·(0)·サツ·0638·consideration; inquiry··a1
-祈·祈·祈願··きがん·(1)·キ·0639·prayer (for something); supplication··a1
-祈·祈·祈念··きねん·(1)·キ·0639·prayer··a1
-祈·祈·祈る··いのる·(2)·いの.る·0639·to pray; to say a prayer··b1
-祖·祖·祖父··そふ, じじ, じい, おおじ, おじ, そぶ·(1)·ソ·0640·grandfather; old man··a1
-祖·祖·祖述··そじゅつ·(0)·ソ·0640·exposition (propagation) of one's master's teachings or doctrines··a1
-助··助力··じょりょく·(0,1)·ジョ·0641·assistance; support··a1
-助··助監督··じょかんとく·(2)·ジョ·0641·assistant director (in taking professional movies)··a1
-助··助ける··たすける·(3)·たす.ける·0641·to save; to rescue··b1
-助··大助かり··おおだすかり·(3)·たす.かる·0641·great help··b2
-助··助太刀··すけだち·(0)·すけ·0641·assistance (in a fight); help··b3
-仲··仲介··ちゅうかい·(0)·チュウ·0642·agency; intermediation··a1
-仲··仲裁··ちゅうさい·(0)·チュウ·0642·arbitration; intercession··a1
-仲··仲間·(中)·なかま·(3)·なか·0642·companion; fellow··b1
-仲··仲人··なこうど·(2)··0642·matchmaker; go-between··c
-忠··忠実··ちゅうじつ·(0)·チュウ·0643·faithful; devoted··a1
-忠··忠勤··ちゅうきん·(0)·チュウ·0643·loyalty; loyal (faithful) service··a1
-忠··誠忠··せいちゅう·(0)·チュウ·0643·loyalty··a1
-沖··沖積層··ちゅうせきそう·(4)·チュウ·0644·alluvium; alluvial stratum··a1
-沖··沖天··ちゅうてん·(0)·チュウ·0644·rising into the heavens··a1
-沖··沖する··ちゅうする·(1)·チュウ·0644·to rise up into the air; to ascend into the sky··a1
-沖··沖··おき·(0)·おき·0644·open sea; Okinawa··b1
-保··保護··ほご·(1)·ホ·0645·protection; safeguard··a1
-保··保存··ほぞん·(0)·ホ·0645·preservation; conservation··a1
-保··担保··たんぽ·(1)·ホ·0645·security; guarantee··a1
-保··保つ··たもつ·(2)·たも.つ·0645·to keep; to preserve··b1
-呆··阿呆··あほ, あほう·(2; 2)·ホウ·0646·fool; idiot··a1
-呆··呆然··ぼうぜん, もうぜん, ボーゼン·(0)·ボウ·0646·dumbfounded; overcome with surprise··a2
-呆··呆れる··あきれる·(0)·あき.れる·0646·to be amazed; to be shocked··b1
-呆··呆ける··ぼける·(2)·ぼ.ける·0646·to grow senile; to be childish with age··bir1
-守··守備··しゅび·(1)·シュ·0647·defense; defence··a1
-守··保守··ほしゅ·(1)·シュ·0647·maintenance; conservatism··a1
-守··留守··るす·(1)·ス·0647·absence; being away from home··a2
-守··守る··まもる·(2)·まも.る·0647·to protect; to guard··b1
-守··お守り··おもり, おまもり·(0; 0,2)·もり；-もり·0647·おもり babysitting; babysitter··b2
-守··子守··こもり·(3,2)·もり；-もり·0647·looking after a baby; taking care of a baby··b2
-守··灯台守··とうだいもり·(3)·もり；-もり·0647·lighthouse keeper··b2
-団·團·団結··だんけつ·(0)·ダン·0648·unity; union··a1
-団·團·団地··だんち·(0)·ダン·0648·multi-unit apartments; apartment complex··a1
-団·團·集団··しゅうだん·(0)·ダン·0648·group; mass··a1
-団·團·布団··ふとん·(0)·トン·0648·futon; Japanese bedding consisting of a mattress and a duvet··a2
-対·對·対立··たいりつ·(0)·タイ·0649·confrontation; opposition··a1
-対·對·絶対··ぜったい·(0)·タイ·0649·absolutely; definitely··a1
-対·對·対句··ついく·(0)·ツイ·0649·couplet; antithesis··a2
-対·對·一対··いっつい·(0)·ツイ·0649·pair; couple··a2
-村··村長··そんちょう, むらおさ·(1)·ソン·0650·village headman; village mayor··a1
-村··村落··そんらく·(0)·ソン·0650·village; hamlet··a1
-村··農村··のうそん·(0)·ソン·0650·agricultural community; farm village··a1
-村··村里··むらざと·(0)·むら·0650·village··b1
-村··村芝居··むらしばい·(3)·むら·0650·play put on in a village; play put on by villagers··b1
-才··才能··さいのう·(0)·サイ·0651·talent; ability··a1
-才··才覚··さいかく·(0)·サイ·0651·ready wit; quick wits··a1
-財··財産··ざいさん·(1,0)·ザイ·0652·property; fortune··a1
-財··私財··しざい·(1)·ザイ·0652·private funds; own funds··a1
-財··文化財··ぶんかざい·(3,0)·ザイ·0652·cultural assets; cultural property··a1
-財··財布··さいふ·(0)·サイ·0652·wallet; purse··a2
-材··材木··ざいもく·(0)·ザイ·0653·wood (for building); lumber··a1
-材··材料··ざいりょう·(3)·ザイ·0653·materials; ingredients··a1
-材··人材··じんざい·(0)·ザイ·0653·capable person; talented person··a1
-沈··沈滞··ちんたい·(0)·チン·0654·stagnation; inactivity··a1
-沈··沈黙··ちんもく·(0)·チン·0654·silence; being silent··a1
-沈··浮き沈み··うきしずみ·(0,2)·しず.む·0654·ups and downs; bobbing up and down··b1
-沈··沈める·静める，鎮める·しずめる·(0)·しず.める·0654·to sink (e.g. a ship); to submerge··b2
-枕··枕元··まくらもと·(3)·まくら·0655·bedside; near one's pillow··b1
-丈··丈六··じょうろく·(0)·ジョウ·0656·one jō and six shaku (4.85m); statue of Buddha measuring one jō and six shaku··a1
-丈··丈夫な体··じょうぶなからだ·(じょうぶ 0)·ジョウ·0656·a healthy/strong body··a1
-丈··背丈··せたけ, せいたけ·(1)·たけ·0656·stature; height··b1
-杖··錫杖··しゃくじょう·(1,2,0)·ジョウ·0657·bishop’s staff; khakkhara··a1
-杖··杖··つえ·(1)·つえ·0657·cane; walking stick··b1
-偉··偉大··いだい·(0)·イ·0658·great; grand··a1
-偉··偉人··いじん·(0)·イ·0658·great person; eminent figure··a1
-偉··偉観··いかん·(0)·イ·0658·magnificent sight; grand sight··a1
-偉··偉ぶる··えらぶる·(3)·えら.い·0658·to put on airs; to swagger··b1
-緯··緯度··いど·(1)·イ·0659·latitude (nav.)··a1
-緯··北緯··ほくい·(1)·イ·0659·north latitude··a1
-緯··経緯··いきさつ, けいい, たてぬき, たてよこ·(0)·イ·0659·details; particulars··a1
-衛·衞·衛生··えいせい·(0)·エイ·0660·hygiene; sanitation··a1
-衛·衞·守衛··しゅえい·(0)·エイ·0660·(security) guard; caretaker··a1
-韓··韓国··かんこく·(1)·カン·0661·South Korea; Republic of Korea··a1
-違··違反··いはん·(0)·イ·0662·violation; offense··a1
-違··違法··いほう·(0)·イ·0662·illegal; illicit··a1
-違··相違··そうい·(0)·イ·0662·difference; discrepancy··a1
-違··食い違い··くいちがい·(0)·ちが.う·0662·difference; disagreement··b1
-違··見違える··みちがえる·(0,4,3)·ちが.える；-ちが.える·0662·to hardly recognise; to mistake for something or someone else··b2
-違··間違える··まちがえる·(4,3)·ちが.える；-ちが.える·0662·to make a mistake (in); to commit an error (e.g. in calculation)··b2
-抱··抱負··ほうふ·(0)·ホウ·0663·aspiration; ambition··a1
-抱··抱懐··ほうかい·(0)·ホウ·0663·harboring; harbouring··a1
-抱··介抱··かいほう·(1)·ホウ·0663·nursing; looking after··a1
-抱··抱く··だく·(0)·だ.く·0663·to hold in one's arms (e.g. a baby); to embrace··b1
-抱··抱く··いだく·(2)·いだ.く·0663·to hold in one's arms (e.g. a baby); to embrace··b2
-抱··一抱え··ひとかかえ·(2)·かか.える·0663·armful; bundle··b3
-砲··砲撃··ほうげき·(0)·ホウ·0664·bombarding; shelling·（つつ）·a1
-砲··大砲··たいほう·(0)·ホウ·0664·gun; cannon··a1
-砲··鉄砲··てっぽう·(0)·ホウ·0664·gun; wooden pole that wrestlers strike in practice··a1
-泡··気泡··きほう·(0)·ホウ·0665·(air) bubble (esp. in a liquid)··a1
-泡··水泡··すいほう, みなわ·(0)·ホウ·0665·foam; bubble··a1
-泡··発泡··はっぽう·(0)·ホウ·0665·foaming··a1
-泡··泡立つ··あわだつ·(3)·あわ·0665·to bubble; to foam··b1
-泡··泡··あわ, あぶく·(2; 3)·あぶく·0665·bubble; foam··bir1
-丹··丹念··たんねん·(1)·タン·0666·painstaking; careful··a1
-丹··丹精··たんせい·(1)·タン·0666·working earnestly; sincerity··a1
-舟··舟運··しゅううん·(0)·シュウ·0667·transportation by water (e.g. by ship)··a1
-舟··舟航··しゅうこう·(0)·シュウ·0667·boating; sailing··a1
-舟··小舟·(船)·こぶね, おぶね·(0)·ふね·0667·small boat··b1
-舟··渡し舟··わたしぶね·(4)·ふね·0667·ferry; ferryboat··b1
-舟··舟遊び··ふなあそび·(3)·ふな-·0667·boating; sailing··b2
-舟··舟宿··ふなやど·(?)·ふな-·0667·shipping agent; boathouse··b2
-舟··舟歌··ふなうた·(2)·ふな-·0667·sailor's song; boat song··b2
-船··船舶··せんぱく·(1)·セン·0668·vessel; ship··a1
-船··乗船··じょうせん·(0)·セン·0668·embarking (a ship); embarkation··a1
-船··大船·(舟)·おおぶね, おおふね, たいせん·(0)·ふね·0668·large boat··b1
-船··親船··おやぶね·(0)·ふね·0668·mother ship··b1
-船··船旅··ふなたび·(0)·ふな-·0668·trip by boat; sea trip··b2
-船··船賃··ふなちん·(2)·ふな-·0668·passage; fare··b2
-舶··舶来··はくらい·(0)·ハク·0669·imported; foreign-made··a1
-般··諸般··しょはん·(1)·ハン·0670·various; several··a1
-般··先般··せんぱん·(1)·ハン·0670·some time ago; the other day··a1
-搬··搬入··はんにゅう·(0)·ハン·0671·carrying in (esp. heavy objects, artwork, furniture); bringing in··a1
-搬··搬出··はんしゅつ·(0)·ハン·0671·carrying out (esp. heavy objects, artwork, furniture); taking out··a1
-搬··運搬··うんぱん·(0)·ハン·0671·transport; transportation··a1
-盤··基盤··きばん·(0)·バン·0672·foundation; basis··a1
-盤··円盤··えんばん·(0)·バン·0672·disk; discus··a1
-歯·齒·歯科··しか·(1,2,0)·シ·0673·dentistry··a1
-歯·齒·乳歯··にゅうし·(1)·シ·0673·baby tooth; milk tooth··a1
-歯·齒·義歯··ぎし·(1)·シ·0673·artificial tooth··a1
-歯·齒·入れ歯··いれば·(0)·は·0673·false tooth; denture··b1
-冷··冷却··れいきゃく·(0)·レイ·0674·cooling; refrigeration··a1
-冷··冷淡··れいたん·(3)·レイ·0674·cool; indifferent··a1
-冷··寒冷··かんれい·(0)·レイ·0674·cold; coldness··a1
-冷··冷たい··つめたい·(0,3)·つめ.たい·0674·cold (to the touch); chilly··b1
-冷··底冷え··そこびえ·(0)·ひ.える·0674·penetrating cold··b2
-冷··冷や汗··ひやあせ, れいかん·(3)·ひ.や·0674·cold sweat··b3
-冷··冷ややか··ひややか·(2)·ひ.や·0674·cold; chilly··b3
-冷··冷やか··ひややか·(2)·ひ.ややか·0674·cold; chilly··b4
-冷··冷やす··ひやす·(2)·ひ.やす·0674·to cool (from room temperature); to chill··b5
-冷··冷やかし··ひやかし·(0)·ひ.やかす·0674·banter; teasing··b6
-冷··冷める··さめる·(2)·さ.める·0674·to cool down; to get cold··b7
-冷··湯冷まし··ゆざまし·(2)·さ.ます·0674·boiled water which has cooled··b8
-齢·齡·樹齢··じゅれい·(0)·レイ·0675·age of a tree··a1
-齢·齡·年齢··ねんれい·(0)·レイ·0675·age; years··a1
-齢·齡·妙齢··みょうれい·(0)·レイ·0675·young (usu. of a woman); blooming··a1
-少··少年··しょうねん·(0)·ショウ·0676·boy; juvenile··a1
-少··少ない··すくない·(3)·すく.ない·0676·few; a little··b1
-少··少し··すこし·(2)·すこ.し·0676·a little; a bit··b2
-砂··砂丘··さきゅう, しゃきゅう·(0)·サ·0677·sand dune; sand hill··a1
-砂··土砂··どしゃ, どさ·(1)·シャ·0677·sediment; earth and sand··a2
-砂··砂場··すなば·(0)·すな·0677·sandpit; sandbox··b1
-砂··砂利··じゃり·(0)··0677·gravel; ballast··c
-歩·步·歩道··ほどう·(0)·ホ·0678·footpath; walkway··a1
-歩·步·進歩··しんぽ·(1)·ホ·0678·progress; advance··a1
-歩·步·歩合··ぶあい·(0)·ブ·0678·rate; ratio··a2
-歩·步·日歩··ひぶ·(0)·ブ·0678·daily interest; daily rate··a2
-歩·步·歩··ふ·(0)·フ·0678·pawn··a3
-歩·步·歩く··あるく·(2)·ある.く·0678·to walk··b1
-歩·步·歩む··あゆむ·(2)·あゆ.む·0678·to walk; to go on foot··b2
-渉·涉·渉外··しょうがい·(0)·ショウ·0679·public relations; client liaison··a1
-渉·涉·交渉··こうしょう·(0)·ショウ·0679·negotiations; bargaining··a1
-省··反省··はんせい·(0)·セイ·0680·reflection; reconsideration··a1
-省··内省··ないせい·(0)·セイ·0680·introspection; reflection on one's self··a1
-省··帰省··きせい·(0)·セイ·0680·homecoming; returning home··a1
-省··省略··しょうりゃく·(0)·ショウ·0680·omission; leaving out··a2
-省··各省··かくしょう·(1)·ショウ·0680·each ministry; each province (of China)··a2
-省··省みる·顧みる·かえりみる·(4)·かえり.みる·0680·to reflect on (oneself, past conduct, etc.); to contemplate··b1
-省··省く··はぶく·(2)·はぶ.く·0680·to omit; to leave out··b2
-相··相当··そうとう·(0)·ソウ·0681·corresponding to (in meaning, function, etc.); being equivalent to··a1
-相··相談··そうだん·(0)·ソウ·0681·consultation; discussion··a1
-相··真相··しんそう·(0)·ソウ·0681·truth; real situation··a1
-相··首相··しゅしょう·(0)·ショウ·0681·prime minister; chancellor (Germany, Austria, etc.)··a2
-相··相手··あいて·(3)·あい-·0681·companion; partner··b1
-相··相宿··あいやど·(0,3)·あい-·0681·staying in the same inn or hotel; rooming together··b1
-想··想像··そうぞう·(0)·ソウ·0682·imagination; supposition··a1
-想··感想··かんそう·(0)·ソウ·0682·impressions; thoughts··a1
-想··予想··よそう·(0)·ソウ·0682·expectation; anticipation··a1
-想··愛想··あいそ, あいそう·(3)·ソ·0682·amiability; friendliness··a2
-想··想う··おもう·(2)·おも.う·0682·to think; to consider··bir1
-称·稱·称賛··しょうさん·(0)·ショウ·0683·praise; admiration··a1
-称·稱·名称··めいしょう·(0)·ショウ·0683·name; title··a1
-称·稱·称する··しょうする·(3,2)·ショウ·0683·to take the name of; to call oneself··a1
-弥·彌·弥勒··みろく·(0)·ミ·0684·Maitreya (Bodhisattva); Miroku··a1
-弥·彌·弥生··やよい·(0)·や·0684·third month of the lunar calendar; Yayoi period (ca. 300 BCE-300 CE)·（いや）·bir1
-互··互角··ごかく·(0)·ゴ·0685·equal (in ability); even··a1
-互··互選··ごせん·(0)·ゴ·0685·election by mutual vote; election from within a committee (party, etc.)··a1
-互··相互··そうご·(1)·ゴ·0685·mutual; reciprocal··a1
-互··互いに··たがいに·(0)·たが.い·0685·mutually; with each other··b1
-互··互い違い··たがいちがい·(4,2)·たが.い·0685·alternate; alternation··b1
-務··事務··じむ·(1)·ム·0686·office work; clerical work··a1
-務··義務··ぎむ·(1)·ム·0686·duty; obligation··a1
-務··務める·勤める，努める·つとめる·(3)·つと.める·0686·to work (for); to be employed (at)··b1
-務··務まる·勤まる·つとまる·(3)·つと.まる·0686·to be fit (for a role); to be qualified (for)··b2
-柔··柔軟··じゅうなん·(0)·ジュウ·0687·flexible; lithe··a1
-柔··柔道··じゅうどう·(1)·ジュウ·0687·judo··a1
-柔··懐柔··かいじゅう·(0)·ジュウ·0687·winning over; placation··a1
-柔··柔和··にゅうわ·(0)·ニュウ·0687·gentle; mild··a2
-柔··柔弱··にゅうじゃく, じゅうじゃく·(0)·ニュウ·0687·weak; weak-kneed··a2
-柔··柔らか·軟らか·やわらか·(3,2,4)·やわ.らか·0687·soft; tender··b1
-柔··柔らかい·軟らかい·やわらかい·(4)·やわ.らかい·0687·soft; tender··b2
-軟··軟化··なんか·(0)·ナン·0688·softening; softening (of attitude)··a1
-軟··軟弱··なんじゃく·(0)·ナン·0688·weakness··a1
-軟··硬軟··こうなん·(1,0)·ナン·0688·hardness and softness; hard line and moderate line··a1
-軟··軟らか·柔らか·やわらか·(3,2,4)·やわ.らか·0688·soft; tender··b1
-軟··軟らかい·柔らかい·やわらかい·(4)·やわ.らかい·0688·soft; tender··b2
-軌··軌道··きどう·(0)·キ·0689·orbit; trajectory··a1
-軌··広軌··こうき·(1)·キ·0689·broad gauge··a1
-軌··常軌··じょうき·(1)·キ·0689·normal course (of action); proper course··a1
-軒··軒数··けんすう·(3)·ケン·0690·number of houses··a1
-軒··一軒··いっけん·(1)·ケン·0690·one house··a1
-軒··軒先··のきさき·(0)·のき·0690·edge of the eaves; house frontage··b1
-軸··車軸··しゃじく·(0)·ジク·0691·axle··a1
-軸··地軸··ちじく·(0)·ジク·0691·earth's axis··a1
-較··比較··ひかく·(0)·カク·0692·comparison··a1
-庫··文庫··ぶんこ·(0,1)·コ·0693·library; book collection··a1
-庫··庫裏··くり·(1)·ク·0693·temple kitchen; monastery kitchen··a2
-蔵·藏·蔵書··ぞうしょ·(0,1)·ゾウ·0694·collection of books; (personal) library··a1
-蔵·藏·貯蔵··ちょぞう·(0)·ゾウ·0694·storage; preservation··a1
-蔵·藏·土蔵··どぞう·(0)·ゾウ·0694·storehouse with thick (earthen) walls; godown··a1
-蔵·藏·酒蔵·(倉)·さかぐら·(0)·くら·0694·sake brewery; wine cellar··b1
-倉··倉庫··そうこ·(1)·ソウ·0695·storehouse; warehouse··a1
-倉··穀倉··こくそう, こくぐら·(0)·ソウ·0695·granary··a1
-倉··倉敷料·(蔵)·くらしきりょう·(4)·くら·0695·storage charges; warehouse charges··b1
-創··創造··そうぞう·(0)·ソウ·0696·creation; Creation (by God)··a1
-創··独創··どくそう·(0)·ソウ·0696·originality··a1
-創··刀創··とうそう·(0)·ソウ·0696·sword wound; sword cut··a1
-創··創る·作る，造る·つくる·(2)·つく.る·0696·to make; to build··b1
-告··告示··こくじ·(0)·コク·0697·notice; bulletin··a1
-告··告白··こくはく·(0)·コク·0697·confession (to a crime, wrongdoing, etc.); admission··a1
-告··告げる··つげる·(0)·つ.げる·0697·to tell; to inform··b1
-造··造船··ぞうせん·(0)·ゾウ·0698·shipbuilding··a1
-造··造花··ぞうか·(0)·ゾウ·0698·artificial flower; imitation flower··a1
-造··造る·作る，創る·つくる·(2)·つく.る·0698·to make; to build··b1
-衣··衣服··いふく·(1)·イ·0699·clothes··a1
-衣··衣食住··いしょくじゅう·(3,2)·イ·0699·food, clothing and shelter; necessities of life··a1
-衣··作業衣··さぎょうい·(2)·イ·0699·work clothes··a1
-衣··衣紋··えもん·(0,2)·エ·0699·dress; clothes··air1
-衣··羽衣··はごろも, うい·(0)·ころも·0699·angel's raiment; robe of feathers··b1
-衣··浴衣··ゆかた·(0)··0699·yukata (light cotton kimono worn in the summer or used as a bathrobe)··c
-依··依拠··いきょ·(1)·イ·0700·dependence··a1
-依··依然··いぜん·(0)·イ·0700·still; as yet··a1
-依··帰依··きえ·(1)·エ·0700·becoming a devout believer; (religious) conversion··a2
-袋··風袋··ふうたい·(1,0)·タイ·0701·packing; wrapping··a1
-袋··郵袋··ゆうたい·(0)·タイ·0701·mailbag··a1
-袋··紙袋··かみぶくろ, かんぶくろ·(3)·ふくろ·0701·paper bag··b1
-袋··足袋··たび·(1)··0701·tabi; Japanese socks (with split toe)··c
-褒·襃·褒章··ほうしょう·(0)·ホウ·0702·medal of honour; medal of merit··a1
-褒·襃·褒美··ほうび·(0)·ホウ·0702·reward; prize··a1
-褒·襃·過褒··かほう·(0)·ホウ·0702·excessive praise; overpraise··a1
-褒·襃·褒める··ほめる·(2)·ほ.める·0702·to praise; to commend··b1
-裏··裏面··りめん, うらめん·(1)·リ·0703·back (side); reverse··a1
-裏··表裏··ひょうり, おもてうら·(1)·リ·0703·front and back; inside and outside··a1
-裏··裏口··うらぐち·(0)·うら·0703·backdoor; rear entrance··b1
-表··表面··ひょうめん·(3)·ヒョウ·0704·surface; face··a1
-表··代表··だいひょう·(0)·ヒョウ·0704·representation; representative··a1
-表··発表··はっぴょう·(0)·ヒョウ·0704·announcement; publication··a1
-表··表門·(面)·おもてもん·(0)·おもて；-おもて·0704·front gate··b1
-表··裏表··うらおもて·(0)·おもて；-おもて·0704·back and front; inside and outside··b1
-表··表す·現す，著す·あらわす·(3)·あらわ.す·0704·to represent; to signify··b2
-表··表れる·現れる·あらわれる·(4)·あらわ.れる·0704·to appear; to come in sight··b3
-現··現象··げんしょう·(0)·ゲン·0705·phenomenon··a1
-現··現在··げんざい·(1)·ゲン·0705·the present; present time··a1
-現··表現··ひょうげん·(3,0)·ゲン·0705·expression; representation··a1
-現··現れる·表れる·あらわれる·(4)·あらわ.れる·0705·to appear; to come in sight··b1
-現··現す·表す，著す·あらわす·(3)·あらわ.す·0705·to represent; to signify··b2
-著·著·著名··ちょめい·(0)·チョ·0706·well-known; noted··a1
-著·著·著作··ちょさく·(0)·チョ·0706·writing; book··a1
-著·著·著す·表す，現す·あらわす·(3)·あらわ.す·0706·to write; to publish··b1
-著·著·著しい··いちじるしい·(5)·いちじる.しい·0706·striking; remarkable··b2
-制··制度··せいど·(1)·セイ·0707·system; institution··a1
-制··制限··せいげん·(3)·セイ·0707·restriction; restraint··a1
-制··統制··とうせい·(0)·セイ·0707·regulation; control··a1
-製··製造··せいぞう·(0)·セイ·0708·manufacture; production··a1
-製··製鉄··せいてつ·(0)·セイ·0708·iron manufacture··a1
-製··鉄製··てっせい, てつせい·(0)·セイ·0708·made of iron··a1
-初··初期··しょき·(1)·ショ·0709·early days; early years··a1
-初··初心者··しょしんしゃ·(2)·ショ·0709·beginner··a1
-初··最初··さいしょ·(0)·ショ·0709·beginning; outset··a1
-初··初め·始め·はじめ, ぞめ·(0)·はじ.め·0709·はじめ beginning; start··b1
-初··初めて··はじめて·(2)·はじ.めて·0709·for the first time; only after ... is it ...·（〔副〕）·b2
-初··初の受賞··はつのじゅしょう·(はつ 2 じゅしょう 0)·はつ；はつ-·0709·first; new··b3
-初··初雪··はつゆき·(0)·はつ；はつ-·0709·first snow (of the season); first snowfall··b3
-初··初耳··はつみみ·(0)·はつ；はつ-·0709·something heard for the first time; hearing something for the first time··b3
-初··初陣··ういじん·(0)·うい-·0709·one's first campaign; one's first battle··b4
-初··初々しい··ういういしい·(5)·うい-·0709·(young and) innocent; naive··b4
-初··書き初め··かきぞめ·(0)·-そ.める·0709·first calligraphy of the year··b5
-初··出初め式··でぞめしき·(3)·-そ.める·0709·New Year firefighters' event··b5
-裸··裸身··らしん, はだかみ·(0)·ラ·0710·naked body; naked sword··a1
-裸··裸体··らたい·(0)·ラ·0710·naked body; nudity··a1
-裸··赤裸々··せきらら·(0)·ラ·0710·naked; nude··a1
-裸··丸裸··まるはだか·(3)·はだか·0710·being stark-naked; having no possessions··b1
-難·難·難易··なんい·(1)·ナン·0711·(relative) difficulty··a1
-難·難·許し難い··ゆるしがたい·(5)·かた.い·0711·hard-to-forgive; intolerable··b1
-難·難·有り難い··ありがたい·(4)·かた.い·0711·grateful; thankful··b1
-難·難·難しい··むずかしい, むつかしい·(4,0)·むずか.しい·0711·difficult; hard··b2
-准··准将··じゅんしょう·(0)·ジュン·0712·commodore; brigadier general··a1
-准··批准··ひじゅん·(0)·ジュン·0712·ratification··a1
-準··準備··じゅんび·(1)·ジュン·0713·preparation; arrangements··a1
-準··基準··きじゅん·(0)·ジュン·0713·standard; basis··a1
-備··備考··びこう·(0)·ビ·0714·note (for reference); remarks··a1
-備··備える·供える·そなえる·(3)·そな.える·0714·to furnish with; to equip with··b1
-備··備わる··そなわる·(3)·そな.わる·0714·to be furnished with; to be provided with··b2
-死··死亡··しぼう·(0)·シ·0715·death; dying··a1
-死··死角··しかく·(0)·シ·0715·blind spot (e.g. of a driver); dead angle··a1
-死··死に絶える··しにたえる·(4)·し.ぬ·0715·to die out; to become extinct··b1
-葬··葬儀··そうぎ·(1)·ソウ·0716·funeral; funeral service··a1
-葬··埋葬··まいそう·(0)·ソウ·0716·burial··a1
-葬··会葬··かいそう·(0)·ソウ·0716·attendance at a funeral··a1
-葬··葬る··ほうむる·(3)·ほうむ.る·0716·to bury; to inter··b1
-列··歯列··しれつ·(0,1)·レツ·0717·row of teeth··a1
-列··列車··れっしゃ·(0,1)·レツ·0717·train; railway train··a1
-烈··烈火··れっか·(1)·レツ·0718·raging fire; conflagration··a1
-烈··壮烈··そうれつ·(0)·レツ·0718·heroic; brave··a1
-裂··決裂··けつれつ·(0)·レツ·0719·breakdown (of talks, negotiations, etc.); breaking off··a1
-裂··破裂··はれつ·(0)·レツ·0719·bursting; rupture··a1
-裂··分裂··ぶんれつ·(0)·レツ·0719·split; division··a1
-裂··八つ裂き·(割く)·やつざき·(0)·さ.く·0719·tearing limb from limb; tearing apart··b1
-裂··裂け目··さけめ·(3)·さ.ける·0719·tear; rip··b2
-例··例外··れいがい·(0)·レイ·0720·exception··a1
-例··例年··れいねん·(0)·レイ·0720·average (normal, ordinary) year; every year··a1
-例··用例··ようれい·(0)·レイ·0720·example; illustration··a1
-例··例え··たとえ·(3,2)·たと.える·0720·example; simile··b1
-例··例えば··たとえば·(2)·たと.える·0720·for example; for instance··b1
-刑··刑罰··けいばつ·(1)·ケイ·0721·(criminal) punishment; penalty··a1
-刑··刑法··けいほう·(1)·ケイ·0721·criminal law; penal code··a1
-刑··処刑··しょけい·(0)·ケイ·0721·execution··a1
-型··原型··げんけい·(0)·ケイ·0722·prototype; model··a1
-型··典型··てんけい·(0)·ケイ·0722·type; pattern··a1
-型··型紙·(形)·かたがみ·(0)·かた·0722·pattern paper (for dressmaking); stencil··b1
-型··血液型··けつえきがた·(0)·かた·0722·blood type; blood group··b1
-研·硏·研究··けんきゅう·(0)·ケン·0723·study; research··a1
-研·硏·研修··けんしゅう·(0)·ケン·0723·training (esp. in-service); induction course··a1
-研·硏·研ぐ··とぐ·(1)·と.ぐ·0723·to sharpen; to hone··b1
-厄··厄年··やくどし·(2)·ヤク·0724·unlucky year; critical year··a1
-厄··災厄··さいやく·(0)·ヤク·0724·calamity; disaster··a1
-危··危険··きけん·(0)·キ·0725·danger; peril··a1
-危··危害··きがい·(1)·キ·0725·injury; harm··a1
-危··安危··あんき·(1)·キ·0725·fate; safety··a1
-危··危ながる··あぶながる·(4)·あぶ.ない·0725·to act afraid (of); to appear to feel uneasy (about)··b1
-危··危うく··あやうく·(0)·あや.うい·0725·barely; narrowly··b2
-危··危ぶむ··あやぶむ·(3)·あや.ぶむ·0725·to fear; to doubt··b3
-範··範囲··はんい·(1)·ハン·0726·extent; scope··a1
-範··師範··しはん·(1)·ハン·0726·instructor; (fencing) teacher··a1
-怨··怨恨··えんこん·(0)·エン·0727·enmity; grudge··a1
-怨··怨念··おんねん·(0)·オン·0727·deep-seated grudge; hatred··a2
-怨··怨む··うらむ·(2)·うら.む·0727·to bear a grudge against; to resent··bir1
-怨··怨めしい·恨めしい·うらめしい·(4)·うら.めしい·0727·reproachful; hateful··bir2
-苑··外苑··がいえん·(0)·エン·0728·outer garden··a1
-苑··紫苑··しおん·(1,0)·オン·0728·aster (Aster tataricus); Tartarian aster··a2
-苑··苑·園·その·(1)·その·0728·garden; orchard··b1
-宛··宛先·(当てる，充てる)·あてさき·(0)·あ.てる·0729·address; destination··b1
-碗··茶碗··ちゃわん·(0)·ワン·0730·rice bowl; tea cup··a1
-腕··腕章··わんしょう·(0)·ワン·0731·armband; arm band··a1
-腕··腕力··わんりょく·(1,0)·ワン·0731·physical strength; brute strength··a1
-腕··敏腕··びんわん·(0)·ワン·0731·ability; capability··a1
-腕··腕前··うでまえ·(0,3)·うで·0731·ability; skill··b1
-却··却下··きゃっか·(1)·キャク·0732·rejection; dismissal··a1
-却··売却··ばいきゃく·(0)·キャク·0732·selling off; disposal by sale··a1
-脚··脚部··きゃくぶ·(2,1)·キャク·0733·leg; leg portion··a1
-脚··脚本··きゃくほん·(0)·キャク·0733·script; screenplay··a1
-脚··三脚··さんきゃく·(0)·キャク·0733·tripod; three legs··a1
-脚··脚立··きゃたつ·(0)·キャ·0733·stepladder; steps··a2
-脚··脚·足·きゃく·(2; 1)·あし·0733·あし foot; paw··b1
-脚··机の脚··つくえのあし·(あし 2)·あし·0733·legs of a table··b1
-犯··犯罪··はんざい·(0)·ハン·0734·crime; offence··a1
-犯··共犯··きょうはん·(0)·ハン·0734·complicity··a1
-犯··侵犯··しんぱん·(0)·ハン·0734·violation (of foreign territory, rights, etc.); invasion··a1
-犯··犯す·侵す，冒す·おかす·(2,0)·おか.す·0734·to commit (e.g. crime); to perpetrate··b1
-狂··狂気··きょうき·(1)·キョウ·0735·madness; insanity··a1
-狂··狂言··きょうげん·(3)·キョウ·0735·kyogen; farce presented between noh plays or during the interlude of a noh play··a1
-狂··熱狂··ねっきょう·(0)·キョウ·0735·wild enthusiasm; being crazy about··a1
-狂··狂う··くるう·(2)·くる.う·0735·to go mad; to lose one's mind··b1
-狂··狂おしい··くるおしい·(4)·くる.おしい·0735·mad (with grief, love, etc.); crazy··b2
-狂··狂わす··くるわす·(3)·くる.わす·0735·to drive mad; to make insane··b3
-狂··狂わせる··くるわせる·(4)·くる.わせる·0735·to drive mad; to upset··b4
-獄··獄舎··ごくしゃ·(1)·ゴク·0736·prison (building); jail··a1
-獄··地獄··じごく·(0,3)·ゴク·0736·hell··a1
-獄··疑獄··ぎごく·(0)·ゴク·0736·bribery scandal; graft case··a1
-非··非難··ひなん·(1)·ヒ·0737·criticism; blame··a1
-非··非常··ひじょう·(0)·ヒ·0737·emergency; extreme··a1
-排··排斥··はいせき·(0)·ハイ·0738·rejection; expulsion··a1
-排··排気··はいき·(0)·ハイ·0738·exhaust; emission (of gas from an engine)··a1
-排··排除··はいじょ·(1)·ハイ·0738·exclusion; removal··a1
-俳··俳優··はいゆう·(0)·ハイ·0739·actor; actress··a1
-俳··俳句··はいく·(0,3)·ハイ·0739·haiku; 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae··a1
-俳··俳味··はいみ·(3,1,0)·ハイ·0739·subdued taste; refined taste··a1
-罪··罪状··ざいじょう·(0)·ザイ·0740·(nature of a) crime; (criminal) charge··a1
-罪··謝罪··しゃざい·(0)·ザイ·0740·apology··a1
-罪··罪··つみ·(1)·つみ·0740·crime; sin··b1
-罰··罰金··ばっきん·(0)·バツ·0741·fine; penalty··a1
-罰··処罰··しょばつ·(1,0)·バツ·0741·punishment; penalty··a1
-罰··天罰··てんばつ·(1)·バツ·0741·divine punishment; wrath of God··a1
-罰··罰当たり··ばちあたり·(3)·バチ·0741·damned; cursed··a2
-伴··同伴··どうはん·(0)·ハン·0742·accompanying; being accompanied by··a1
-伴··随伴··ずいはん·(0)·ハン·0742·attendance; accompanying··a1
-伴··伴奏··ばんそう·(0)·バン·0742·(musical) accompaniment··a2
-伴··伴食··ばんしょく·(0)·バン·0742·eating with a guest; nominal official··a2
-伴··伴う··ともなう·(3)·ともな.う·0742·to accompany; to go hand in hand with··b1
-判··判定··はんてい·(0)·ハン·0743·judgement; judgment··a1
-判··判明··はんめい·(0)·ハン·0743·establishing; proving··a1
-判··Ａ判··エーばん·(0)·バン·0743·本・紙の仕上がり寸法の日本の標準規格の一系列··a2
-判··大判··おおばん·(0)·バン·0743·large size (paper, book, etc.); ōban··a2
-評··評価··ひょうか·(1)·ヒョウ·0744·valuation; appraisal··a1
-評··評判··ひょうばん·(0)·ヒョウ·0744·reputation; (public) estimation··a1
-評··定評··ていひょう·(0)·ヒョウ·0744·established reputation··a1
-批··批判··ひはん·(0)·ヒ·0745·criticism; judgement··a1
-批··批評··ひひょう·(0)·ヒ·0745·criticism; critique··a1
-帥··統帥··とうすい·(0)·スイ·0746·supreme command; high command··a1
-帥··元帥··げんすい·(1)·スイ·0746·(field) marshal; (fleet) admiral··a1
-師··教師··きょうし·(1)·シ·0747·teacher (classroom)··a1
-師··医師··いし·(1)·シ·0747·doctor; physician··a1
-師··師走··しわす·(0)··0747·twelfth month (esp. of the lunar calendar); December··c
-座··座席··ざせき·(0)·ザ·0748·seat··a1
-座··座談··ざだん·(0)·ザ·0748·conversation; discussion··a1
-座··座り込み·(据わる)·すわりこみ·(0)·すわ.る·0748·sit-in (protest); sit-down (strike)··b1
-坐··対坐··たいざ·(0)·ザ·0749·sitting opposite each other··a1
-坐··坐る·座る·すわる·(0)·すわ.る·0749·to sit; to squat··b1
-卒··卒業··そつぎょう·(0)·ソツ·0750·graduation; completion (of a course)··a1
-卒··卒中··そっちゅう·(0)·ソツ·0750·cerebral stroke; apoplexy··a1
-卒··兵卒··へいそつ·(0)·ソツ·0750·private (soldier); (common) soldier··a1
+0501　企　　　企画
+    　企　　　企図
+    　企　　　企業
+    　企　　　企てる
+    　企　　　企み
+0502　曲　　　曲線
+    　曲　　　曲面
+    　曲　　　名曲
+    　曲　　　曲がる
+    　曲　　　曲げる
+0503　典　　　典拠
+    　典　　　古典
+0504　興　　　興行
+    　興　　　復興
+    　興　　　興味
+    　興　　　興趣
+    　興　　　余興
+    　興　　　興る
+    　興　　　興す
+0505　輿　　　輿論
+    　輿　　　神輿
+0506　竜　龍　竜頭蛇尾
+    　竜　龍　竜巻
+0507　滝　瀧　滝つぼ
+0508　籠　　　籠城
+    　籠　　　籠
+    　籠　　　籠める
+    　籠　　　籠もる
+0509　辰　　　星辰
+    　辰　　　辰年
+0510　農　　　農業
+    　農　　　農具
+0511　濃　　　濃厚
+    　濃　　　濃紺
+    　濃　　　濃さ
+0512　豊　豐　豊作
+    　豊　豐　豊満
+    　豊　豐　豊富
+    　豊　豐　豊か
+0513　吉　　　吉日
+    　吉　　　吉例
+    　吉　　　大吉
+    　吉　　　吉報
+    　吉　　　不吉
+0514　詰　　　詰問
+    　詰　　　難詰
+    　詰　　　面詰
+    　詰　　　詰め物
+    　詰　　　行き詰まる
+    　詰　　　詰み
+0515　結　　　結論
+    　結　　　連結
+    　結　　　結ぶ
+    　結　　　元結
+    　結　　　結わえる
+0516　投　　　投資
+    　投　　　投下
+    　投　　　暴投
+    　投　　　身投げ
+    　投　　　投網
+0517　役　　　役所
+    　役　　　役目
+    　役　　　荷役
+    　役　　　役務
+    　役　　　兵役
+0518　没　　　没収
+    　没　　　没交渉
+    　没　　　出没
+0519　設　　　設立
+    　設　　　設備
+    　設　　　建設
+    　設　　　設ける
+0520　段　　　段落
+    　段　　　手段
+0521　殺　殺　殺人
+    　殺　殺　殺到
+    　殺　殺　相殺
+    　殺　殺　殺生
+    　殺　殺　人殺し
+    　殺　殺　見殺し
+0522　刹　　　古刹
+    　刹　　　名刹
+    　刹　　　刹那
+0523　刈　　　刈り入れ
+0524　絵　繪　絵画
+    　絵　繪　絵本
+    　絵　繪　絵図
+0525　給　　　給水
+    　給　　　配給
+    　給　　　月給
+0526　巴　　　巴奈馬
+    　巴　　　巴
+0527　色　　　原色
+    　色　　　特色
+    　色　　　物色
+    　色　　　色彩
+    　色　　　色調
+    　色　　　色欲
+    　色　　　色づく
+0528　声　聲　声楽
+    　声　聲　声援
+    　声　聲　名声
+    　声　聲　大音声
+    　声　聲　歌声
+    　声　聲　声色
+0529　眉　　　眉目
+    　眉　　　焦眉
+    　眉　　　眉間
+    　眉　　　眉毛
+0530　里　　　里程
+    　里　　　千里眼
+    　里　　　里心
+0531　理　　　理科
+    　理　　　理由
+0532　埋　　　埋没
+    　埋　　　埋蔵
+    　埋　　　埋め立て
+    　埋　　　穴埋め
+    　埋　　　埋まる
+    　埋　　　埋もれ木
+0533　野　　　野外
+    　野　　　野性
+    　野　　　分野
+    　野　　　野原
+    　野　　　野放し
+0534　黒　黑　暗黒
+    　黒　黑　真っ黒
+    　黒　黑　腹黒い
+0535　墨　墨　筆墨
+    　墨　墨　白墨
+    　墨　墨　遺墨
+    　墨　墨　墨絵
+    　墨　墨　眉墨
+0536　童　　　童話
+    　童　　　童心
+    　童　　　童歌
+0537　量　　　量産
+    　量　　　度量
+    　量　　　量る
+0538　重　　　重量
+    　重　　　重大
+    　重　　　二重
+    　重　　　重畳
+    　重　　　一重
+    　重　　　重たい
+    　重　　　重り
+    　重　　　重ね着
+    　重　　　重なる
+    　重　　　十重二十重
+0539　動　　　動物
+    　動　　　動く
+    　動　　　動かす
+0540　働　　　実働
+    　働　　　働く
+0541　労　勞　労働
+    　労　勞　労力
+0542　協　　　協力
+    　協　　　協会
+0543　種　　　種類
+    　種　　　人種
+    　種　　　品種
+    　種　　　菜種
+    　種　　　一粒種
+0544　亜　亞　亜流
+    　亜　亞　亜麻
+    　亜　亞　亜熱帯
+0545　悪　惡　悪事
+    　悪　惡　悪意
+    　悪　惡　悪寒
+    　悪　惡　好悪
+    　悪　惡　悪者
+    　悪　惡　悪し
+0546　要　　　要点
+    　要　　　要注意
+    　要　　　重要
+    　要　　　要る
+    　要　　　要
+0547　価　價　価格
+    　価　價　価
+0548　必　　　必然
+    　必　　　必死
+    　必　　　必要
+    　必　　　必ずしも
+0549　証　證　証明
+    　証　證　免許証
+    　証　證　証
+0550　歪　　　歪曲
+    　歪　　　歪む
+    　歪　　　歪める
+    　歪　　　歪む
+    　歪　　　歪
+0551　否　　　否定
+    　否　　　適否
+    　否　　　安否
+    　否　　　否めない
+0552　処　處　処置
+    　処　處　処女
+0553　拠　據　拠点
+    　拠　據　証拠
+0554　計　　　計算
+    　計　　　計画
+    　計　　　寒暖計
+    　計　　　計る
+    　計　　　計らい
+    　計　　　時計
+0555　針　　　針路
+    　針　　　運針
+    　針　　　針金
+0556　総　總　総合
+    　総　總　総意
+    　総　總　総括
+0557　窓　　　車窓
+    　窓　　　同窓
+    　窓　　　深窓
+    　窓　　　窓口
+0558　矢　　　一矢を報いる
+    　矢　　　矢印
+    　矢　　　矢面
+0559　知　　　知識
+    　知　　　知人
+    　知　　　通知
+    　知　　　物知り
+    　知　　　知らせる
+    　知　　　知れる
+0560　医　醫　医学
+    　医　醫　名医
+0561　短　　　短歌
+    　短　　　短所
+    　短　　　長短
+    　短　　　短い
+0562　失　　　失望
+    　失　　　失敗
+    　失　　　消失
+    　失　　　失う
+0563　鉄　鐵　鉄道
+    　鉄　鐵　鉄筋
+0564　夫　　　夫妻
+    　夫　　　農夫
+    　夫　　　凡夫
+    　夫　　　夫婦
+    　夫　　　工夫
+    　夫　　　夫
+0565　朱　　　朱肉
+    　朱　　　朱筆
+    　朱　　　朱塗り
+0566　株　　　株式
+0567　族　　　一族
+    　族　　　家族
+0568　旅　　　旅行
+    　旅　　　旅情
+    　旅　　　旅先
+0569　遊　　　遊戯
+    　遊　　　遊離
+    　遊　　　交遊
+    　遊　　　遊山
+    　遊　　　遊ぶ
+    　遊　　　遊ばす
+0570　施　　　施設
+    　施　　　施政
+    　施　　　実施
+    　施　　　施主
+    　施　　　施療
+    　施　　　布施
+    　施　　　施し
+0571　旋　　　旋回
+    　旋　　　旋律
+    　旋　　　周旋
+0572　旗　　　旗手
+    　旗　　　旗艦
+    　旗　　　国旗
+    　旗　　　旗色
+    　旗　　　手旗
+0573　放　　　放送
+    　放　　　手放す
+    　放　　　置きっ放し
+    　放　　　放つ
+    　放　　　放れる
+    　放　　　放る
+0574　激　　　激動
+    　激　　　感激
+    　激　　　激する
+    　激　　　激しい
+0575　牧　　　牧師
+    　牧　　　遊牧
+    　牧　　　牧場
+0576　位　　　第一位
+    　位　　　位取り
+    　位　　　位する
+    　位　　　三位一体
+    　位　　　従三位
+0577　泣　　　号泣
+    　泣　　　感泣
+    　泣　　　泣き沈む
+0578　笑　　　笑覧
+    　笑　　　談笑
+    　笑　　　大笑い
+    　笑　　　ほくそ笑む
+    　笑　　　笑み
+    　笑　　　笑顔
+0579　専　專　専門
+    　専　專　専属
+    　専　專　専用
+    　専　專　専ら
+0580　恵　惠　恵贈
+    　恵　惠　恵与
+    　恵　惠　恩恵
+    　恵　惠　恵方参り
+    　恵　惠　知恵
+    　恵　惠　恵み
+0581　連　　　連合
+    　連　　　連続
+    　連　　　関連
+    　連　　　連なる
+    　連　　　連ねる
+    　連　　　連れ
+0582　軍　　　軍隊
+    　軍　　　軍備
+    　軍　　　空軍
+0583　運　　　運動
+    　運　　　運命
+    　運　　　海運
+    　運　　　運ぶ
+0584　蓮　　　日蓮
+    　蓮　　　蓮の花
+    　蓮　　　蓮
+0585　隊　　　隊列
+    　隊　　　部隊
+0586　呈　　　呈上
+    　呈　　　進呈
+0587　程　　　程度
+    　程　　　日程
+    　程　　　過程
+    　程　　　程遠い
+    　程　　　身の程
+0588　聖　　　聖書
+    　聖　　　聖人
+0589　丑　　　丁丑
+    　丑　　　丑年
+0590　紐　　　紐帯
+    　紐　　　紐帯
+    　紐　　　紐を結ぶ
+0591　革　　　革新
+    　革　　　改革
+    　革　　　皮革
+    　革　　　革靴
+0592　靴　　　製靴
+    　靴　　　靴下
+0593　鞄　　　鞄
+    　鞄　　　鞄
+0594　皮　　　皮相
+    　皮　　　樹皮
+    　皮　　　毛皮
+0595　破　　　破壊
+    　破　　　破産
+    　破　　　破棄
+    　破　　　型破り
+    　破　　　破れる
+0596　彼　　　彼我
+    　彼　　　彼岸
+    　彼　　　彼ら
+    　彼　　　彼女
+0597　波　　　波浪
+    　波　　　波及
+    　波　　　電波
+    　波　　　波立つ
+    　波　　　波止場
+0598　果　　　果実
+    　果　　　果断
+    　果　　　結果
+    　果　　　果たして
+    　果　　　果てる
+    　果　　　果て
+    　果　　　果物
+0599　課　　　日課
+    　課　　　課する
+0600　巣　巢　営巣
+    　巣　巢　卵巣
+    　巣　巢　病巣
+    　巣　巢　巣箱
+    　巣　巢　巣立つ
+0601　菓　　　菓子
+    　菓　　　製菓
+0602　茶　　　茶色
+    　茶　　　茶番劇
+    　茶　　　番茶
+    　茶　　　茶菓
+    　茶　　　茶話会
+    　茶　　　喫茶
+0603　世　　　世紀
+    　世　　　時世
+    　世　　　処世
+    　世　　　世界
+    　世　　　出世
+    　世　　　世の中
+0604　葉　　　葉緑素
+    　葉　　　落葉
+    　葉　　　枯れ葉
+    　葉　　　落ち葉
+0605　棄　　　棄権
+    　棄　　　放棄
+    　棄　　　棄てる
+0606　緑　綠　緑茶
+    　緑　綠　緑陰
+    　緑　綠　新緑
+    　緑　綠　緑青
+    　緑　綠　薄緑
+0607　録　錄　録音
+    　録　錄　記録
+    　録　錄　実録
+0608　剥　剝　剥製
+    　剥　剝　剝奪
+    　剥　剝　剥げる
+    　剥　剝　剥がれる
+    　剥　剝　剥ぐ
+    　剥　剝　剥がす
+    　剥　剝　剥ける
+    　剥　剝　剥く
+0609　縁　緣　縁故
+    　縁　緣　縁日
+    　縁　緣　因縁
+    　縁　緣　縁取り
+    　縁　緣　縁取る
+    　縁　緣　縁
+    　縁　緣　縁
+    　縁　緣　縁
+    　縁　緣　縁
+0610　介　　　介入
+    　介　　　介する
+0611　界　　　限界
+0612　浮　　　浮沈
+    　浮　　　浮力
+    　浮　　　浮薄
+    　浮　　　浮世絵
+    　浮　　　浮かれる
+    　浮　　　浮かぶ
+    　浮　　　浮かべる
+    　浮　　　浮気
+    　浮　　　浮つく
+0613　将　將　将来
+    　将　將　将棋
+    　将　將　大将
+0614　奨　奬　奨励
+    　奨　奬　奨学金
+    　奨　奬　推奨
+0615　状　狀　状態
+    　状　狀　白状
+    　状　狀　免状
+0616　病　　　病気
+    　病　　　病根
+    　病　　　看病
+    　病　　　疾病
+    　病　　　病み付き
+    　病　　　病
+0617　症　　　症状
+    　症　　　炎症
+    　症　　　重症
+0618　痛　　　痛快
+    　痛　　　苦痛
+    　痛　　　心痛
+    　痛　　　痛い
+    　痛　　　痛ましい
+    　痛　　　痛ましい
+    　痛　　　痛める
+0619　憶　　　記憶
+    　憶　　　追憶
+0620　臆　　　臆説
+    　臆　　　臆測
+    　臆　　　臆病
+0621　億　　　億万
+    　億　　　一億
+0622　視　視　視覚
+    　視　視　視力
+    　視　視　注視
+0623　規　　　規則
+    　規　　　定規
+0624　則　　　法則
+    　則　　　鉄則
+    　則　　　変則
+0625　側　　　側面
+    　側　　　側近
+    　側　　　側壁
+    　側　　　側
+    　側　　　裏側
+    　側　　　片側
+    　側　　　側
+0626　測　　　測量
+    　測　　　目測
+    　測　　　推測
+    　測　　　測る
+0627　考　　　考慮
+    　考　　　思考
+    　考　　　参考
+    　考　　　考え方
+0628　老　　　老巧
+    　老　　　老人
+    　老　　　長老
+    　老　　　老い
+    　老　　　老け役
+0629　孝　　　孝行
+    　孝　　　孝心
+    　孝　　　不孝
+0630　厚　　　厚情
+    　厚　　　厚生
+    　厚　　　厚み
+0631　教　　　教育
+    　教　　　教える
+    　教　　　教わる
+0632　完　　　完全
+    　完　　　完成
+    　完　　　未完
+0633　院　　　院内
+    　院　　　議院
+    　院　　　病院
+0634　奈　　　奈落
+0635　宗　　　宗教
+    　宗　　　宗派
+    　宗　　　改宗
+    　宗　　　宗家
+    　宗　　　宗匠
+0636　祭　　　祭礼
+    　祭　　　文化祭
+    　祭　　　祭り上げる
+    　祭　　　秋祭り
+0637　際　　　際限
+    　際　　　交際
+    　際　　　この際
+    　際　　　際立つ
+    　際　　　窓際
+0638　察　　　察知
+    　察　　　考察
+0639　祈　祈　祈願
+    　祈　祈　祈念
+    　祈　祈　祈る
+0640　祖　祖　祖父
+    　祖　祖　祖述
+0641　助　　　助力
+    　助　　　助監督
+    　助　　　助ける
+    　助　　　大助かり
+    　助　　　助太刀
+0642　仲　　　仲介
+    　仲　　　仲裁
+    　仲　　　仲間
+    　仲　　　仲人
+0643　忠　　　忠実
+    　忠　　　忠勤
+    　忠　　　誠忠
+0644　沖　　　沖積層
+    　沖　　　沖天
+    　沖　　　沖する
+    　沖　　　沖
+0645　保　　　保護
+    　保　　　保存
+    　保　　　担保
+    　保　　　保つ
+0646　呆　　　阿呆
+    　呆　　　呆然
+    　呆　　　呆れる
+    　呆　　　呆ける
+0647　守　　　守備
+    　守　　　保守
+    　守　　　留守
+    　守　　　守る
+    　守　　　お守り
+    　守　　　子守
+    　守　　　灯台守
+0648　団　團　団結
+    　団　團　団地
+    　団　團　集団
+    　団　團　布団
+0649　対　對　対立
+    　対　對　絶対
+    　対　對　対句
+    　対　對　一対
+0650　村　　　村長
+    　村　　　村落
+    　村　　　農村
+    　村　　　村里
+    　村　　　村芝居
+0651　才　　　才能
+    　才　　　才覚
+0652　財　　　財産
+    　財　　　私財
+    　財　　　文化財
+    　財　　　財布
+0653　材　　　材木
+    　材　　　材料
+    　材　　　人材
+0654　沈　　　沈滞
+    　沈　　　沈黙
+    　沈　　　浮き沈み
+    　沈　　　沈める
+0655　枕　　　枕元
+0656　丈　　　丈六
+    　丈　　　丈夫な体
+    　丈　　　背丈
+0657　杖　　　錫杖
+    　杖　　　杖
+0658　偉　　　偉大
+    　偉　　　偉人
+    　偉　　　偉観
+    　偉　　　偉ぶる
+0659　緯　　　緯度
+    　緯　　　北緯
+    　緯　　　経緯
+0660　衛　衞　衛生
+    　衛　衞　守衛
+0661　韓　　　韓国
+0662　違　　　違反
+    　違　　　違法
+    　違　　　相違
+    　違　　　食い違い
+    　違　　　見違える
+    　違　　　間違える
+0663　抱　　　抱負
+    　抱　　　抱懐
+    　抱　　　介抱
+    　抱　　　抱く
+    　抱　　　抱く
+    　抱　　　一抱え
+0664　砲　　　砲撃
+    　砲　　　大砲
+    　砲　　　鉄砲
+0665　泡　　　気泡
+    　泡　　　水泡
+    　泡　　　発泡
+    　泡　　　泡立つ
+    　泡　　　泡
+0666　丹　　　丹念
+    　丹　　　丹精
+0667　舟　　　舟運
+    　舟　　　舟航
+    　舟　　　小舟
+    　舟　　　渡し舟
+    　舟　　　舟遊び
+    　舟　　　舟宿
+    　舟　　　舟歌
+0668　船　　　船舶
+    　船　　　乗船
+    　船　　　大船
+    　船　　　親船
+    　船　　　船旅
+    　船　　　船賃
+0669　舶　　　舶来
+0670　般　　　諸般
+    　般　　　先般
+0671　搬　　　搬入
+    　搬　　　搬出
+    　搬　　　運搬
+0672　盤　　　基盤
+    　盤　　　円盤
+0673　歯　齒　歯科
+    　歯　齒　乳歯
+    　歯　齒　義歯
+    　歯　齒　入れ歯
+0674　冷　　　冷却
+    　冷　　　冷淡
+    　冷　　　寒冷
+    　冷　　　冷たい
+    　冷　　　底冷え
+    　冷　　　冷や汗
+    　冷　　　冷ややか
+    　冷　　　冷やか
+    　冷　　　冷やす
+    　冷　　　冷やかし
+    　冷　　　冷める
+    　冷　　　湯冷まし
+0675　齢　齡　樹齢
+    　齢　齡　年齢
+    　齢　齡　妙齢
+0676　少　　　少年
+    　少　　　少ない
+    　少　　　少し
+0677　砂　　　砂丘
+    　砂　　　土砂
+    　砂　　　砂場
+    　砂　　　砂利
+0678　歩　步　歩道
+    　歩　步　進歩
+    　歩　步　歩合
+    　歩　步　日歩
+    　歩　步　歩
+    　歩　步　歩く
+    　歩　步　歩む
+0679　渉　涉　渉外
+    　渉　涉　交渉
+0680　省　　　反省
+    　省　　　内省
+    　省　　　帰省
+    　省　　　省略
+    　省　　　各省
+    　省　　　省みる
+    　省　　　省く
+0681　相　　　相当
+    　相　　　相談
+    　相　　　真相
+    　相　　　首相
+    　相　　　相手
+    　相　　　相宿
+0682　想　　　想像
+    　想　　　感想
+    　想　　　予想
+    　想　　　愛想
+    　想　　　想う
+0683　称　稱　称賛
+    　称　稱　名称
+    　称　稱　称する
+0684　弥　彌　弥勒
+    　弥　彌　弥生
+0685　互　　　互角
+    　互　　　互選
+    　互　　　相互
+    　互　　　互いに
+    　互　　　互い違い
+0686　務　　　事務
+    　務　　　義務
+    　務　　　務める
+    　務　　　務まる
+0687　柔　　　柔軟
+    　柔　　　柔道
+    　柔　　　懐柔
+    　柔　　　柔和
+    　柔　　　柔弱
+    　柔　　　柔らか
+    　柔　　　柔らかい
+0688　軟　　　軟化
+    　軟　　　軟弱
+    　軟　　　硬軟
+    　軟　　　軟らか
+    　軟　　　軟らかい
+0689　軌　　　軌道
+    　軌　　　広軌
+    　軌　　　常軌
+0690　軒　　　軒数
+    　軒　　　一軒
+    　軒　　　軒先
+0691　軸　　　車軸
+    　軸　　　地軸
+0692　較　　　比較
+0693　庫　　　文庫
+    　庫　　　庫裏
+0694　蔵　藏　蔵書
+    　蔵　藏　貯蔵
+    　蔵　藏　土蔵
+    　蔵　藏　酒蔵
+0695　倉　　　倉庫
+    　倉　　　穀倉
+    　倉　　　倉敷料
+0696　創　　　創造
+    　創　　　独創
+    　創　　　刀創
+    　創　　　創る
+0697　告　　　告示
+    　告　　　告白
+    　告　　　告げる
+0698　造　　　造船
+    　造　　　造花
+    　造　　　造る
+0699　衣　　　衣服
+    　衣　　　衣食住
+    　衣　　　作業衣
+    　衣　　　衣紋
+    　衣　　　羽衣
+    　衣　　　浴衣
+0700　依　　　依拠
+    　依　　　依然
+    　依　　　帰依
+0701　袋　　　風袋
+    　袋　　　郵袋
+    　袋　　　紙袋
+    　袋　　　足袋
+0702　褒　襃　褒章
+    　褒　襃　褒美
+    　褒　襃　過褒
+    　褒　襃　褒める
+0703　裏　　　裏面
+    　裏　　　表裏
+    　裏　　　裏口
+0704　表　　　表面
+    　表　　　代表
+    　表　　　発表
+    　表　　　表門
+    　表　　　裏表
+    　表　　　表す
+    　表　　　表れる
+0705　現　　　現象
+    　現　　　現在
+    　現　　　表現
+    　現　　　現れる
+    　現　　　現す
+0706　著　著　著名
+    　著　著　著作
+    　著　著　著す
+    　著　著　著しい
+0707　制　　　制度
+    　制　　　制限
+    　制　　　統制
+0708　製　　　製造
+    　製　　　製鉄
+    　製　　　鉄製
+0709　初　　　初期
+    　初　　　初心者
+    　初　　　最初
+    　初　　　初め
+    　初　　　初めて
+    　初　　　初の受賞
+    　初　　　初雪
+    　初　　　初耳
+    　初　　　初陣
+    　初　　　初々しい
+    　初　　　書き初め
+    　初　　　出初め式
+0710　裸　　　裸身
+    　裸　　　裸体
+    　裸　　　赤裸々
+    　裸　　　丸裸
+0711　難　難　難易
+    　難　難　許し難い
+    　難　難　有り難い
+    　難　難　難しい
+0712　准　　　准将
+    　准　　　批准
+0713　準　　　準備
+    　準　　　基準
+0714　備　　　備考
+    　備　　　備える
+    　備　　　備わる
+0715　死　　　死亡
+    　死　　　死角
+    　死　　　死に絶える
+0716　葬　　　葬儀
+    　葬　　　埋葬
+    　葬　　　会葬
+    　葬　　　葬る
+0717　列　　　歯列
+    　列　　　列車
+0718　烈　　　烈火
+    　烈　　　壮烈
+0719　裂　　　決裂
+    　裂　　　破裂
+    　裂　　　分裂
+    　裂　　　八つ裂き
+    　裂　　　裂け目
+0720　例　　　例外
+    　例　　　例年
+    　例　　　用例
+    　例　　　例え
+    　例　　　例えば
+0721　刑　　　刑罰
+    　刑　　　刑法
+    　刑　　　処刑
+0722　型　　　原型
+    　型　　　典型
+    　型　　　型紙
+    　型　　　血液型
+0723　研　硏　研究
+    　研　硏　研修
+    　研　硏　研ぐ
+0724　厄　　　厄年
+    　厄　　　災厄
+0725　危　　　危険
+    　危　　　危害
+    　危　　　安危
+    　危　　　危ながる
+    　危　　　危うく
+    　危　　　危ぶむ
+0726　範　　　範囲
+    　範　　　師範
+0727　怨　　　怨恨
+    　怨　　　怨念
+    　怨　　　怨む
+    　怨　　　怨めしい
+0728　苑　　　外苑
+    　苑　　　紫苑
+    　苑　　　苑
+0729　宛　　　宛先
+0730　碗　　　茶碗
+0731　腕　　　腕章
+    　腕　　　腕力
+    　腕　　　敏腕
+    　腕　　　腕前
+0732　却　　　却下
+    　却　　　売却
+0733　脚　　　脚部
+    　脚　　　脚本
+    　脚　　　三脚
+    　脚　　　脚立
+    　脚　　　脚
+    　脚　　　机の脚
+0734　犯　　　犯罪
+    　犯　　　共犯
+    　犯　　　侵犯
+    　犯　　　犯す
+0735　狂　　　狂気
+    　狂　　　狂言
+    　狂　　　熱狂
+    　狂　　　狂う
+    　狂　　　狂おしい
+    　狂　　　狂わす
+    　狂　　　狂わせる
+0736　獄　　　獄舎
+    　獄　　　地獄
+    　獄　　　疑獄
+0737　非　　　非難
+    　非　　　非常
+0738　排　　　排斥
+    　排　　　排気
+    　排　　　排除
+0739　俳　　　俳優
+    　俳　　　俳句
+    　俳　　　俳味
+0740　罪　　　罪状
+    　罪　　　謝罪
+    　罪　　　罪
+0741　罰　　　罰金
+    　罰　　　処罰
+    　罰　　　天罰
+    　罰　　　罰当たり
+0742　伴　　　同伴
+    　伴　　　随伴
+    　伴　　　伴奏
+    　伴　　　伴食
+    　伴　　　伴う
+0743　判　　　判定
+    　判　　　判明
+    　判　　　Ａ判
+    　判　　　大判
+0744　評　　　評価
+    　評　　　評判
+    　評　　　定評
+0745　批　　　批判
+    　批　　　批評
+0746　帥　　　統帥
+    　帥　　　元帥
+0747　師　　　教師
+    　師　　　医師
+    　師　　　師走
+0748　座　　　座席
+    　座　　　座談
+    　座　　　座り込み
+0749　坐　　　対坐
+    　坐　　　坐る
+0750　卒　　　卒業
+    　卒　　　卒中
+    　卒　　　兵卒
