@@ -1,1002 +1,1002 @@
 501; 企;; キ；くわだ.てる、たくら.む; undertake, scheme, design, attempt, plan
-企画; 企図; 企業; 企てる; 企み; 
+企画; 企図; 企業; 企てる; 企み
 502; 曲;; キョク；ま.がる、ま.げる、くま; bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean
-曲線; 曲面; 名曲; 曲がる; 曲げる; 
+曲線; 曲面; 名曲; 曲がる; 曲げる
 503; 典;; テン、デン; code, ceremony, law, rule
-典拠; 古典; 
+典拠; 古典
 504; 興;; コウ、キョウ；おこ.る、おこ.す; entertain, revive, retrieve, interest, pleasure
-興行; 復興; 興味; 興趣; 余興; 興る; 興す; 
+興行; 復興; 興味; 興趣; 余興; 興る; 興す
 505; 輿;; ヨ；かご、こし; palanquin, bier, public opinion, the earth
-輿論; 神輿; 
+輿論; 神輿
 506; 竜;龍; リュウ、リョウ、ロウ；たつ、いせ; dragon, imperial
-竜頭蛇尾; 竜巻; 
+竜頭蛇尾; 竜巻
 507; 滝;瀧; ロウ、ソウ；たき; waterfall, rapids, cascade
-滝つぼ; 
+滝つぼ
 508; 籠;; ロウ、ル；かご、こ.める、こも.る、こ.む; basket, devote oneself, seclude oneself, cage, coop, implied
-籠城; 籠; 籠める; 籠もる; 
+籠城; 籠; 籠める; 籠もる
 509; 辰;; シン、ジン；たつ; sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical (no. 161)
-星辰; 辰年; 
+星辰; 辰年
 510; 農;; ノウ; agriculture, farmers
-農業; 農具; 
+農業; 農具
 511; 濃;; ノウ；こ.い; concentrated, thick, dark, undiluted
-濃厚; 濃紺; 濃さ; 
+濃厚; 濃紺; 濃さ
 512; 豊;豐; ホウ、ブ；ゆた.か、とよ; bountiful, excellent, rich
-豊作; 豊満; 豊富; 豊か; 
+豊作; 豊満; 豊富; 豊か
 513; 吉;; キチ、キツ；よし; good luck, joy, congratulations
-吉日; 吉例; 大吉; 吉報; 不吉; 
+吉日; 吉例; 大吉; 吉報; 不吉
 514; 詰;; キツ、キチ；つ.める、つ.め、-づ.め、つ.まる、つ.む; packed, close, pressed, reprove, rebuke, blame
-詰問; 難詰; 面詰; 詰め物; 行き詰まる; 詰み; 
+詰問; 難詰; 面詰; 詰め物; 行き詰まる; 詰み
 515; 結;; ケツ、ケチ；むす.ぶ、ゆ.う、ゆ.わえる; tie, bind, contract, join, organize, do up hair, fasten
-結論; 連結; 結ぶ; 元結; 結わえる; 
+結論; 連結; 結ぶ; 元結; 結わえる
 516; 投;; トウ；な.げる、-な.げ; throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss
-投資; 投下; 暴投; 身投げ; 投網; 
+投資; 投下; 暴投; 身投げ; 投網
 517; 役;; ヤク、エキ; duty, war, campaign, drafted labor, office, service, role
-役所; 役目; 荷役; 役務; 兵役; 
+役所; 役目; 荷役; 役務; 兵役
 518; 没;; ボツ、モツ；おぼ.れる、しず.む、ない; drown, sink, hide, fall into, disappear, die
-没収; 没交渉; 出没; 
+没収; 没交渉; 出没
 519; 設;; セツ；もう.ける; establishment, provision, prepare
-設立; 設備; 建設; 設ける; 
+設立; 設備; 建設; 設ける
 520; 段;; ダン、タン; grade, steps, stairs
-段落; 手段; 
+段落; 手段
 521; 殺;殺; サツ、サイ、セツ；ころ.す、-ごろ.し、そ.ぐ; kill, murder, butcher, slice off, split, diminish, reduce, spoil
-殺人; 殺到; 相殺; 殺生; 人殺し; 見殺し; 
+殺人; 殺到; 相殺; 殺生; 人殺し; 見殺し
 522; 刹;; セチ、セツ、サツ; temple
-古刹; 名刹; 刹那; 
+古刹; 名刹; 刹那
 523; 刈;; ガイ、カイ；か.る; reap, cut, clip, trim, prune
-刈り入れ; 
+刈り入れ
 524; 絵;繪; カイ、エ; picture, drawing, painting, sketch
-絵画; 絵本; 絵図; 
+絵画; 絵本; 絵図
 525; 給;; キュウ；たま.う、たも.う、-たま.え; salary, wage, gift, allow, grant, bestow on
-給水; 配給; 月給; 
+給水; 配給; 月給
 526; 巴;; ハ；ともえ、うずまき; comma-design
-巴奈馬; 巴; 
+巴奈馬; 巴
 527; 色;; ショク、シキ；いろ; color
-原色; 特色; 物色; 色彩; 色調; 色欲; 色づく; 
+原色; 特色; 物色; 色彩; 色調; 色欲; 色づく
 528; 声;聲; セイ、ショウ；こえ、こわ-; voice
-声楽; 声援; 名声; 大音声; 歌声; 声色; 
+声楽; 声援; 名声; 大音声; 歌声; 声色
 529; 眉;; ビ、ミ；まゆ; eyebrow
-眉目; 焦眉; 眉間; 眉毛; 
+眉目; 焦眉; 眉間; 眉毛
 530; 里;; リ；さと; ri, village, parent's home, league
-里程; 千里眼; 里心; 
+里程; 千里眼; 里心
 531; 理;; リ；ことわり; logic, arrangement, reason, justice, truth
-理科; 理由; 
+理科; 理由
 532; 埋;; マイ；う.める、う.まる、う.もれる、うず.める、うず.まる、い.ける; bury, be filled up, embedded
-埋没; 埋蔵; 埋め立て; 穴埋め; 埋まる; 埋もれ木; 
+埋没; 埋蔵; 埋め立て; 穴埋め; 埋まる; 埋もれ木
 533; 野;; ヤ、ショ；の、の-; plains, field, rustic, civilian life
-野外; 野性; 分野; 野原; 野放し; 
+野外; 野性; 分野; 野原; 野放し
 534; 黒;黑; コク；くろ、くろ.ずむ、くろ.い; black
-暗黒; 真っ黒; 腹黒い; 
+暗黒; 真っ黒; 腹黒い
 535; 墨;墨; ボク；すみ; black ink, India ink, ink stick, Mexico
-筆墨; 白墨; 遺墨; 墨絵; 眉墨; 
+筆墨; 白墨; 遺墨; 墨絵; 眉墨
 536; 童;; ドウ；わらべ; juvenile, child
-童話; 童心; 童歌; 
+童話; 童心; 童歌
 537; 量;; リョウ；はか.る; quantity, measure, weight, amount, consider, estimate, surmise
-量産; 度量; 量る; 
+量産; 度量; 量る
 538; 重;; ジュウ、チョウ；え、おも.い、おも.り、おも.なう、かさ.ねる、かさ.なる、おも; heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold
-重量; 重大; 二重; 重畳; 一重; 重たい; 重り; 重ね着; 重なる; 十重二十重; 
+重量; 重大; 二重; 重畳; 一重; 重たい; 重り; 重ね着; 重なる; 十重二十重
 539; 動;; ドウ；うご.く、うご.かす; move, motion, change, confusion, shift, shake
-動物; 動く; 動かす; 
+動物; 動く; 動かす
 540; 働;; ドウ；はたら.く; work, (kokuji)
-実働; 働く; 
+実働; 働く
 541; 労;勞; ロウ；ろう.する、いたわ.る、いた.ずき、ねぎら、つか.れる、ねぎら.う; labor, thank for, reward for, toil, trouble
-労働; 労力; 
+労働; 労力
 542; 協;; キョウ; co-, cooperation
-協力; 協会; 
+協力; 協会
 543; 種;; シュ；たね、-ぐさ; species, kind, class, variety, seed
-種類; 人種; 品種; 菜種; 一粒種; 
+種類; 人種; 品種; 菜種; 一粒種
 544; 亜;亞; ア；つ.ぐ; Asia, rank next, come after, -ous
-亜流; 亜麻; 亜熱帯; 
+亜流; 亜麻; 亜熱帯
 545; 悪;惡; アク、オ；わる.い、わる-、あ.し、にく.い、-にく.い、ああ、いずくに、いずくんぞ、にく.む; bad, vice, rascal, false, evil, wrong
-悪事; 悪意; 悪寒; 好悪; 悪者; 悪し; 
+悪事; 悪意; 悪寒; 好悪; 悪者; 悪し
 546; 要;; ヨウ；い.る、かなめ; need, main point, essence, pivot, key to
-要点; 要注意; 重要; 要る; 要; 
+要点; 要注意; 重要; 要る; 要
 547; 価;價; カ、ケ；あたい; value, price
-価格; 価; 
+価格; 価
 548; 必;; ヒツ；かなら.ず; invariably, certain, inevitable
-必然; 必死; 必要; 必ずしも; 
+必然; 必死; 必要; 必ずしも
 549; 証;證; ショウ；あかし; evidence, proof, certificate
-証明; 免許証; 証; 
+証明; 免許証; 証
 550; 歪;; ワイ、エ；いが.む、いびつ、ひず.む、ゆが.む; warp, bend, strained, distort
-歪曲; 歪む; 歪める; 歪む; 歪; 
+歪曲; 歪む; 歪める; 歪む; 歪
 551; 否;; ヒ；いな、いや; negate, no, noes, refuse, decline, deny
-否定; 適否; 安否; 否めない; 
+否定; 適否; 安否; 否めない
 552; 処;處; ショ；ところ、-こ、お.る; dispose, manage, deal with, sentence, condemn, act, behave, place
-処置; 処女; 
+処置; 処女
 553; 拠;據; キョ、コ；よ.る; foothold, based on, follow, therefore
-拠点; 証拠; 
+拠点; 証拠
 554; 計;; ケイ；はか.る、はか.らう; plot, plan, scheme, measure
-計算; 計画; 寒暖計; 計る; 計らい; 時計; 
+計算; 計画; 寒暖計; 計る; 計らい; 時計
 555; 針;; シン；はり; needle, pin, staple, stinger
-針路; 運針; 針金; 
+針路; 運針; 針金
 556; 総;總; ソウ；す.べて、すべ.て、ふさ; general, whole, all, full, total
-総合; 総意; 総括; 
+総合; 総意; 総括
 557; 窓;; ソウ、ス；まど、てんまど、けむだし; window, pane
-車窓; 同窓; 深窓; 窓口; 
+車窓; 同窓; 深窓; 窓口
 558; 矢;; シ；や; dart, arrow
-一矢を報いる; 矢印; 矢面; 
+一矢を報いる; 矢印; 矢面
 559; 知;; チ；し.る、し.らせる; know, wisdom
-知識; 知人; 通知; 物知り; 知らせる; 知れる; 
+知識; 知人; 通知; 物知り; 知らせる; 知れる
 560; 医;醫; イ；い.やす、い.する、くすし; doctor, medicine
-医学; 名医; 
+医学; 名医
 561; 短;; タン；みじか.い; short, brevity, fault, defect, weak point
-短歌; 短所; 長短; 短い; 
+短歌; 短所; 長短; 短い
 562; 失;; シツ；うしな.う、う.せる; lose, error, fault, disadvantage, loss
-失望; 失敗; 消失; 失う; 
+失望; 失敗; 消失; 失う
 563; 鉄;鐵; テツ；くろがね; iron
-鉄道; 鉄筋; 
+鉄道; 鉄筋
 564; 夫;; フ、フウ、ブ；おっと、それ; husband, man
-夫妻; 農夫; 凡夫; 夫婦; 工夫; 夫; 
+夫妻; 農夫; 凡夫; 夫婦; 工夫; 夫
 565; 朱;; シュ；あけ; vermilion, cinnabar, scarlet, red, bloody
-朱肉; 朱筆; 朱塗り; 
+朱肉; 朱筆; 朱塗り
 566; 株;; シュ；かぶ; stocks, stump, shares, stock, counter for small plants
-株式; 
+株式
 567; 族;; ゾク; tribe, family
-一族; 家族; 
+一族; 家族
 568; 旅;; リョ；たび; trip, travel
-旅行; 旅情; 旅先; 
+旅行; 旅情; 旅先
 569; 遊;; ユウ、ユ；あそ.ぶ、あそ.ばす; play
-遊戯; 遊離; 交遊; 遊山; 遊ぶ; 遊ばす; 
+遊戯; 遊離; 交遊; 遊山; 遊ぶ; 遊ばす
 570; 施;; シ、セ；ほどこ.す; give, bestow, perform, alms
-施設; 施政; 実施; 施主; 施療; 布施; 施し; 
+施設; 施政; 実施; 施主; 施療; 布施; 施し
 571; 旋;; セン；め.ぐる、いばり; rotation, go around
-旋回; 旋律; 周旋; 
+旋回; 旋律; 周旋
 572; 旗;; キ；はた; national flag, banner, standard
-旗手; 旗艦; 国旗; 旗色; 手旗; 
+旗手; 旗艦; 国旗; 旗色; 手旗
 573; 放;; ホウ；はな.す、-っぱな.し、はな.つ、はな.れる、こ.く、ほう.る; set free, release, fire, shoot, emit, banish, liberate
-放送; 手放す; 置きっ放し; 放つ; 放れる; 放る; 
+放送; 手放す; 置きっ放し; 放つ; 放れる; 放る
 574; 激;; ゲキ；はげ.しい; violent, get excited, enraged, chafe, incite
-激動; 感激; 激する; 激しい; 
+激動; 感激; 激する; 激しい
 575; 牧;; ボク；まき; breed, care for, shepherd, feed, pasture
-牧師; 遊牧; 牧場; 
+牧師; 遊牧; 牧場
 576; 位;; イ；くらい、ぐらい; rank, grade, throne, crown, about, some
-第一位; 位取り; 位する; 三位一体; 従三位; 
+第一位; 位取り; 位する; 三位一体; 従三位
 577; 泣;; キュウ；な.く; cry, weep, moan
-号泣; 感泣; 泣き沈む; 
+号泣; 感泣; 泣き沈む
 578; 笑;; ショウ；わら.う、え.む; laugh
-笑覧; 談笑; 大笑い; ほくそ笑む; 笑み; 笑顔; 
+笑覧; 談笑; 大笑い; ほくそ笑む; 笑み; 笑顔
 579; 専;專; セン；もっぱ.ら; specialty, exclusive, mainly, solely
-専門; 専属; 専用; 専ら; 
+専門; 専属; 専用; 専ら
 580; 恵;惠; ケイ、エ；めぐ.む、めぐ.み; favor, blessing, grace, kindness
-恵贈; 恵与; 恩恵; 恵方参り; 知恵; 恵み; 
+恵贈; 恵与; 恩恵; 恵方参り; 知恵; 恵み
 581; 連;; レン；つら.なる、つら.ねる、つ.れる、-づ.れ; take along, lead, join, connect, party, gang, clique
-連合; 連続; 関連; 連なる; 連ねる; 連れ; 
+連合; 連続; 関連; 連なる; 連ねる; 連れ
 582; 軍;; グン；いくさ; army, force, troops, war, battle
-軍隊; 軍備; 空軍; 
+軍隊; 軍備; 空軍
 583; 運;; ウン；はこ.ぶ; carry, luck, destiny, fate, lot, transport, progress, advance
-運動; 運命; 海運; 運ぶ; 
+運動; 運命; 海運; 運ぶ
 584; 蓮;; レン；はす、はちす; lotus
-日蓮; 蓮の花; 蓮; 
+日蓮; 蓮の花; 蓮
 585; 隊;; タイ; regiment, party, company, squad
-隊列; 部隊; 
+隊列; 部隊
 586; 呈;; テイ; display, offer, present, send, exhibit
-呈上; 進呈; 
+呈上; 進呈
 587; 程;; テイ；ほど、-ほど; extent, degree, law, formula, distance, limits, amount
-程度; 日程; 過程; 程遠い; 身の程; 
+程度; 日程; 過程; 程遠い; 身の程
 588; 聖;; セイ、ショウ；ひじり; holy, saint, sage, master, priest
-聖書; 聖人; 
+聖書; 聖人
 589; 丑;; チュウ；うし; sign of the ox or cow, 1-3AM, second sign of Chinese zodiac
-丁丑; 丑年; 
+丁丑; 丑年
 590; 紐;; チュウ、ジュウ；ひも; string, cord, braid, lace, tape, strap, ribbon
-紐帯; 紐帯; 紐を結ぶ; 
+紐帯; 紐帯; 紐を結ぶ
 591; 革;; カク；かわ; leather, skin, reform, become serious
-革新; 改革; 皮革; 革靴; 
+革新; 改革; 皮革; 革靴
 592; 靴;; カ；くつ; shoes
-製靴; 靴下; 
+製靴; 靴下
 593; 鞄;; ハク、ホウ、ビョウ；かばん; suitcase, bag, briefcase
-鞄; 鞄; 
+鞄; 鞄
 594; 皮;; ヒ；かわ; pelt, skin, hide, leather, skin radical (no. 107)
-皮相; 樹皮; 毛皮; 
+皮相; 樹皮; 毛皮
 595; 破;; ハ；やぶ.る、やぶ.れる、わ.れる; rend, rip, tear, break, destroy, defeat, frustrate
-破壊; 破産; 破棄; 型破り; 破れる; 
+破壊; 破産; 破棄; 型破り; 破れる
 596; 彼;; ヒ；かれ、かの、か.の; he, that, the
-彼我; 彼岸; 彼ら; 彼女; 
+彼我; 彼岸; 彼ら; 彼女
 597; 波;; ハ；なみ; waves, billows, Poland
-波浪; 波及; 電波; 波立つ; 波止場; 
+波浪; 波及; 電波; 波立つ; 波止場
 598; 果;; カ；は.たす、はた.す、-は.たす、は.てる、-は.てる、は.て; fruit, reward, carry out, achieve, complete, end, finish, succeed
-果実; 果断; 結果; 果たして; 果てる; 果て; 果物; 
+果実; 果断; 結果; 果たして; 果てる; 果て; 果物
 599; 課;; カ; chapter, lesson, section, department, division, counter for chapters (of a book)
-日課; 課する; 
+日課; 課する
 600; 巣;巢; ソウ；す、す.くう; nest, rookery, hive, cobweb, den
-営巣; 卵巣; 病巣; 巣箱; 巣立つ; 
+営巣; 卵巣; 病巣; 巣箱; 巣立つ
 601; 菓;; カ; candy, cakes, fruit
-菓子; 製菓; 
+菓子; 製菓
 602; 茶;; チャ、サ; tea
-茶色; 茶番劇; 番茶; 茶菓; 茶話会; 喫茶; 
+茶色; 茶番劇; 番茶; 茶菓; 茶話会; 喫茶
 603; 世;; セイ、セ、ソウ；よ; generation, world, society, public
-世紀; 時世; 処世; 世界; 出世; 世の中; 
+世紀; 時世; 処世; 世界; 出世; 世の中
 604; 葉;; ヨウ；は; leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece
-葉緑素; 落葉; 枯れ葉; 落ち葉; 
+葉緑素; 落葉; 枯れ葉; 落ち葉
 605; 棄;; キ；す.てる; abandon, throw away, discard, resign, reject, sacrifice
-棄権; 放棄; 棄てる; 
+棄権; 放棄; 棄てる
 606; 緑;綠; リョク、ロク；みどり; green
-緑茶; 緑陰; 新緑; 緑青; 薄緑; 
+緑茶; 緑陰; 新緑; 緑青; 薄緑
 607; 録;錄; ロク；しる.す、と.る; record
-録音; 記録; 実録; 
+録音; 記録; 実録
 608; 剥;剝; ハク、ホク；へ.ぐ、へず.る、む.く、む.ける、は.がれる、は.ぐ、は.げる、は.がす; come off, peel, fade, discolor
-剥製; 剝奪; 剥げる; 剥がれる; 剥ぐ; 剥がす; 剥ける; 剥く; 
+剥製; 剝奪; 剥げる; 剥がれる; 剥ぐ; 剥がす; 剥ける; 剥く
 609; 縁;緣; エン、-ネン；ふち、ふちど.る、ゆかり、よすが、へり、えにし; affinity, relation, connection, edge, border, verge, brink
-縁故; 縁日; 因縁; 縁取り; 縁取る; 縁; 縁; 縁; 縁; 
+縁故; 縁日; 因縁; 縁取り; 縁取る; 縁; 縁; 縁; 縁
 610; 介;; カイ; jammed in, shellfish, mediate, concern oneself with
-介入; 介する; 
+介入; 介する
 611; 界;; カイ; world, boundary
-限界; 
+限界
 612; 浮;; フ；う.く、う.かれる、う.かぶ、う.かべる; floating, float, rise to surface
-浮沈; 浮力; 浮薄; 浮世絵; 浮かれる; 浮かぶ; 浮かべる; 浮気; 浮つく; 
+浮沈; 浮力; 浮薄; 浮世絵; 浮かれる; 浮かぶ; 浮かべる; 浮気; 浮つく
 613; 将;將; ショウ、ソウ；まさ.に、はた、まさ、ひきい.る、もって; leader, commander, general, admiral, or, and again, soon, from now on, just about
-将来; 将棋; 大将; 
+将来; 将棋; 大将
 614; 奨;奬; ショウ、ソウ；すす.める; exhort, urge, encourage
-奨励; 奨学金; 推奨; 
+奨励; 奨学金; 推奨
 615; 状;狀; ジョウ; status quo, conditions, circumstances, form, appearance
-状態; 白状; 免状; 
+状態; 白状; 免状
 616; 病;; ビョウ、ヘイ；や.む、-や.み、やまい; ill, sick
-病気; 病根; 看病; 疾病; 病み付き; 病; 
+病気; 病根; 看病; 疾病; 病み付き; 病
 617; 症;; ショウ; symptoms, illness
-症状; 炎症; 重症; 
+症状; 炎症; 重症
 618; 痛;; ツウ；いた.い、いた.む、いた.ましい、いた.める; pain, hurt, damage, bruise
-痛快; 苦痛; 心痛; 痛い; 痛ましい; 痛ましい; 痛める; 
+痛快; 苦痛; 心痛; 痛い; 痛ましい; 痛ましい; 痛める
 619; 憶;; オク; recollection, think, remember
-記憶; 追憶; 
+記憶; 追憶
 620; 臆;; オク、ヨク；むね、おくする; timidity, heart, mind, fear, cowardly
-臆説; 臆測; 臆病; 
+臆説; 臆測; 臆病
 621; 億;; オク; hundred million, 10**8
-億万; 一億; 
+億万; 一億
 622; 視;視; シ；み.る; inspection, regard as, see, look at
-視覚; 視力; 注視; 
+視覚; 視力; 注視
 623; 規;; キ; standard, measure
-規則; 定規; 
+規則; 定規
 624; 則;; ソク；のっと.る; rule, follow, based on, model after
-法則; 鉄則; 変則; 
+法則; 鉄則; 変則
 625; 側;; ソク；かわ、がわ、そば; side, lean, oppose, regret
-側面; 側近; 側壁; 側; 裏側; 片側; 側; 
+側面; 側近; 側壁; 側; 裏側; 片側; 側
 626; 測;; ソク；はか.る; fathom, plan, scheme, measure
-測量; 目測; 推測; 測る; 
+測量; 目測; 推測; 測る
 627; 考;; コウ；かんが.える、かんが.え; consider, think over
-考慮; 思考; 参考; 考え方; 
+考慮; 思考; 参考; 考え方
 628; 老;; ロウ；お.いる、ふ.ける; old man, old age, grow old
-老巧; 老人; 長老; 老い; 老け役; 
+老巧; 老人; 長老; 老い; 老け役
 629; 孝;; コウ、キョウ; filial piety, child's respect
-孝行; 孝心; 不孝; 
+孝行; 孝心; 不孝
 630; 厚;; コウ；あつ.い、あか; thick, heavy, rich, kind, cordial, brazen, shameless
-厚情; 厚生; 厚み; 
+厚情; 厚生; 厚み
 631; 教;; キョウ；おし.える、おそ.わる; teach, faith, doctrine
-教育; 教える; 教わる; 
+教育; 教える; 教わる
 632; 完;; カン; perfect, completion, end
-完全; 完成; 未完; 
+完全; 完成; 未完
 633; 院;; イン; Inst., institution, temple, mansion, school
-院内; 議院; 病院; 
+院内; 議院; 病院
 634; 奈;; ナ、ナイ、ダイ；いかん、からなし; Nara, what?
-奈落; 
+奈落
 635; 宗;; シュウ、ソウ；むね; religion, sect, denomination, main point, origin, essence
-宗教; 宗派; 改宗; 宗家; 宗匠; 
+宗教; 宗派; 改宗; 宗家; 宗匠
 636; 祭;; サイ；まつ.る、まつ.り、まつり; ritual, offer prayers, celebrate, deify, enshrine, worship
-祭礼; 文化祭; 祭り上げる; 秋祭り; 
+祭礼; 文化祭; 祭り上げる; 秋祭り
 637; 際;; サイ；きわ、-ぎわ; occasion, side, edge, verge, dangerous, adventurous, indecent, time, when
-際限; 交際; この際; 際立つ; 窓際; 
+際限; 交際; この際; 際立つ; 窓際
 638; 察;; サツ; guess, presume, surmise, judge, understand
-察知; 考察; 
+察知; 考察
 639; 祈;祈; キ；いの.る; pray, wish
-祈願; 祈念; 祈る; 
+祈願; 祈念; 祈る
 640; 祖;祖; ソ; ancestor, pioneer, founder
-祖父; 祖述; 
+祖父; 祖述
 641; 助;; ジョ；たす.ける、たす.かる、す.ける、すけ; help, rescue, assist
-助力; 助監督; 助ける; 大助かり; 助太刀; 
+助力; 助監督; 助ける; 大助かり; 助太刀
 642; 仲;; チュウ；なか; go-between, relationship
-仲介; 仲裁; 仲間; 仲人; 
+仲介; 仲裁; 仲間; 仲人
 643; 忠;; チュウ; loyalty, fidelity, faithfulness
-忠実; 忠勤; 誠忠; 
+忠実; 忠勤; 誠忠
 644; 沖;; チュウ；おき、おきつ、ちゅう.する、わく; open sea, offing, rise high into sky
-沖積層; 沖天; 沖する; 沖; 
+沖積層; 沖天; 沖する; 沖
 645; 保;; ホ、ホウ；たも.つ; protect, guarantee, keep, preserve, sustain, support
-保護; 保存; 担保; 保つ; 
+保護; 保存; 担保; 保つ
 646; 呆;; ホウ；ほけ.る、ぼ.ける、あき.れる、おろか; be amazed, disgusted, shocked
-阿呆; 呆然; 呆れる; 呆ける; 
+阿呆; 呆然; 呆れる; 呆ける
 647; 守;; シュ、ス；まも.る、まも.り、もり、-もり、かみ; guard, protect, defend, obey
-守備; 保守; 留守; 守る; お守り; 子守; 灯台守; 
+守備; 保守; 留守; 守る; お守り; 子守; 灯台守
 648; 団;團; ダン、トン；かたまり、まる.い; group, association
-団結; 団地; 集団; 布団; 
+団結; 団地; 集団; 布団
 649; 対;對; タイ、ツイ；あいて、こた.える、そろ.い、つれあ.い、なら.ぶ、むか.う; vis-a-vis, opposite, even, equal, versus, anti-, compare
-対立; 絶対; 対句; 一対; 
+対立; 絶対; 対句; 一対
 650; 村;; ソン；むら; village, town
-村長; 村落; 農村; 村里; 村芝居; 
+村長; 村落; 農村; 村里; 村芝居
 651; 才;; サイ; genius, years old, cubic shaku
-才能; 才覚; 
+才能; 才覚
 652; 財;; ザイ、サイ、ゾク；たから; property, money, wealth, assets
-財産; 私財; 文化財; 財布; 
+財産; 私財; 文化財; 財布
 653; 材;; ザイ; lumber, log, timber, wood, materials, ingredients, talent
-材木; 材料; 人材; 
+材木; 材料; 人材
 654; 沈;; チン、ジン；しず.む、しず.める; sink, be submerged, subside, be depressed, aloes
-沈滞; 沈黙; 浮き沈み; 沈める; 
+沈滞; 沈黙; 浮き沈み; 沈める
 655; 枕;; チン、シン；まくら; pillow
-枕元; 
+枕元
 656; 丈;; ジョウ；たけ、だけ; length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely
-丈六; 丈夫な体; 背丈; 
+丈六; 丈夫な体; 背丈
 657; 杖;; ジョウ；つえ; staff, cane
-錫杖; 杖; 
+錫杖; 杖
 658; 偉;; イ；えら.い; admirable, greatness, remarkable, conceited, famous, excellent
-偉大; 偉人; 偉観; 偉ぶる; 
+偉大; 偉人; 偉観; 偉ぶる
 659; 緯;; イ；よこいと、ぬき; horizontal, woof, left and right, (parallels of) latitude, prediction
-緯度; 北緯; 経緯; 
+緯度; 北緯; 経緯
 660; 衛;衞; エイ、エ; defense, protection
-衛生; 守衛; 
+衛生; 守衛
 661; 韓;; カン；から、いげた; Korea
-韓国; 
+韓国
 662; 違;; イ；ちが.う、ちが.い、ちが.える、-ちが.える、たが.う、たが.える; difference, differ
-違反; 違法; 相違; 食い違い; 見違える; 間違える; 
+違反; 違法; 相違; 食い違い; 見違える; 間違える
 663; 抱;; ホウ；だ.く、いだ.く、かか.える; embrace, hug, hold in arms
-抱負; 抱懐; 介抱; 抱く; 抱く; 一抱え; 
+抱負; 抱懐; 介抱; 抱く; 抱く; 一抱え
 664; 砲;; ホウ; cannon, gun
-砲撃; 大砲; 鉄砲; 
+砲撃; 大砲; 鉄砲
 665; 泡;; ホウ；あわ; bubbles, foam, suds, froth
-気泡; 水泡; 発泡; 泡立つ; 泡; 
+気泡; 水泡; 発泡; 泡立つ; 泡
 666; 丹;; タン；に; rust-colored, red, red lead, pills, sincerity
-丹念; 丹精; 
+丹念; 丹精
 667; 舟;; シュウ；ふね、ふな-、-ぶね; boat, ship
-舟運; 舟航; 小舟; 渡し舟; 舟遊び; 舟宿; 舟歌; 
+舟運; 舟航; 小舟; 渡し舟; 舟遊び; 舟宿; 舟歌
 668; 船;; セン；ふね、ふな-; ship, boat
-船舶; 乗船; 大船; 親船; 船旅; 船賃; 
+船舶; 乗船; 大船; 親船; 船旅; 船賃
 669; 舶;; ハク; liner, ship
-舶来; 
+舶来
 670; 般;; ハン; carrier, carry, all, general, sort, kind
-諸般; 先般; 
+諸般; 先般
 671; 搬;; ハン; conveyor, carry, transport
-搬入; 搬出; 運搬; 
+搬入; 搬出; 運搬
 672; 盤;; バン; tray, shallow bowl, platter, tub, board, phonograph record
-基盤; 円盤; 
+基盤; 円盤
 673; 歯;齒; シ；よわい、は、よわ.い、よわい.する; tooth, cog
-歯科; 乳歯; 義歯; 入れ歯; 
+歯科; 乳歯; 義歯; 入れ歯
 674; 冷;; レイ；つめ.たい、ひ.える、ひ.や、ひ.ややか、ひ.やす、ひ.やかす、さ.める、さ.ます; cool, cold (beer,  person), chill
-冷却; 冷淡; 寒冷; 冷たい; 底冷え; 冷や汗; 冷ややか; 冷やか; 冷やす; 冷やかし; 冷める; 湯冷まし; 
+冷却; 冷淡; 寒冷; 冷たい; 底冷え; 冷や汗; 冷ややか; 冷やか; 冷やす; 冷やかし; 冷める; 湯冷まし
 675; 齢;齡; レイ；よわい、とし; age
-樹齢; 年齢; 妙齢; 
+樹齢; 年齢; 妙齢
 676; 少;; ショウ；すく.ない、すこ.し; few, little
-少年; 少ない; 少し; 
+少年; 少ない; 少し
 677; 砂;; サ、シャ；すな; sand
-砂丘; 土砂; 砂場; 砂利; 
+砂丘; 土砂; 砂場; 砂利
 678; 歩;步; ホ、ブ、フ；ある.く、あゆ.む; walk, counter for steps
-歩道; 進歩; 歩合; 日歩; 歩; 歩く; 歩む; 
+歩道; 進歩; 歩合; 日歩; 歩; 歩く; 歩む
 679; 渉;涉; ショウ；わた.る; ford, go cross, transit, ferry, import, involve
-渉外; 交渉; 
+渉外; 交渉
 680; 省;; セイ、ショウ；かえり.みる、はぶ.く; focus, government ministry, conserve
-反省; 内省; 帰省; 省略; 各省; 省みる; 省く; 
+反省; 内省; 帰省; 省略; 各省; 省みる; 省く
 681; 相;; ソウ、ショウ；あい-; inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy
-相当; 相談; 真相; 首相; 相手; 相宿; 
+相当; 相談; 真相; 首相; 相手; 相宿
 682; 想;; ソウ、ソ；おも.う; concept, think, idea, thought
-想像; 感想; 予想; 愛想; 想う; 
+想像; 感想; 予想; 愛想; 想う
 683; 称;稱; ショウ；たた.える、とな.える、あ.げる、かな.う、はか.り、はか.る、ほめ.る; appellation, praise, admire, name, title, fame
-称賛; 名称; 称する; 
+称賛; 名称; 称する
 684; 弥;彌; ミ、ビ；や、いや、いよ.いよ、わた.る; all the more, increasingly
-弥勒; 弥生; 
+弥勒; 弥生
 685; 互;; ゴ；たが.い、かたみ.に; mutually, reciprocally, together
-互角; 互選; 相互; 互いに; 互い違い; 
+互角; 互選; 相互; 互いに; 互い違い
 686; 務;; ム；つと.める; task, duties
-事務; 義務; 務める; 務まる; 
+事務; 義務; 務める; 務まる
 687; 柔;; ジュウ、ニュウ；やわ.らか、やわ.らかい、やわ、やわ.ら; tender, weakness, gentleness, softness
-柔軟; 柔道; 懐柔; 柔和; 柔弱; 柔らか; 柔らかい; 
+柔軟; 柔道; 懐柔; 柔和; 柔弱; 柔らか; 柔らかい
 688; 軟;; ナン；やわ.らか、やわ.らかい; soft
-軟化; 軟弱; 硬軟; 軟らか; 軟らかい; 
+軟化; 軟弱; 硬軟; 軟らか; 軟らかい
 689; 軌;; キ; rut, wheel, track, model, way of doing
-軌道; 広軌; 常軌; 
+軌道; 広軌; 常軌
 690; 軒;; ケン；のき; flats, counter for houses, eaves
-軒数; 一軒; 軒先; 
+軒数; 一軒; 軒先
 691; 軸;; ジク; axis, pivot, stem, stalk, counter for book scrolls
-車軸; 地軸; 
+車軸; 地軸
 692; 較;; カク、コウ；くら.べる; contrast, compare
-比較; 
+比較
 693; 庫;; コ、ク；くら; warehouse, storehouse
-文庫; 庫裏; 
+文庫; 庫裏
 694; 蔵;藏; ゾウ、ソウ；くら、おさ.める、かく.れる; storehouse, hide, own, have, possess
-蔵書; 貯蔵; 土蔵; 酒蔵; 
+蔵書; 貯蔵; 土蔵; 酒蔵
 695; 倉;; ソウ；くら; godown, warehouse, storehouse, cellar, treasury
-倉庫; 穀倉; 倉敷料; 
+倉庫; 穀倉; 倉敷料
 696; 創;; ソウ、ショウ；つく.る、はじ.める、きず、けず.しける; genesis, wound, injury, hurt, start, originate
-創造; 独創; 刀創; 創る; 
+創造; 独創; 刀創; 創る
 697; 告;; コク；つ.げる; revelation, tell, inform, announce
-告示; 告白; 告げる; 
+告示; 告白; 告げる
 698; 造;; ゾウ；つく.る、つく.り、-づく.り; create, make, structure, physique
-造船; 造花; 造る; 
+造船; 造花; 造る
 699; 衣;; イ、エ；ころも、きぬ、-ぎ; garment, clothes, dressing
-衣服; 衣食住; 作業衣; 衣紋; 羽衣; 浴衣; 
+衣服; 衣食住; 作業衣; 衣紋; 羽衣; 浴衣
 700; 依;; イ、エ；よ.る; reliant, depend on, consequently, therefore, due to
-依拠; 依然; 帰依; 
+依拠; 依然; 帰依
 701; 袋;; タイ、ダイ；ふくろ; sack, bag, pouch
-風袋; 郵袋; 紙袋; 足袋; 
+風袋; 郵袋; 紙袋; 足袋
 702; 褒;襃; ホウ；ほ.める; praise, extol
-褒章; 褒美; 過褒; 褒める; 
+褒章; 褒美; 過褒; 褒める
 703; 裏;; リ；うら; back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side
-裏面; 表裏; 裏口; 
+裏面; 表裏; 裏口
 704; 表;; ヒョウ；おもて、-おもて、あらわ.す、あらわ.れる、あら.わす; surface, table, chart, diagram
-表面; 代表; 発表; 表門; 裏表; 表す; 表れる; 
+表面; 代表; 発表; 表門; 裏表; 表す; 表れる
 705; 現;; ゲン；あらわ.れる、あらわ.す、うつつ、うつ.つ; present, existing, actual
-現象; 現在; 表現; 現れる; 現す; 
+現象; 現在; 表現; 現れる; 現す
 706; 著;著; チョ、チャク；あらわ.す、いちじる.しい; renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work
-著名; 著作; 著す; 著しい; 
+著名; 著作; 著す; 著しい
 707; 制;; セイ; system, law, rule
-制度; 制限; 統制; 
+制度; 制限; 統制
 708; 製;; セイ; made in..., manufacture
-製造; 製鉄; 鉄製; 
+製造; 製鉄; 鉄製
 709; 初;; ショ；はじ.め、はじ.めて、はつ、はつ-、うい-、-そ.める、-ぞ.め; first time, beginning
-初期; 初心者; 最初; 初め; 初めて; 初の受賞; 初雪; 初耳; 初陣; 初々しい; 書き初め; 出初め式; 
+初期; 初心者; 最初; 初め; 初めて; 初の受賞; 初雪; 初耳; 初陣; 初々しい; 書き初め; 出初め式
 710; 裸;; ラ；はだか; naked, nude, uncovered, partially clothed
-裸身; 裸体; 赤裸々; 丸裸; 
+裸身; 裸体; 赤裸々; 丸裸
 711; 難;難; ナン；かた.い、-がた.い、むずか.しい、むづか.しい、むつか.しい、-にく.い; difficult, impossible, trouble, accident, defect
-難易; 許し難い; 有り難い; 難しい; 
+難易; 許し難い; 有り難い; 難しい
 712; 准;; ジュン; quasi-, semi-, associate
-准将; 批准; 
+准将; 批准
 713; 準;; ジュン；じゅん.じる、じゅん.ずる、なぞら.える、のり、ひと.しい、みずもり; semi-, correspond to, proportionate to, conform, imitate
-準備; 基準; 
+準備; 基準
 714; 備;; ビ；そな.える、そな.わる、つぶさ.に; equip, provision, preparation
-備考; 備える; 備わる; 
+備考; 備える; 備わる
 715; 死;; シ；し.ぬ、し.に-; death, die
-死亡; 死角; 死に絶える; 
+死亡; 死角; 死に絶える
 716; 葬;; ソウ；ほうむ.る; interment, bury, shelve
-葬儀; 埋葬; 会葬; 葬る; 
+葬儀; 埋葬; 会葬; 葬る
 717; 列;; レツ、レ; file, row, rank, tier, column
-歯列; 列車; 
+歯列; 列車
 718; 烈;; レツ；はげ.しい; ardent, violent, vehement, furious, severe, extreme
-烈火; 壮烈; 
+烈火; 壮烈
 719; 裂;; レツ；さ.く、さ.ける、-ぎ.れ; split, rend, tear
-決裂; 破裂; 分裂; 八つ裂き; 裂け目; 
+決裂; 破裂; 分裂; 八つ裂き; 裂け目
 720; 例;; レイ；たと.える; example, custom, usage, precedent
-例外; 例年; 用例; 例え; 例えば; 
+例外; 例年; 用例; 例え; 例えば
 721; 刑;; ケイ; punish, penalty, sentence, punishment
-刑罰; 刑法; 処刑; 
+刑罰; 刑法; 処刑
 722; 型;; ケイ；かた、-がた; mould, type, model
-原型; 典型; 型紙; 血液型; 
+原型; 典型; 型紙; 血液型
 723; 研;硏; ケン；と.ぐ; polish, study of, sharpen
-研究; 研修; 研ぐ; 
+研究; 研修; 研ぐ
 724; 厄;; ヤク; unlucky, misfortune, bad luck, disaster
-厄年; 災厄; 
+厄年; 災厄
 725; 危;; キ；あぶ.ない、あや.うい、あや.ぶむ; dangerous, fear, uneasy
-危険; 危害; 安危; 危ながる; 危うく; 危ぶむ; 
+危険; 危害; 安危; 危ながる; 危うく; 危ぶむ
 726; 範;; ハン; pattern, example, model
-範囲; 師範; 
+範囲; 師範
 727; 怨;; エン、オン、ウン；うら.む、うらみ、うら.めしい; grudge, show resentment, be jealous
-怨恨; 怨念; 怨む; 怨めしい; 
+怨恨; 怨念; 怨む; 怨めしい
 728; 苑;; エン、オン；その、う.つ; garden, farm, park
-外苑; 紫苑; 苑; 
+外苑; 紫苑; 苑
 729; 宛;; エン；あ.てる、-あて、-づつ、あたか.も; address, just like, fortunately
-宛先; 
+宛先
 730; 碗;; ワン；こばち; porcelain bowl, tea cup
-茶碗; 
+茶碗
 731; 腕;; ワン；うで; arm, ability, talent
-腕章; 腕力; 敏腕; 腕前; 
+腕章; 腕力; 敏腕; 腕前
 732; 却;; キャク；かえ.って、しりぞ.く、しりぞ.ける; instead, on the contrary, rather, step back, withdraw, retreat
-却下; 売却; 
+却下; 売却
 733; 脚;; キャク、キャ、カク；あし; skids, leg, undercarriage, lower part, base
-脚部; 脚本; 三脚; 脚立; 脚; 机の脚; 
+脚部; 脚本; 三脚; 脚立; 脚; 机の脚
 734; 犯;; ハン、ボン；おか.す; crime, sin, offense
-犯罪; 共犯; 侵犯; 犯す; 
+犯罪; 共犯; 侵犯; 犯す
 735; 狂;; キョウ；くる.う、くる.おしい、くるお.しい; lunatic, insane, crazy, confuse
-狂気; 狂言; 熱狂; 狂う; 狂おしい; 狂わす; 狂わせる; 
+狂気; 狂言; 熱狂; 狂う; 狂おしい; 狂わす; 狂わせる
 736; 獄;; ゴク; prison, jail
-獄舎; 地獄; 疑獄; 
+獄舎; 地獄; 疑獄
 737; 非;; ヒ；あら.ず; un-, mistake, negative, injustice, non-
-非難; 非常; 
+非難; 非常
 738; 排;; ハイ; repudiate, exclude, expel, reject, line up, arrange
-排斥; 排気; 排除; 
+排斥; 排気; 排除
 739; 俳;; ハイ; haiku, actor
-俳優; 俳句; 俳味; 
+俳優; 俳句; 俳味
 740; 罪;; ザイ；つみ; guilt, sin, crime, fault, blame, offense
-罪状; 謝罪; 罪; 
+罪状; 謝罪; 罪
 741; 罰;; バツ、バチ、ハツ；ばっ.する; penalty, punishment
-罰金; 処罰; 天罰; 罰当たり; 
+罰金; 処罰; 天罰; 罰当たり
 742; 伴;; ハン、バン；ともな.う; consort, accompany, bring with, companion
-同伴; 随伴; 伴奏; 伴食; 伴う; 
+同伴; 随伴; 伴奏; 伴食; 伴う
 743; 判;; ハン、バン；わか.る; judgement, signature, stamp, seal
-判定; 判明; Ａ判; 大判; 
+判定; 判明; Ａ判; 大判
 744; 評;; ヒョウ; evaluate, criticism, comment
-評価; 評判; 定評; 
+評価; 評判; 定評
 745; 批;; ヒ; criticism, strike
-批判; 批評; 
+批判; 批評
 746; 帥;; スイ; commander, leading troops, governor
-統帥; 元帥; 
+統帥; 元帥
 747; 師;; シ；いくさ; expert, teacher, master, model, exemplar, army (incl. counter), war
-教師; 医師; 師走; 
+教師; 医師; 師走
 748; 座;; ザ；すわ.る; squat, seat, cushion, gathering, sit
-座席; 座談; 座り込み; 
+座席; 座談; 座り込み
 749; 坐;; ザ、サ；すわ.る、おわす、そぞろに、まします; sit
-対坐; 坐る; 
+対坐; 坐る
 750; 卒;; ソツ、シュツ；そっ.する、お.える、お.わる、ついに、にわか; graduate, soldier, private, die
-卒業; 卒中; 兵卒; 
+卒業; 卒中; 兵卒
 751; 率;; ソツ、リツ、シュツ；ひき.いる; ratio, rate, proportion, %, factor, lead, spearhead, command
-率先; 引率; 比率; 能率; 百分率; 率いる; 
+率先; 引率; 比率; 能率; 百分率; 率いる
 752; 傘;; サン；かさ; umbrella
-傘下; 落下傘; 雨傘; 日傘; 
+傘下; 落下傘; 雨傘; 日傘
 753; 笠;; リュウ；かさ; bamboo hat, one's influence
-蓑笠; 笠; 
+蓑笠; 笠
 754; 星;; セイ、ショウ；ほし、-ぼし; star, spot, dot, mark
-星座; 流星; 衛星; 明星; 黒星; 
+星座; 流星; 衛星; 明星; 黒星
 755; 汁;; ジュウ；しる、-しる、つゆ; soup, juice, broth, sap, gravy, pus
-果汁; 墨汁; 汁粉; 
+果汁; 墨汁; 汁粉
 756; 斗;; ト、トウ; Big Dipper, ten sho (vol), sake dipper, dots and cross radical (no. 68)
-斗酒; 北斗七星; 
+斗酒; 北斗七星
 757; 料;; リョウ; fee, materials
-料金; 料理; 
+料金; 料理
 758; 科;; カ; department, course, section
-科学; 教科; 罪科; 
+科学; 教科; 罪科
 759; 然;; ゼン、ネン；しか、しか.り、しか.し、さ; sort of thing, so, if so, in that case, well
-当然; 天然; 
+当然; 天然
 760; 燃;; ネン；も.える、も.やす、も.す; burn, blaze, glow
-燃焼; 燃料; 可燃性; 燃え尽きる; 燃やす; 燃す; 
+燃焼; 燃料; 可燃性; 燃え尽きる; 燃やす; 燃す
 761; 黙;默; モク、ボク；だま.る、もだ.す; silence, become silent, stop speaking, leave as is
-黙殺; 暗黙; 黙り込む; 
+黙殺; 暗黙; 黙り込む
 762; 獣;獸; ジュウ；けもの、けだもの; animal, beast
-獣類; 鳥獣; 獣; 
+獣類; 鳥獣; 獣
 763; 猟;獵; リョウ；かり、か.る; game-hunting, shooting, game, bag
-猟師; 渉猟; 
+猟師; 渉猟
 764; 漁;; ギョ、リョウ；あさ.る; fishing, fishery
-漁業; 漁船; 漁村; 漁師; 大漁; 不漁; 
+漁業; 漁船; 漁村; 漁師; 大漁; 不漁
 765; 狩;; シュ；か.る、か.り、-が.り; hunt, raid, gather
-狩猟; 狩り込み; ぶどう狩り; 
+狩猟; 狩り込み; ぶどう狩り
 766; 猛;; モウ; fierce, rave, rush, become furious, wildness, strength
-猛烈; 猛獣; 勇猛; 猛る; 猛者; 
+猛烈; 猛獣; 勇猛; 猛る; 猛者
 767; 煙;; エン；けむ.る、けむり、けむ.い; smoke
-煙突; 煙霧; 煙る; 煙; 煙たい; 煙たがる; 
+煙突; 煙霧; 煙る; 煙; 煙たい; 煙たがる
 768; 焼;燒; ショウ；や.く、や.き、や.き-、-や.き、や.ける; bake, burning
-焼却; 全焼; 炭焼き; 夕焼け; 
+焼却; 全焼; 炭焼き; 夕焼け
 769; 暁;曉; ギョウ、キョウ；あかつき、さと.る; daybreak, dawn, in the event
-暁天; 今暁; 通暁; 暁; 
+暁天; 今暁; 通暁; 暁
 770; 旧;舊; キュウ；ふる.い、もと; old times, old things, old friend, former, ex-
-旧道; 復旧; 
+旧道; 復旧
 771; 児;兒; ジ、ニ、ゲイ；こ、-こ、-っこ; newborn babe, child, young of animals
-児童; 優良児; 小児科; 鹿児島県; 
+児童; 優良児; 小児科; 鹿児島県
 772; 亦;; エキ、ヤク；また; also, again
-亦; 如露亦如電; 私も亦; 
+亦; 如露亦如電; 私も亦
 773; 赤;; セキ、シャク；あか、あか-、あか.い、あか.らむ、あか.らめる; red
-赤道; 赤貧; 発赤; 赤銅; 赤字; 赤い; 赤らむ; 赤らめる; 真っ赤; 
+赤道; 赤貧; 発赤; 赤銅; 赤字; 赤い; 赤らむ; 赤らめる; 真っ赤
 774; 変;變; ヘン；か.わる、か.わり、か.える; unusual, change, strange
-変化; 異変; 大変; 変わり種; 変える; 
+変化; 異変; 大変; 変わり種; 変える
 775; 蛮;蠻; バン；えびす; barbarian
-蛮行; 蛮人; 野蛮; 
+蛮行; 蛮人; 野蛮
 776; 恋;戀; レン；こ.う、こい、こい.しい; romance, in love, yearn for, miss, darling
-恋愛; 恋慕; 失恋; 恋い慕う; 恋い焦がれる; 初恋; 恋する; 恋しがる; 
+恋愛; 恋慕; 失恋; 恋い慕う; 恋い焦がれる; 初恋; 恋する; 恋しがる
 777; 愛;; アイ；いと.しい、かな.しい、め.でる、お.しむ、まな; love, affection, favourite
-愛情; 愛読; 愛しい; 愛でる; 愛娘; 
+愛情; 愛読; 愛しい; 愛でる; 愛娘
 778; 憂;; ユウ；うれ.える、うれ.い、う.い、う.き; melancholy, grieve, lament, be anxious, sad, unhappy
-憂愁; 憂慮; 一喜一憂; 憂え; 憂い; 憂き目; 物憂い; 
+憂愁; 憂慮; 一喜一憂; 憂え; 憂い; 憂き目; 物憂い
 779; 優;; ユウ、ウ；やさ.しい、すぐ.れる、まさ.る; tenderness, excel, surpass, actor, superiority, gentleness
-優越; 優柔; 優しい; 優れる; 
+優越; 優柔; 優しい; 優れる
 780; 栗;; リツ、リ；くり、おののく; chestnut
-栗; 焼き栗; 栗; 
+栗; 焼き栗; 栗
 781; 票;; ヒョウ; ballot, label, ticket, sign
-票決; 投票; 伝票; 
+票決; 投票; 伝票
 782; 標;; ヒョウ；しるべ、しるし; signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target
-標準; 標本; 目標; 標; 
+標準; 標本; 目標; 標
 783; 漂;; ヒョウ；ただよ.う; drift, float (on liquid)
-漂着; 漂白; 漂流; 漂う; 
+漂着; 漂白; 漂流; 漂う
 784; 遷;; セン；うつ.る、うつ.す、みやこがえ; transition, move, change
-遷延; 遷都; 変遷; 遷る; 遷す; 
+遷延; 遷都; 変遷; 遷る; 遷す
 785; 各;; カク；おのおの; each, every, either
-各自; 各種; 各位; 各々; 
+各自; 各種; 各位; 各々
 786; 客;; キャク、カク; guest, visitor, customer, client
-客間; 客車; 乗客; 客死; 主客; 旅客; 
+客間; 客車; 乗客; 客死; 主客; 旅客
 787; 路;; ロ、ル；-じ、みち; path, route, road, distance
-路上; 家路; 旅路; 山路; 
+路上; 家路; 旅路; 山路
 788; 格;; カク、コウ、キャク、ゴウ; status, rank, capacity, character, case (law,  grammar)
-格式; 規格; 性格; 格子; 
+格式; 規格; 性格; 格子
 789; 絡;; ラク；から.む、から.まる; entwine, coil around, get caught in
-連絡; 絡み付く; 絡める; 絡まる; 
+連絡; 絡み付く; 絡める; 絡まる
 790; 略;; リャク；ほぼ、はぶ.く、おか.す、おさ.める、はかりごと、はか.る; abbreviation, omission, outline, shorten, capture, plunder
-略称; 計略; 侵略; 
+略称; 計略; 侵略
 791; 閣;; カク; tower, tall building, palace
-閣議; 閣僚; 内閣; 
+閣議; 閣僚; 内閣
 792; 落;; ラク；お.ちる、お.ち、お.とす; fall, drop, come down, village, hamlet
-落語; 落涙; 集落; 落ち着く; 力落とし; 
+落語; 落涙; 集落; 落ち着く; 力落とし
 793; 南;; ナン、ナ；みなみ; south
-南北; 南端; 指南; 南無; 南向き; 
+南北; 南端; 指南; 南無; 南向き
 794; 西;; セイ、サイ、ス；にし; west, Spain
-西暦; 西部; 北西; 西国; 西日; 
+西暦; 西部; 北西; 西国; 西日
 795; 酉;; ユウ；とり; west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)
-丁酉; 酉年; 
+丁酉; 酉年
 796; 酒;; シュ；さけ、さか-; sake, alcohol
-酒宴; 飲酒; 洋酒; 酒好き; 甘酒; 酒屋; 酒場; 酒盛り; お神酒; 
+酒宴; 飲酒; 洋酒; 酒好き; 甘酒; 酒屋; 酒場; 酒盛り; お神酒
 797; 洒;; シャ、ソン、サイ、セン、セイ；すす.ぐ、あら.う; wash, sprinkle
-お洒落; 洒掃; 
+お洒落; 洒掃
 798; 配;; ハイ；くば.る; distribute, spouse, exile, rationing
-配分; 交配; 心配; 配る; 
+配分; 交配; 心配; 配る
 799; 酸;; サン；す.い; acid, bitterness, sour, tart
-酸味; 酸素; 酸っぱい; 
+酸味; 酸素; 酸っぱい
 800; 猶;; ユウ、ユ；なお; furthermore, still, yet
-猶予; 
+猶予
 801; 尊;; ソン；たっと.い、とうと.い、たっと.ぶ、とうと.ぶ; revered, valuable, precious, noble, exalted
-尊敬; 尊大; 本尊; 尊い; 尊ぶ; 
+尊敬; 尊大; 本尊; 尊い; 尊ぶ
 802; 遵;; ジュン; abide by, follow, obey, learn
-遵守; 遵法; 
+遵守; 遵法
 803; 導;; ドウ；みちび.く; guidance, leading, conduct, usher
-導入; 半導体; 導く; 
+導入; 半導体; 導く
 804; 敬;; ケイ、キョウ；うやま.う; awe, respect, honor, revere
-敬意; 敬服; 敬う; 
+敬意; 敬服; 敬う
 805; 警;; ケイ；いまし.める; admonish, commandment
-警告; 警戒; 警察; 
+警告; 警戒; 警察
 806; 驚;; キョウ；おどろ.く、おどろ.かす; wonder, be surprised, frightened, amazed
-驚異; 驚嘆; 驚く; 驚かす; 
+驚異; 驚嘆; 驚く; 驚かす
 807; 散;; サン；ち.る、ち.らす、-ち.らす、ち.らかす、ち.らかる、ち.らばる、ばら、ばら.ける; scatter, disperse, spend, squander
-散歩; 散文; 解散; 散り散りに; 散らす; 散らかす; 散らかる; 散らばる; 
+散歩; 散文; 解散; 散り散りに; 散らす; 散らかす; 散らかる; 散らばる
 808; 敢;; カン；あ.えて、あ.えない、あ.えず; daring, brave, bold, sad, tragic, pitiful
-敢然; 果敢; 敢えて; 取り敢えず; 
+敢然; 果敢; 敢えて; 取り敢えず
 809; 厳;嚴; ゲン、ゴン；おごそ.か、きび.しい、いか.めしい、いつくし; stern, strictness, severity, rigidity
-厳格; 厳重; 威厳; 荘厳; 厳か; 厳しい; 
+厳格; 厳重; 威厳; 荘厳; 厳か; 厳しい
 810; 仏;佛; ブツ、フツ；ほとけ; Buddha, the dead, France
-仏事; 仏像; 念仏; 日仏; 仏様; 生き仏; 
+仏事; 仏像; 念仏; 日仏; 仏様; 生き仏
 811; 払;拂; フツ、ヒツ、ホツ；はら.う、-はら.い、-ばら.い; pay, clear out, prune, banish, dispose of
-払暁; 払底; 月払い; 支払い; 
+払暁; 払底; 月払い; 支払い
 812; 拡;擴; カク、コウ；ひろ.がる、ひろ.げる、ひろ.める; broaden, extend, expand, enlarge
-拡大; 拡声器; 
+拡大; 拡声器
 813; 可;; カ、コク；-べ.き、-べ.し; can, passable, mustn't, should not, do not
-可否; 可能; 
+可否; 可能
 814; 何;; カ；なに、なん、なに-、なん-; what
-幾何学; 何者; 何事; 何本; 何十; 何点; 
+幾何学; 何者; 何事; 何本; 何十; 何点
 815; 苛;; カ；いじ.める、さいな.む、いらだ.つ、からい、こまかい; torment, scold, chastise
-苛酷; 苛烈; 苛める; 苛立つ; 苛む; 
+苛酷; 苛烈; 苛める; 苛立つ; 苛む
 816; 荷;; カ；に; baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight
-出荷; 入荷; 荷物; 初荷; 
+出荷; 入荷; 荷物; 初荷
 817; 河;; カ；かわ; river
-河川; 河口; 運河; 河; 河原; 
+河川; 河口; 運河; 河; 河原
 818; 阿;; ア、オ；おもね.る、くま; Africa, flatter, fawn upon, corner, nook, recess
-阿呆; 
+阿呆
 819; 司;; シ；つかさど.る; director, official, govt office, rule, administer
-司会; 司令; 上司; 司る; 
+司会; 司令; 上司; 司る
 820; 伺;; シ；うかが.う; pay respects, visit, ask, inquire, question, implore
-伺候; 伺う; 
+伺候; 伺う
 821; 詞;; シ；ことば; part of speech, words, poetry
-歌詞; 作詞; 品詞; 
+歌詞; 作詞; 品詞
 822; 飼;; シ；か.う; domesticate, raise, keep, feed
-飼育; 飼料; 飼う; 
+飼育; 飼料; 飼う
 823; 冊;; サツ、サク；ふみ; tome, counter for books, volume
-冊子; 別冊; 短冊; 
+冊子; 別冊; 短冊
 824; 嗣;; シ; heir, succeed
-嗣子; 嫡嗣; 
+嗣子; 嫡嗣
 825; 覗;; シ；のぞ.く、うかが.う; peep, peek, come in sight
-覗; 覗く; 
+覗; 覗く
 826; 歌;; カ；うた、うた.う; song, sing
-歌曲; 歌; 歌う; 
+歌曲; 歌; 歌う
 827; 唄;; バイ；うた、うた.う; song, ballad
-小唄; 長唄; 唄う; 
+小唄; 長唄; 唄う
 828; 負;; フ；ま.ける、ま.かす、お.う; defeat, negative, -, minus, bear, owe, assume a responsibility
-負担; 勝負; 負け; 負かす; 負い目; 背負う; 
+負担; 勝負; 負け; 負かす; 負い目; 背負う
 829; 敗;; ハイ；やぶ.れる; failure, defeat, reversal
-敗北; 敗れる; 
+敗北; 敗れる
 830; 責;; セキ；せ.める; blame, condemn, censure
-責務; 責任; 職責; 責める; 
+責務; 責任; 職責; 責める
 831; 積;; セキ；つ.む、-づ.み、つ.もる、つ.もり; volume, product (x*y), acreage, contents, pile up, stack, load, amass
-積雪; 面積; 下積み; 見積書; 
+積雪; 面積; 下積み; 見積書
 832; 債;; サイ; bond, loan, debt
-債務; 負債; 公債; 
+債務; 負債; 公債
 833; 漬;; シ；つ.ける、つ.かる、-づ.け、-づけ; pickling, soak, moisten, steep
-漬物; 漬かる; 
+漬物; 漬かる
 834; 紡;; ボウ；つむ.ぐ; spinning
-混紡; 紡ぐ; 
+混紡; 紡ぐ
 835; 績;; セキ; exploits, achievements, unreeling cocoons
-紡績; 成績; 
+紡績; 成績
 836; 具;; グ；そな.える、つぶさ.に; tool, utensil, means, possess, ingredients, counter for armor,  suits,  sets of furniture
-具体的; 具備; 道具; 
+具体的; 具備; 道具
 837; 真;眞; シン；ま、ま-、まこと; true, reality, Buddhist sect
-真偽; 真南; 真新しい; 真っ先; 
+真偽; 真南; 真新しい; 真っ先
 838; 直;; チョク、ジキ、ジカ；ただ.ちに、なお.す、-なお.す、なお.る、なお.き、す.ぐ; straightaway, honesty, frankness, fix, repair
-直立; 直接; 実直; 直訴; 直筆; 直に; 直ちに; 手直し; 仲直り; 直ぐ; 
+直立; 直接; 実直; 直訴; 直筆; 直に; 直ちに; 手直し; 仲直り; 直ぐ
 839; 植;; ショク；う.える、う.わる; plant
-植樹; 植物; 誤植; 植木; 植わる; 
+植樹; 植物; 誤植; 植木; 植わる
 840; 殖;; ショク；ふ.える、ふ.やす; augment, increase, multiply, raise
-生殖; 利殖; 学殖; 殖える; 殖やす; 
+生殖; 利殖; 学殖; 殖える; 殖やす
 841; 値;; チ；ね、あたい; price, cost, value
-価値; 数値; 絶対値; 値段; 値する; 
+価値; 数値; 絶対値; 値段; 値する
 842; 置;; チ；お.く、-お.き; placement, put, set, deposit, leave behind, keep, employ, pawn
-位置; 放置; 物置き; 
+位置; 放置; 物置き
 843; 県;縣; ケン；か.ける; prefecture
-県庁; 県立; 
+県庁; 県立
 844; 州;; シュウ、ス；す; state, province
-州議会; 六大州; 中州; 三角州; 
+州議会; 六大州; 中州; 三角州
 845; 洲;; シュウ、ス；しま; continent, sandbar, island, country
-洲; 砂洲; 
+洲; 砂洲
 846; 接;; セツ、ショウ；つ.ぐ; touch, contact, adjoin, piece together
-接触; 接待; 接ぎ木; 骨接ぎ; 
+接触; 接待; 接ぎ木; 骨接ぎ
 847; 継;繼; ケイ；つ.ぐ、まま-; inherit, succeed, continue, patch, graft (tree)
-継続; 継承; 中継; 継ぎ; 
+継続; 継承; 中継; 継ぎ
 848; 断;斷; ダン；た.つ、ことわ.る、さだ.める; severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting
-断絶; 断定; 判断; 塩断ち; 断り; 
+断絶; 断定; 判断; 塩断ち; 断り
 849; 応;應; オウ、ヨウ、-ノウ；あた.る、まさに、こた.える; apply, answer, yes, OK, reply, accept
-応答; 応用; 反応; 応える; 
+応答; 応用; 反応; 応える
 850; 床;; ショウ；とこ、ゆか; bed, counter for beds, floor, padding, tatami
-起床; 病床; 温床; 床の間; 寝床; 床下; 
+起床; 病床; 温床; 床の間; 寝床; 床下
 851; 麻;; マ、マア；あさ; hemp, flax, numb
-麻薬; 麻; 
+麻薬; 麻
 852; 歴;歷; レキ、レッキ; curriculum, continuation, passage of time
-歴史; 歴訪; 経歴; 
+歴史; 歴訪; 経歴
 853; 暦;曆; レキ、リャク；こよみ; calendar, almanac
-暦年; 還暦; 太陽暦; 花暦; 
+暦年; 還暦; 太陽暦; 花暦
 854; 臨;; リン；のぞ.む; look to, face, meet, confront, attend, call on
-臨時; 臨床; 臨む; 
+臨時; 臨床; 臨む
 855; 園;; エン；その; park, garden, yard, farm
-園芸; 公園; 学びの園; 花園; 
+園芸; 公園; 学びの園; 花園
 856; 遠;; エン、オン；とお.い; distant, far
-遠近; 永遠; 敬遠; 久遠; 遠出; 遠ざかる; 
+遠近; 永遠; 敬遠; 久遠; 遠出; 遠ざかる
 857; 与;與; ヨ；あた.える、あずか.る、くみ.する、ともに; bestow, participate in, give, award, impart, provide, cause, gift, godsend
-与党; 関与; 与える; 
+与党; 関与; 与える
 858; 写;寫; シャ、ジャ；うつ.す、うつ.る、うつ-、うつ.し; copy, be photographed, describe
-写真; 映写; 写す; 写る; 
+写真; 映写; 写す; 写る
 859; 移;; イ；うつ.る、うつ.す; shift, move, change, drift, catch (cold,  fire), pass into
-移転; 移民; 推移; 移り変わり; 移す; 
+移転; 移民; 推移; 移り変わり; 移す
 860; 卸;; シャ；おろ.す、おろし、おろ.し; wholesale
-卸す; 卸商; 
+卸す; 卸商
 861; 御;; ギョ、ゴ；おん-、お-、み-; honorable, manipulate, govern
-御者; 制御; 御飯; 御用; 御中; 御礼; 御箸; 御心; 
+御者; 制御; 御飯; 御用; 御中; 御礼; 御箸; 御心
 862; 複;; フク; duplicate, double, compound, multiple
-複数; 複雑; 重複; 
+複数; 複雑; 重複
 863; 腹;; フク；はら; abdomen, belly, stomach
-腹案; 空腹; 山腹; 腹芸; 太っ腹; お腹空いた; 
+腹案; 空腹; 山腹; 腹芸; 太っ腹; お腹空いた
 864; 復;; フク；また; restore, return to, revert, resume
-復活; 報復; 
+復活; 報復
 865; 往;; オウ；い.く、いにしえ、さき.に、ゆ.く; journey, travel, chase away, let go, going, before, formerly
-往復; 往来; 
+往復; 往来
 866; 柱;; チュウ；はしら; pillar, post, cylinder, support
-支柱; 円柱; 電柱; 大黒柱; 
+支柱; 円柱; 電柱; 大黒柱
 867; 征;; セイ; subjugate, attack the rebellious, collect taxes
-征服; 遠征; 出征; 
+征服; 遠征; 出征
 868; 従;從; ジュウ、ショウ、ジュ；したが.う、したが.える、より; accompany, obey, submit to, comply, follow, secondary, incidental, subordinate
-従事; 従順; 従容; 従三位; 従う; 従える; 
+従事; 従順; 従容; 従三位; 従う; 従える
 869; 徒;; ト；いたずら、あだ; on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people
-徒歩; 徒労; 信徒; 
+徒歩; 徒労; 信徒
 870; 縦;縱; ジュウ；たて; vertical, length, height, self-indulgent, wayward
-縦横; 縦断; 縦; 
+縦横; 縦断; 縦
 871; 延;; エン；の.びる、の.べる、の.べ、の.ばす; prolong, stretching
-延長; 延期; 延びる; 延べ; 延ばす; 
+延長; 延期; 延びる; 延べ; 延ばす
 872; 伸;; シン；の.びる、の.ばす、の.べる、の.す; expand, stretch, extend, lengthen, increase
-伸縮; 追伸; 背伸び; 伸べる; 伸ばす; 
+伸縮; 追伸; 背伸び; 伸べる; 伸ばす
 873; 紳;; シン; sire, good belt, gentleman
-紳士; 
+紳士
 874; 縮;; シュク；ちぢ.む、ちぢ.まる、ちぢ.める、ちぢ.れる、ちぢ.らす; shrink, contract, shrivel, wrinkle, reduce
-縮小; 縮図; 短縮; 伸び縮み; 縮まる; 縮める; 縮れ毛; 縮らす; 
+縮小; 縮図; 短縮; 伸び縮み; 縮まる; 縮める; 縮れ毛; 縮らす
 875; 誕;; タン; nativity, be born, declension, lie, be arbitrary
-誕生; 生誕; 
+誕生; 生誕
 876; 廷;; テイ; courts, imperial court, government office
-宮廷; 法廷; 出廷; 
+宮廷; 法廷; 出廷
 877; 庭;; テイ；にわ; courtyard, garden, yard
-庭園; 校庭; 庭先; 
+庭園; 校庭; 庭先
 878; 艇;; テイ; rowboat, small boat
-艦艇; 舟艇; 競艇; 
+艦艇; 舟艇; 競艇
 879; 展;; テン; unfold, expand
-展示; 展開; 発展; 
+展示; 展開; 発展
 880; 殿;; デン、テン；との、-どの; Mr., hall, mansion, palace, temple, lord
-殿堂; 貴殿; 御殿; 殿様; 殿方; 山田太郎―殿; 殿; 
+殿堂; 貴殿; 御殿; 殿様; 殿方; 山田太郎―殿; 殿
 881; 異;; イ；こと、こと.なる、け; uncommon, different, queerness, strangeness, wonderful, curious, unusual
-異論; 異同; 奇異; 異にする; 異なる; 
+異論; 異同; 奇異; 異にする; 異なる
 882; 翼;; ヨク；つばさ; wing, plane, flank
-左翼; 尾翼; 翼; 
+左翼; 尾翼; 翼
 883; 累;; ルイ; accumulate, involvement, trouble, tie up, continually
-累計; 累積; 
+累計; 累積
 884; 塁;壘; ルイ、ライ、スイ；とりで; bases, fort, rampart, walls, base(ball)
-塁審; 敵塁; 土塁; 
+塁審; 敵塁; 土塁
 885; 吏;; リ; officer, an official
-吏員; 官吏; 能吏; 
+吏員; 官吏; 能吏
 886; 使;; シ；つか.う、つか.い、-つか.い、-づか.い; use, send on a mission, order, messenger, envoy, ambassador, cause
-使役; 使者; 使い方; 
+使役; 使者; 使い方
 887; 史;; シ; history, chronicle
-史学; 国史; 
+史学; 国史
 888; 更;; コウ；さら、さら.に、ふ.ける、ふ.かす; grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further
-更新; 変更; 更に; 今更; 夜更け; 夜更かし; 
+更新; 変更; 更に; 今更; 夜更け; 夜更かし
 889; 便;; ベン、ビン；たよ.り; convenience, facility, excrement, feces, letter, chance
-便利; 便法; 簡便; 便乗; 定期便; 初便り; 花便り; 
+便利; 便法; 簡便; 便乗; 定期便; 初便り; 花便り
 890; 硬;; コウ；かた.い; stiff, hard
-硬度; 硬貨; 生硬; 硬い; 
+硬度; 硬貨; 生硬; 硬い
 891; 能;; ノウ；よ.く、あた.う; ability, talent, skill, capacity
-能力; 芸能; 効能; 
+能力; 芸能; 効能
 892; 態;; タイ；わざ.と; attitude, condition, figure, appearance, voice (of verbs)
-態勢; 容態; 
+態勢; 容態
 893; 熊;; ユウ；くま; bear
-熊; 
+熊
 894; 罷;; ヒ；まか.り-、や.める; quit, stop, leave, withdraw, go
-罷業; 罷免; 罷める; 
+罷業; 罷免; 罷める
 895; 羅;; ラ；うすもの; gauze, thin silk, Rome, arrange, spread out
-羅列; 羅針盤; 網羅; 
+羅列; 羅針盤; 網羅
 896; 雲;; ウン；くも、-ぐも; cloud
-雲海; 風雲; 積乱雲; 雲; 
+雲海; 風雲; 積乱雲; 雲
 897; 曇;; ドン；くも.る; cloudy weather, cloud up
-曇天; 曇る; 
+曇天; 曇る
 898; 雪;; セツ；ゆき; snow
-雪辱; 降雪; 雪解け; 
+雪辱; 降雪; 雪解け
 899; 雷;; ライ；かみなり、いかずち、いかづち; thunder, lightning bolt
-雷雨; 雷名; 魚雷; 雷; 
+雷雨; 雷名; 魚雷; 雷
 900; 零;; レイ；ぜろ、こぼ.す、こぼ.れる; zero, spill, overflow, nothing, cipher
-零下; 零細; 零落; 零す; 零れる; 
+零下; 零細; 零落; 零す; 零れる
 901; 震;; シン；ふる.う、ふる.える; quake, shake, tremble, quiver, shiver
-震動; 震災; 身震い; 震える; 
+震動; 震災; 身震い; 震える
 902; 振;; シン；ふ.る、ふ.れる、ふ.るう; shake, wave, wag, swing
-振動; 振興; 不振; 振り; 振るう; 振れる; 
+振動; 振興; 不振; 振り; 振るう; 振れる
 903; 久;; キュウ、ク；ひさ.しい; long time, old story
-永久; 持久; 久遠; 久々; 
+永久; 持久; 久遠; 久々
 904; 賑;; シン；にぎ.わい、にぎ.やか、にぎ.わす、にぎ.わう; flourish, be bustling, prosperity
-殷賑; 賑わう; 賑やか; 
+殷賑; 賑わう; 賑やか
 905; 丘;; キュウ；おか; hill, knoll
-丘陵; 丘; 
+丘陵; 丘
 906; 兵;; ヘイ、ヒョウ；つわもの; soldier, private, troops, army, warfare, strategy, tactics
-兵器; 兵隊; 雑兵; 
+兵器; 兵隊; 雑兵
 907; 岳;嶽; ガク；たけ; point, peak, mountain
-岳父; 山岳; 御岳; 
+岳父; 山岳; 御岳
 908; 浜;濱; ヒン；はま; seacoast, beach, seashore
-海浜; 浜辺; 砂浜; 
+海浜; 浜辺; 砂浜
 909; 舎;; シャ、セキ；やど.る; cottage, inn, hut, house, mansion
-舎監; 校舎; 寄宿舎; 
+舎監; 校舎; 寄宿舎
 910; 再;; サイ、サ；ふたた.び; again, twice, second time
-再度; 再選; 再出発; 再来年; 再来月; 再来週; 再び; 
+再度; 再選; 再出発; 再来年; 再来月; 再来週; 再び
 911; 虎;; コ；とら; tiger, drunkard
-虎穴; 猛虎; 虎; 
+虎穴; 猛虎; 虎
 912; 寅;; イン；とら; sign of the tiger, 3-5AM, third sign of Chinese zodiac
-甲寅; 寅年; 
+甲寅; 寅年
 913; 演;; エン; performance, act, play, render, stage
-演技; 
+演技
 914; 黄;黃; コウ、オウ；き、こ-; yellow
-黄葉; 黄金; 黄色い; 黄ばむ; 黄金; 
+黄葉; 黄金; 黄色い; 黄ばむ; 黄金
 915; 横;橫; オウ；よこ; sideways, side, horizontal, width, woof, unreasonable, perverse
-横断; 横領; 専横; 横顔; 横たわる; 
+横断; 横領; 専横; 横顔; 横たわる
 916; 構;; コウ；かま.える、かま.う; posture, build, pretend
-構造; 構内; 結構; 構える; 構わない; 
+構造; 構内; 結構; 構える; 構わない
 917; 講;; コウ; lecture, club, association
-講義; 講演; 聴講; 
+講義; 講演; 聴講
 918; 購;; コウ; subscription, buy
-購入; 購買; 購読; 
+購入; 購買; 購読
 919; 溝;; コウ；みぞ; gutter, ditch, sewer, drain, 10**32
-下水溝; 排水溝; 溝; 溝; 
+下水溝; 排水溝; 溝; 溝
 920; 仮;假; カ、ケ；かり、かり-; sham, temporary, interim, assumed (name), informal
-仮面; 仮定; 仮装; 仮病; 仮の住まい; 仮に; 仮処分; 仮名; 
+仮面; 仮定; 仮装; 仮病; 仮の住まい; 仮に; 仮処分; 仮名
 921; 片;; ヘン；かた-、かた; one-sided, leaf, sheet, right-side kata radical (no. 91)
-紙片; 破片; 断片; 片方; 片手; 片一方; 
+紙片; 破片; 断片; 片方; 片手; 片一方
 922; 版;; ハン; printing block, printing plate, edition, impression, label
-版画; 写真版; 出版; 
+版画; 写真版; 出版
 923; 板;; ハン、バン；いた; plank, board, plate, stage
-乾板; 鉄板; 黒板; 掲示板; 板前; 
+乾板; 鉄板; 黒板; 掲示板; 板前
 924; 販;; ハン; marketing, sell, trade
-販売; 販路; 市販; 
+販売; 販路; 市販
 925; 義;; ギ; righteousness, justice, morality, honor, loyalty, meaning
-義理; 意義; 
+義理; 意義
 926; 議;; ギ; deliberation, consultation, debate, consideration
-議論; 会議; 異議; 
+議論; 会議; 異議
 927; 儀;; ギ; ceremony, rule, affair, case, a matter
-儀式; 威儀; 地球儀; 
+儀式; 威儀; 地球儀
 928; 犠;犧; ギ、キ；いけにえ; sacrifice
-犠打; 
+犠打
 929; 牲;; セイ; animal sacrifice, offering
-犠牲; 
+犠牲
 930; 旨;; シ；むね、うま.い; delicious, relish, show a liking for, purport, will, clever, expert
-要旨; 趣旨; 本旨; 旨; 旨い; 
+要旨; 趣旨; 本旨; 旨; 旨い
 931; 指;; シ；ゆび、さ.す、-さ.し; finger, point to, indicate, put into, play (chess), measure (ruler)
-指示; 指導; 屈指; 指先; 指図; 名指し; 
+指示; 指導; 屈指; 指先; 指図; 名指し
 932; 揮;; キ；ふる.う; brandish, wave, wag, swing, shake
-揮発油; 指揮; 発揮; 
+揮発油; 指揮; 発揮
 933; 輝;; キ；かがや.く; radiance, shine, sparkle, gleam, twinkle
-輝石; 光輝; 輝かしい; 
+輝石; 光輝; 輝かしい
 934; 刺;; シ；さ.す、さ.さる、さ.し、さし、とげ; thorn, pierce, stab, prick, sting, calling card
-刺激; 名刺; 風刺; 刺し殺す; 刺身; 刺さる; 
+刺激; 名刺; 風刺; 刺し殺す; 刺身; 刺さる
 935; 策;; サク; scheme, plan, policy, step, means
-策略; 政策; 対策; 
+策略; 政策; 対策
 936; 差;; サ；さ.す、さ.し; distinction, difference, variation, discrepancy, margin, balance
-差異; 差別; 誤差; 差す; 
+差異; 差別; 誤差; 差す
 937; 着;; チャク、ジャク；き.る、き.せる、つ.く、つ.ける; don, arrive, wear, counter for suits of clothing
-着用; 着手; 土着; 愛着; 執着; 着物; 晴れ着; お仕着せ; 船着き場; 着ける; 
+着用; 着手; 土着; 愛着; 執着; 着物; 晴れ着; お仕着せ; 船着き場; 着ける
 938; 看;; カン；み.る; watch over, see
-看護; 看破; 看板; 
+看護; 看破; 看板
 939; 到;; トウ；いた.る; arrival, proceed, reach, attain, result in
-到着; 到底; 周到; 
+到着; 到底; 周到
 940; 倒;; トウ；たお.れる、-だお.れ、たお.す、さかさま、さかさ、さかしま; overthrow, fall, collapse, drop, break down
-倒産; 圧倒; 共倒れ; 倒す; 
+倒産; 圧倒; 共倒れ; 倒す
 941; 論;; ロン；あげつら.う; argument, discourse
-論証; 論理; 
+論証; 論理
 942; 倫;; リン; ethics, companion
-倫理; 人倫; 絶倫; 
+倫理; 人倫; 絶倫
 943; 輪;; リン；わ; wheel, ring, circle, link, loop, counter for wheels and flowers
-輪番; 一輪; 輪切り; 首輪; 
+輪番; 一輪; 輪切り; 首輪
 944; 輸;; ユ、シュ; transport, send, be inferior
-輸出; 輸送; 運輸; 
+輸出; 輸送; 運輸
 945; 諭;; ユ；さと.す; rebuke, admonish, charge, warn, persuade
-諭旨; 教諭; 説諭; 諭し; 
+諭旨; 教諭; 説諭; 諭し
 946; 愉;; ユ；たの.しい、たの.しむ; pleasure, happy, rejoice
-愉快; 愉悦; 
+愉快; 愉悦
 947; 癒;; ユ；い.える、いや.す、い.やす; healing, cure, quench (thirst), wreak
-癒着; 治癒; 平癒; 癒やす; 癒える; 
+癒着; 治癒; 平癒; 癒やす; 癒える
 948; 台;臺; ダイ、タイ；うてな、われ、つかさ; pedestal, a stand, counter for machines and vehicles
-台地; 灯台; 一台; 台風; 
+台地; 灯台; 一台; 台風
 949; 治;; ジ、チ；おさ.める、おさ.まる、なお.る、なお.す; reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve
-政治; 療治; 治安; 治水; 自治; 治める; 治まる; 治る; 治す; 
+政治; 療治; 治安; 治水; 自治; 治める; 治まる; 治る; 治す
 950; 冶;; ヤ；い.る; melting, smelting
-冶金; 陶冶; 
+冶金; 陶冶
 951; 療;; リョウ; heal, cure
-療養; 医療; 治療; 
+療養; 医療; 治療
 952; 僚;; リョウ; colleague, official, companion
-僚友; 官僚; 同僚; 
+僚友; 官僚; 同僚
 953; 瞭;; リョウ；あきらか; clear
-明瞭; 
+明瞭
 954; 寮;; リョウ; dormitory, hostel, villa, tea pavillion
-寮生; 寮母; 独身寮; 
+寮生; 寮母; 独身寮
 955; 始;; シ；はじ.める、-はじ.める、はじ.まる; commence, begin
-始終; 年始; 始める; 始まる; 
+始終; 年始; 始める; 始まる
 956; 終;; シュウ；お.わる、-お.わる、おわ.る、お.える、つい、つい.に; end, finish
-終了; 終日; 最終; 終わる; 終える; 
+終了; 終日; 最終; 終わる; 終える
 957; 了;; リョウ; complete, finish
-了解; 完了; 校了; 
+了解; 完了; 校了
 958; 承;; ショウ、ジョウ；うけたまわ.る、う.ける; acquiesce, hear, listen to, be informed, receive
-承知; 承る; 
+承知; 承る
 959; 蒸;; ジョウ、セイ；む.す、む.れる、む.らす; steam, heat, sultry, foment, get musty
-蒸気; 蒸発; 蒸し暑い; 蒸れる; 蒸らす; 
+蒸気; 蒸発; 蒸し暑い; 蒸れる; 蒸らす
 960; 舞;; ブ；ま.う、-ま.う、まい; dance, flit, circle, wheel
-舞踏; 舞台; 舞い上がる; 舞; 
+舞踏; 舞台; 舞い上がる; 舞
 961; 隣;; リン；とな.る、となり; neighboring
-隣室; 隣接; 近隣; 隣り合う; 両隣; 
+隣室; 隣接; 近隣; 隣り合う; 両隣
 962; 瞬;; シュン；またた.く、まじろ.ぐ; wink, blink, twinkle
-瞬間; 瞬時; 一瞬; 瞬く; 瞬ぐ; 
+瞬間; 瞬時; 一瞬; 瞬く; 瞬ぐ
 963; 夢;; ム、ボウ；ゆめ、ゆめ.みる、くら.い; dream, vision, illusion
-夢幻; 夢中; 悪夢; 夢見る; 初夢; 
+夢幻; 夢中; 悪夢; 夢見る; 初夢
 964; 枝;; シ；えだ; bough, branch, twig, limb, counter for branches
-枝葉; 枝; 
+枝葉; 枝
 965; 技;; ギ；わざ; skill, art, craft, ability, feat, performance, vocation, arts
-技術; 技師; 特技; 技; 
+技術; 技師; 特技; 技
 966; 伎;; ギ、キ；わざ、わざおぎ; deed, skill
-歌舞伎; 伎楽; 
+歌舞伎; 伎楽
 967; 岐;; キ、ギ; branch off, fork in road, scene, arena, theater
-岐路; 分岐; 多岐; 
+岐路; 分岐; 多岐
 968; 峠;; ；とうげ; mountain peak, mountain pass, climax, crest, (kokuji)
-峠道; 
+峠道
 969; 阜;; フ、フウ; hill, mound, left village radical (no. 170)
-岐阜県; 
+岐阜県
 970; 急;; キュウ；いそ.ぐ、いそ.ぎ、せ.く; hurry, emergency, sudden, steep
-急速; 急務; 急ぐ; 
+急速; 急務; 急ぐ
 971; 争;爭; ソウ；あらそ.う、いか.でか; contend, dispute, argue
-争議; 争う; 
+争議; 争う
 972; 情;; ジョウ、セイ；なさ.け; feelings, emotion, passion, sympathy, circumstances, facts
-情報; 情熱; 風情; 情け; 
+情報; 情熱; 風情; 情け
 973; 清;; セイ、ショウ、シン；きよ.い、きよ.まる、きよ.める; pure, purify, cleanse, exorcise, Manchu dynasty
-清潔; 清算; 六根清浄; 清らか; 清まる; 清める; 清水; 
+清潔; 清算; 六根清浄; 清らか; 清まる; 清める; 清水
 974; 晴;; セイ；は.れる、は.れ、は.れ-、-ば.れ、は.らす; clear up
-晴天; 晴雨; 晴れ; 晴れやか; 気晴らし; 
+晴天; 晴雨; 晴れ; 晴れやか; 気晴らし
 975; 精;; セイ、ショウ；しら.げる、くわ.しい; refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill
-精米; 精密; 精力; 精進; 不精; 
+精米; 精密; 精力; 精進; 不精
 976; 請;; セイ、シン、ショウ；こ.う、う.ける; solicit, invite, ask
-請求; 請願; 普請; 請う; 請ける; 請負; 下請け; 
+請求; 請願; 普請; 請う; 請ける; 請負; 下請け
 977; 静;靜; セイ、ジョウ；しず-、しず.か、しず.まる、しず.める; quiet
-静止; 静穏; 安静; 静脈; 静々と; 静けさ; 静か; 静まる; 静める; 
+静止; 静穏; 安静; 静脈; 静々と; 静けさ; 静か; 静まる; 静める
 978; 浄;淨; ジョウ、セイ；きよ.める、きよ.い; clean, purify, cleanse, exorcise, Manchu Dynasty
-浄化; 清浄; 不浄; 
+浄化; 清浄; 不浄
 979; 算;; サン；そろ; calculate, divining, number, abacus, probability
-算数; 予算; 
+算数; 予算
 980; 答;; トウ；こた.える、こた.え; solution, answer
-答弁; 答える; 答え; 
+答弁; 答える; 答え
 981; 符;; フ; token, sign, mark, tally, charm
-符号; 切符; 音符; 
+符号; 切符; 音符
 982; 博;; ハク、バク; Dr., command, esteem, win acclaim, Ph.D., exposition, fair
-博識; 博覧; 博士号; 博労; 博徒; 博士; 
+博識; 博覧; 博士号; 博労; 博徒; 博士
 983; 縛;; バク；しば.る; truss, arrest, bind, tie, restrain
-束縛; 捕縛; 金縛り; 
+束縛; 捕縛; 金縛り
 984; 簿;; ボ; register, record book
-簿記; 名簿; 
+簿記; 名簿
 985; 薄;; ハク；うす.い、うす-、-うす、うす.める、うす.まる、うす.らぐ、うす.ら-、うす.れる、すすき; dilute, thin, weak (tea), pampas grass
-薄情; 薄謝; 薄着; 品薄; 薄める; 薄まる; 薄らぐ; 薄れる; 
+薄情; 薄謝; 薄着; 品薄; 薄める; 薄まる; 薄らぐ; 薄れる
 986; 采;; サイ；と.る、いろどり; dice, form, appearance, take, gather, coloring
-采配; 喝采; 彩り; 
+采配; 喝采; 彩り
 987; 菜;; サイ；な; vegetable, side dish, greens
-菜園; 菜食; 野菜; 青菜; 
+菜園; 菜食; 野菜; 青菜
 988; 採;; サイ；と.る; pick, take, fetch, take up
-採集; 採用; 採光; 採る; 
+採集; 採用; 採光; 採る
 989; 彩;; サイ；いろど.る; coloring, paint, makeup
-彩色; 淡彩; 彩る; 
+彩色; 淡彩; 彩る
 990; 杉;; サン；すぎ; cedar, cryptomeria
-杉並木; 
+杉並木
 991; 街;; ガイ、カイ；まち; boulevard, street, town
-街頭; 市街; 商店街; 街道; 街角; 
+街頭; 市街; 商店街; 街道; 街角
 992; 術;; ジュツ；すべ; art, technique, skill, means, trick, resources, magic
-術策; 
+術策
 993; 述;; ジュツ；の.べる; mention, state, speak, relate
-陳述; 著述; 述べる; 
+陳述; 著述; 述べる
 994; 余;餘; ヨ；あま.る、あま.り、あま.す、あんま.り; too much, myself, surplus, other, remainder
-余剰; 余地; 残余; 余り; 余す; 
+余剰; 余地; 残余; 余り; 余す
 995; 除;; ジョ、ジ；のぞ.く、-よ.け; exclude, division (x/3), remove, abolish, cancel, except
-除外; 除数; 解除; 掃除; 除く; 
+除外; 除数; 解除; 掃除; 除く
 996; 徐;; ジョ；おもむ.ろに; gradually, slowly, deliberately, gently
-徐行; 徐々; 
+徐行; 徐々
 997; 叙;敍; ジョ；つい.ず、ついで; confer, relate, narrate, describe
-叙述; 叙景; 叙勲; 
+叙述; 叙景; 叙勲
 998; 斜;; シャ；なな.め、はす; diagonal, slanting, oblique
-斜面; 斜線; 斜め; 斜; 
+斜面; 斜線; 斜め; 斜
 999; 途;; ト；みち; route, way, road
-途上; 帰途; 前途; 
+途上; 帰途; 前途
 1000; 塗;; ト；ぬ.る、ぬ.り、まみ.れる; paint, plaster, daub, smear, coating
-塗布; 塗装; 塗料; 塗り物; 塗れる; 
+塗布; 塗装; 塗料; 塗り物; 塗れる
 1001; 漆;; シツ；うるし; lacquer, varnish, seven
-漆器; 漆黒; 乾漆; 漆; 
+漆器; 漆黒; 乾漆; 漆
