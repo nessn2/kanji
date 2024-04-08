@@ -47,7 +47,7 @@
 1025; 撃;擊; ゲキ；う.つ; beat, attack, defeat, conquer
 撃退; 早撃ち
 1026; 拭;; ショク、シキ；ぬぐ.う、ふ.く; wipe, mop, swab
-払拭; 拭く; 拭う
+払拭; 清拭; 拭く; 拭う
 1027; 試;; シ；こころ.みる、ため.す; test, try, attempt, experiment, ordeal
 試作; 追試; 試みる; 試す
 1028; 検;檢; ケン；しら.べる; examination, investigate
