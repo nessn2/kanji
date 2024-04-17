@@ -15,7 +15,7 @@
 1009; 郵;; ユウ; mail, stagecoach stop
 郵便; 郵送; 郵券
 1010; 錘;; スイ；つむ、おもり; weight, plumb bob, sinker, spindle
-紡錘; 錘
+紡錘; 錘; 紡ぐ
 1011; 華;; カ、ケ；はな; splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous
 華美; 繁華; 栄華; 香華; 散華; 華やか; 華々しい
 1012; 侵;; シン；おか.す; encroach, invade, raid, trespass, violate
