@@ -1,992 +1,992 @@
-1002 | <span class="k">仙</span> | <span class="t"></span> | セン、セント | hermit, wizard, cent<br>
-<span class="w">仙骨 | 仙人 | 酒仙</span><br>
-1003 | <span class="k">垂</span> | <span class="t"></span> | スイ；た.れる、た.らす、た.れ、-た.れ、なんな.んとする | droop, suspend, hang, slouch<br>
-<span class="w">垂直 | 胃下垂 | 雨垂れ | 垂らす</span><br>
-1004 | <span class="k">乗</span> | <span class="t">乘</span> | ジョウ、ショウ；の.る、-の.り、の.せる | ride, power, multiplication, record, counter for vehicles, board, mount, join<br>
-<span class="w">乗数 | 乗車 | 大乗的 | 乗り物 | 乗せる</span><br>
-1005 | <span class="k">兼</span> | <span class="t"></span> | ケン；か.ねる、-か.ねる | concurrently, and, beforehand, in advance<br>
-<span class="w">兼用 | 兼任 | 兼職 | 兼ねる</span><br>
-1006 | <span class="k">剰</span> | <span class="t">剩</span> | ジョウ；あまつさ.え、あま.り、あま.る | surplus, besides<br>
-<span class="w">剰余 | 過剰</span><br>
-1007 | <span class="k">睡</span> | <span class="t"></span> | スイ；ねむ.る、ねむ.い | drowsy, sleep, die<br>
-<span class="w">睡眠 | 熟睡 | 午睡</span><br>
-1008 | <span class="k">眠</span> | <span class="t"></span> | ミン；ねむ.る、ねむ.い | sleep, die, sleepy<br>
-<span class="w">不眠 | 安眠 | 眠る | 眠たい | 眠気</span><br>
-1009 | <span class="k">郵</span> | <span class="t"></span> | ユウ | mail, stagecoach stop<br>
-<span class="w">郵便 | 郵送 | 郵券</span><br>
-1010 | <span class="k">錘</span> | <span class="t"></span> | スイ；つむ、おもり | weight, plumb bob, sinker, spindle<br>
-<span class="w">紡錘 | 錘</span><br>
-1011 | <span class="k">華</span> | <span class="t"></span> | カ、ケ；はな | splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous<br>
-<span class="w">華美 | 繁華 | 栄華 | 香華 | 散華 | 華やか | 華々しい</span><br>
-1012 | <span class="k">侵</span> | <span class="t"></span> | シン；おか.す | encroach, invade, raid, trespass, violate<br>
-<span class="w">侵入 | 侵害 | 不可侵 | 侵す</span><br>
-1013 | <span class="k">浸</span> | <span class="t"></span> | シン；ひた.す、ひた.る、つ.かる | immersed, soak, dip, steep, moisten, wet, dunk<br>
-<span class="w">浸水 | 浸透 | 水浸し | 浸る</span><br>
-1014 | <span class="k">寝</span> | <span class="t">寢</span> | シン；ね.る、ね.かす、い.ぬ、みたまや、や.める | lie down, sleep, rest, bed, remain unsold<br>
-<span class="w">寝室 | 寝具 | 寝る | 寝かす | 寝かせる</span><br>
-1015 | <span class="k">掃</span> | <span class="t"></span> | ソウ、シュ；は.く | sweep, brush<br>
-<span class="w">清掃 | 一掃 | 掃く</span><br>
-1016 | <span class="k">婦</span> | <span class="t"></span> | フ；よめ | lady, woman, wife, bride<br>
-<span class="w">婦人 | 主婦</span><br>
-1017 | <span class="k">帰</span> | <span class="t">歸</span> | キ；かえ.る、かえ.す、おく.る、とつ.ぐ | homecoming, arrive at, lead to, result in<br>
-<span class="w">帰還 | 帰納 | 復帰 | 帰る | 帰す</span><br>
-1018 | <span class="k">戻</span> | <span class="t">戾</span> | レイ；もど.す、もど.る | re-, return, revert, resume, restore, go backwards<br>
-<span class="w">戻入 | 返戻 | 差し戻し | 後戻り</span><br>
-1019 | <span class="k">涙</span> | <span class="t">淚</span> | ルイ、レイ；なみだ | tears, sympathy<br>
-<span class="w">感涙 | 声涙 | 涙ぐむ | 涙ぐましい</span><br>
-1020 | <span class="k">射</span> | <span class="t"></span> | シャ；い.る、さ.す、う.つ | shoot, shine into, onto, archery<br>
-<span class="w">射撃 | 発射 | 日射病 | 射る | 射す</span><br>
-1021 | <span class="k">謝</span> | <span class="t"></span> | シャ；あやま.る | apologize, thank, refuse<br>
-<span class="w">謝絶 | 感謝 | 平謝り</span><br>
-1022 | <span class="k">討</span> | <span class="t"></span> | トウ；う.つ | chastise, attack, defeat, destroy, conquer<br>
-<span class="w">討伐 | 討論 | 敵討ち</span><br>
-1023 | <span class="k">訂</span> | <span class="t"></span> | テイ；ただ.す | revise, correct, decide<br>
-<span class="w">訂正 | 改訂</span><br>
-1024 | <span class="k">打</span> | <span class="t"></span> | ダ、ダース；う.つ、う.ち-、ぶ.つ | strike, hit, knock, pound, dozen<br>
-<span class="w">打撃 | 打破 | 乱打 | 打ち込む</span><br>
-1025 | <span class="k">撃</span> | <span class="t">擊</span> | ゲキ；う.つ | beat, attack, defeat, conquer<br>
-<span class="w">撃退 | 早撃ち</span><br>
-1026 | <span class="k">拭</span> | <span class="t"></span> | ショク、シキ；ぬぐ.う、ふ.く | wipe, mop, swab<br>
-<span class="w">払拭 | 清拭 | 拭く | 拭う</span><br>
-1027 | <span class="k">試</span> | <span class="t"></span> | シ；こころ.みる、ため.す | test, try, attempt, experiment, ordeal<br>
-<span class="w">試作 | 追試 | 試みる | 試す</span><br>
-1028 | <span class="k">検</span> | <span class="t">檢</span> | ケン；しら.べる | examination, investigate<br>
-<span class="w">検査 | 検討 | 点検</span><br>
-1029 | <span class="k">験</span> | <span class="t">驗</span> | ケン、ゲン；あかし、しるし、ため.す、ためし | verification, effect, testing<br>
-<span class="w">試験 | 経験 | 実験 | 験がある | 霊験</span><br>
-1030 | <span class="k">険</span> | <span class="t">險</span> | ケン；けわ.しい | precipitous, inaccessible place, impregnable position, steep place, sharp eyes<br>
-<span class="w">険悪 | 保険 | 険しい</span><br>
-1031 | <span class="k">倹</span> | <span class="t">儉</span> | ケン；つま.しい、つづまやか | frugal, economy, thrifty<br>
-<span class="w">倹約 | 節倹 | 勤倹</span><br>
-1032 | <span class="k">剣</span> | <span class="t">劍</span> | ケン；つるぎ | sabre, sword, blade, clock hand<br>
-<span class="w">剣道 | 剣舞 | 剣</span><br>
-1033 | <span class="k">谷</span> | <span class="t"></span> | コク；たに、きわ.まる | valley<br>
-<span class="w">幽谷 | 谷川</span><br>
-1034 | <span class="k">欲</span> | <span class="t"></span> | ヨク；ほっ.する、ほ.しい | longing, covetousness, greed, passion, desire, craving<br>
-<span class="w">欲望 | 食欲 | 無欲 | 欲する | 欲しがる</span><br>
-1035 | <span class="k">浴</span> | <span class="t"></span> | ヨク；あ.びる、あ.びせる | bathe, be favored with, bask in<br>
-<span class="w">浴場 | 海水浴 | 水浴び | 浴びせる</span><br>
-1036 | <span class="k">容</span> | <span class="t"></span> | ヨウ；い.れる | contain, form, looks<br>
-<span class="w">容易 | 容器 | 形容</span><br>
-1037 | <span class="k">溶</span> | <span class="t"></span> | ヨウ；と.ける、と.かす、と.く | melt, dissolve, thaw<br>
-<span class="w">溶解 | 溶液 | 水溶液 | 溶ける | 溶かす | 溶く</span><br>
-1038 | <span class="k">俗</span> | <span class="t"></span> | ゾク | vulgar, customs, manners, worldliness, mundane things<br>
-<span class="w">俗事 | 風俗 | 民俗</span><br>
-1039 | <span class="k">裕</span> | <span class="t"></span> | ユウ | abundant, rich, fertile<br>
-<span class="w">裕福 | 余裕</span><br>
-1040 | <span class="k">寛</span> | <span class="t">寬</span> | カン；くつろ.ぐ、ひろ.い、ゆる.やか | tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded<br>
-<span class="w">寛大 | 寛容 | 寛厳</span><br>
-1041 | <span class="k">甘</span> | <span class="t"></span> | カン；あま.い、あま.える、あま.やかす、うま.い | sweet, coax, pamper, be content, sugary<br>
-<span class="w">甘言 | 甘受 | 甘味料 | 甘み | 甘える | 甘やかす</span><br>
-1042 | <span class="k">紺</span> | <span class="t"></span> | コン | dark blue, navy<br>
-<span class="w">紺青 | 紺屋</span><br>
-1043 | <span class="k">紅</span> | <span class="t"></span> | コウ、ク；べに、くれない、あか.い | crimson, deep red<br>
-<span class="w">紅白 | 紅茶 | 真紅 | 深紅 | 紅 | 口紅 | 紅葉</span><br>
-1044 | <span class="k">攻</span> | <span class="t"></span> | コウ；せ.める | aggression, attack, criticize, polish<br>
-<span class="w">攻守 | 攻撃 | 専攻 | 攻める</span><br>
-1045 | <span class="k">功</span> | <span class="t"></span> | コウ、ク；いさお | achievement, merits, success, honor, credit<br>
-<span class="w">功名 | 功績 | 功徳</span><br>
-1046 | <span class="k">巧</span> | <span class="t"></span> | コウ；たく.み、たく.む、うま.い | adroit, skilled, ingenuity<br>
-<span class="w">巧拙 | 巧妙 | 技巧 | 巧みな術</span><br>
-1047 | <span class="k">朽</span> | <span class="t"></span> | キュウ；く.ちる | decay, rot, remain in seclusion<br>
-<span class="w">不朽 | 老朽 | 腐朽 | 朽ちる</span><br>
-1048 | <span class="k">枯</span> | <span class="t"></span> | コ；か.れる、か.らす | wither, die, dry up, be seasoned<br>
-<span class="w">枯死 | 枯淡 | 枯れ木 | 木枯らし</span><br>
-1049 | <span class="k">汚</span> | <span class="t"></span> | オ；けが.す、けが.れる、けが.らわしい、よご.す、よご.れる、きたな.い | dirty, pollute, disgrace, rape, defile<br>
-<span class="w">汚点 | 汚物 | 汚名 | 汚す | 汚れる | 汚らわしい | 口汚し | 汚れ物 | 汚らしい</span><br>
-1050 | <span class="k">升</span> | <span class="t"></span> | ショウ；ます | measuring box, 1.8 liter<br>
-<span class="w">升 | 升目</span><br>
-1051 | <span class="k">弁</span> | <span class="t">辨瓣辯</span> | ベン、ヘン；かんむり、わきま.える、わ.ける、はなびら、あらそ.う | valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap<br>
-<span class="w">弁償 | 雄弁</span><br>
-1052 | <span class="k">昇</span> | <span class="t"></span> | ショウ；のぼ.る | rise up<br>
-<span class="w">昇降 | 昇進 | 昇る</span><br>
-1053 | <span class="k">登</span> | <span class="t"></span> | トウ、ト、ドウ、ショウ、チョウ；のぼ.る、あ.がる | ascend, climb up<br>
-<span class="w">登壇 | 登校 | 登記 | 登山 | 登城 | 山登り</span><br>
-1054 | <span class="k">澄</span> | <span class="t"></span> | チョウ；す.む、す.ます、-す.ます | lucidity, be clear, clear, clarify, settle, strain, look grave<br>
-<span class="w">清澄 | 上澄み | 澄まし顔</span><br>
-1055 | <span class="k">充</span> | <span class="t"></span> | ジュウ；あ.てる、み.たす | allot, fill<br>
-<span class="w">充実 | 充電 | 充てる</span><br>
-1056 | <span class="k">銃</span> | <span class="t"></span> | ジュウ；つつ | gun, arms<br>
-<span class="w">銃砲 | 銃弾 | 小銃</span><br>
-1057 | <span class="k">統</span> | <span class="t"></span> | トウ；す.べる、ほび.る | overall, relationship, ruling, governing<br>
-<span class="w">統一 | 統計 | 統べる</span><br>
-1058 | <span class="k">流</span> | <span class="t"></span> | リュウ、ル；なが.れる、なが.れ、なが.す、-なが.す | current, a sink, flow, forfeit<br>
-<span class="w">流行 | 流動 | 電流 | 流布 | 流転 | 流罪 | 流れる | 流す</span><br>
-1059 | <span class="k">硫</span> | <span class="t"></span> | リュウ | sulphur<br>
-<span class="w">硫安 | 硫酸 | 硫化 | 硫黄</span><br>
-1060 | <span class="k">盲</span> | <span class="t"></span> | モウ；めくら | blind, blind man, ignoramus<br>
-<span class="w">盲点 | 盲従 | 文盲</span><br>
-1061 | <span class="k">忘</span> | <span class="t"></span> | ボウ；わす.れる | forget<br>
-<span class="w">忘却 | 忘年会 | 備忘 | 物忘れ</span><br>
-1062 | <span class="k">忙</span> | <span class="t"></span> | ボウ、モウ；いそが.しい、せわ.しい、おそ.れる、うれえるさま | busy, occupied, restless<br>
-<span class="w">忙殺 | 多忙 | 繁忙 | 忙しい</span><br>
-1063 | <span class="k">荒</span> | <span class="t"></span> | コウ；あら.い、あら-、あ.れる、あ.らす、-あ.らし、すさ.む | laid waste, rough, rude, wild<br>
-<span class="w">荒天 | 荒廃 | 荒涼 | 荒波 | 荒々しい | 荒れ地 | 大荒れ | 倉庫荒らし | 荒む</span><br>
-1064 | <span class="k">慌</span> | <span class="t"></span> | コウ；あわ.てる、あわ.ただしい | disconcerted, be confused, lose one's head<br>
-<span class="w">恐慌 | 大慌て | 慌ただしい</span><br>
-1065 | <span class="k">望</span> | <span class="t"></span> | ボウ、モウ；のぞ.む、もち | ambition, full moon, hope, desire, aspire to, expect<br>
-<span class="w">望郷 | 人望 | 所望 | 大望 | 本望 | 望ましい</span><br>
-1066 | <span class="k">希</span> | <span class="t"></span> | キ、ケ；まれ、こいねが.う | hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal<br>
-<span class="w">希望 | 希少 | 希薄 | 希な</span><br>
-1067 | <span class="k">稀</span> | <span class="t"></span> | キ、ケ；まれ、まばら | rare, phenomenal, dilute (acid)<br>
-<span class="w">稀薄 | 稀有 | 稀</span><br>
-1068 | <span class="k">括</span> | <span class="t"></span> | カツ；くく.る | fasten, tie up, arrest, constrict<br>
-<span class="w">括弧 | 一括 | 包括</span><br>
-1069 | <span class="k">拘</span> | <span class="t"></span> | コウ；かか.わる | arrest, seize, concerned, adhere to, despite<br>
-<span class="w">拘束 | 拘留 | 拘置 | 拘る | 拘る</span><br>
-1070 | <span class="k">拾</span> | <span class="t"></span> | シュウ、ジュウ；ひろ.う | pick up, gather, find, go on foot, ten<br>
-<span class="w">拾得 | 収拾 | 拾万円 | 拾い物</span><br>
-1071 | <span class="k">捨</span> | <span class="t"></span> | シャ；す.てる | discard, throw away, abandon, resign, reject, sacrifice<br>
-<span class="w">捨象 | 喜捨 | 捨て子</span><br>
-1072 | <span class="k">孤</span> | <span class="t"></span> | コ | orphan, alone<br>
-<span class="w">孤児 | 孤独 | 孤立</span><br>
-1073 | <span class="k">弧</span> | <span class="t"></span> | コ | arc, arch, bow<br>
-<span class="w">弧状 | 円弧</span><br>
-1074 | <span class="k">弾</span> | <span class="t">彈</span> | ダン、タン；ひ.く、-ひ.き、はず.む、たま、はじ.く、はじ.ける、ただ.す、はじ.きゆみ | bullet, twang, flip, snap<br>
-<span class="w">弾力 | 弾圧 | 弾き手 | 弾む | 弾</span><br>
-1075 | <span class="k">禅</span> | <span class="t">禪</span> | ゼン、セン；しずか、ゆず.る | Zen, silent meditation<br>
-<span class="w">禅宗 | 禅寺 | 座禅</span><br>
-1076 | <span class="k">系</span> | <span class="t"></span> | ケイ | lineage, system<br>
-<span class="w">系統 | 系列 | 体系</span><br>
-1077 | <span class="k">係</span> | <span class="t"></span> | ケイ；かか.る、かかり、-がかり、かか.わる | person in charge, connection, duty, concern oneself<br>
-<span class="w">係累 | 係争 | 係る | 係員 | 係わる</span><br>
-1078 | <span class="k">孫</span> | <span class="t"></span> | ソン；まご | grandchild, descendants<br>
-<span class="w">嫡孫 | 孫</span><br>
-1079 | <span class="k">懸</span> | <span class="t"></span> | ケン、ケ；か.ける、か.かる | state of suspension, hang, depend, consult, distant, far apart<br>
-<span class="w">懸垂 | 懸賞 | 懸命 | 懸念 | 懸想 | 命懸け | 懸かる</span><br>
-1080 | <span class="k">偏</span> | <span class="t"></span> | ヘン；かたよ.る | partial, side, left-side radical, inclining, biased<br>
-<span class="w">偏向 | 偏見 | 偏食 | 偏る</span><br>
-1081 | <span class="k">遍</span> | <span class="t"></span> | ヘン；あまね.く | everywhere, times, widely, generally<br>
-<span class="w">遍歴 | 一遍</span><br>
-1082 | <span class="k">編</span> | <span class="t"></span> | ヘン；あ.む、-あ.み | compilation, knit, plait, braid, twist, editing, completed poem, part of a book<br>
-<span class="w">編集 | 編成 | 長編 | 手編み</span><br>
-1083 | <span class="k">篇</span> | <span class="t"></span> | ヘン | volume, chapter, book, editing, compilation<br>
-<span class="w">短篇</span><br>
-1084 | <span class="k">普</span> | <span class="t"></span> | フ；あまね.く、あまねし | universal, wide(ly), generally, Prussia<br>
-<span class="w">普通 | 普遍</span><br>
-1085 | <span class="k">譜</span> | <span class="t"></span> | フ | musical score, music, note, staff, table, genealogy<br>
-<span class="w">系譜 | 楽譜 | 年譜</span><br>
-1086 | <span class="k">職</span> | <span class="t"></span> | ショク、ソク | post, employment, work<br>
-<span class="w">職業 | 職務 | 就職</span><br>
-1087 | <span class="k">織</span> | <span class="t"></span> | ショク、シキ；お.る、お.り、おり、-おり、-お.り | weave, fabric<br>
-<span class="w">織機 | 染織 | 紡織 | 組織 | 織物</span><br>
-1088 | <span class="k">識</span> | <span class="t"></span> | シキ；し.る、しる.す | discriminating, know, write<br>
-<span class="w">識別 | 意識</span><br>
-1089 | <span class="k">殉</span> | <span class="t"></span> | ジュン | martyrdom, follow by resigning<br>
-<span class="w">殉死 | 殉職 | 殉難</span><br>
-1090 | <span class="k">退</span> | <span class="t"></span> | タイ；しりぞ.く、しりぞ.ける、ひ.く、の.く、の.ける、ど.く | retreat, withdraw, retire, resign, repel, expel, reject<br>
-<span class="w">退却 | 退屈 | 進退 | 退く | 退ける | 立ち退く</span><br>
-1091 | <span class="k">眼</span> | <span class="t"></span> | ガン、ゲン；まなこ、め | eyeball<br>
-<span class="w">眼球 | 眼力 | 主眼 | 開眼 | どんぐり眼 | 血眼 | 眼</span><br>
-1092 | <span class="k">智</span> | <span class="t"></span> | チ | wisdom, intellect, reason<br>
-<span class="w">智慧</span><br>
-1093 | <span class="k">仁</span> | <span class="t"></span> | ジン、ニ、ニン | humanity, virtue, benevolence, charity, man, kernel<br>
-<span class="w">仁義 | 仁術 | 仁王</span><br>
-1094 | <span class="k">忍</span> | <span class="t"></span> | ニン；しの.ぶ、しの.ばせる | endure, bear, put up with, conceal, secrete, spy, sneak<br>
-<span class="w">忍者 | 忍耐 | 残忍 | 忍び足 | 忍びやか | 忍ばせる</span><br>
-1095 | <span class="k">認</span> | <span class="t"></span> | ニン；みと.める、したた.める | acknowledge, witness, discern, recognize, appreciate, believe<br>
-<span class="w">認識 | 承認 | 否認 | 認める</span><br>
-1096 | <span class="k">求</span> | <span class="t"></span> | キュウ、グ；もと.める | request, want, wish for, require, demand<br>
-<span class="w">求職 | 要求 | 追求 | 求める</span><br>
-1097 | <span class="k">救</span> | <span class="t"></span> | キュウ；すく.う | salvation, save, help, rescue, reclaim<br>
-<span class="w">救助 | 救援 | 救急 | 救う</span><br>
-1098 | <span class="k">球</span> | <span class="t"></span> | キュウ；たま | ball, sphere<br>
-<span class="w">球形 | 球技 | 地球 | 球</span><br>
-1099 | <span class="k">屯</span> | <span class="t"></span> | トン；たむろ | barracks, police station, camp, ton<br>
-<span class="w">駐屯 | 駐屯地</span><br>
-1100 | <span class="k">純</span> | <span class="t"></span> | ジュン | genuine, purity, innocence, net (profit)<br>
-<span class="w">純真 | 不純</span><br>
-1101 | <span class="k">鈍</span> | <span class="t"></span> | ドン；にぶ.い、にぶ.る、にぶ-、なま.る、なまく.ら | dull, slow, foolish, blunt<br>
-<span class="w">鈍感 | 鈍角 | 鈍い | 鈍る</span><br>
-1102 | <span class="k">召</span> | <span class="t"></span> | ショウ；め.す | seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)<br>
-<span class="w">召喚 | 召集 | 召し上がる</span><br>
-1103 | <span class="k">招</span> | <span class="t"></span> | ショウ；まね.く | beckon, invite, summon, engage<br>
-<span class="w">招待 | 招致 | 招請 | 招く</span><br>
-1104 | <span class="k">沼</span> | <span class="t"></span> | ショウ；ぬま | marsh, lake, bog, swamp, pond<br>
-<span class="w">沼沢 | 湖沼 | 沼地</span><br>
-1105 | <span class="k">紹</span> | <span class="t"></span> | ショウ | introduce, inherit, help<br>
-<span class="w">紹介</span><br>
-1106 | <span class="k">詔</span> | <span class="t"></span> | ショウ；みことのり | imperial edict<br>
-<span class="w">詔勅 | 詔書 | 詔</span><br>
-1107 | <span class="k">勅</span> | <span class="t">敕</span> | チョク；いまし.める、みことのり | imperial order<br>
-<span class="w">勅語 | 勅使</span><br>
-1108 | <span class="k">昭</span> | <span class="t"></span> | ショウ | shining, bright<br>
-<span class="w">昭和</span><br>
-1109 | <span class="k">照</span> | <span class="t"></span> | ショウ；て.る、て.らす、て.れる | illuminate, shine, compare, bashful<br>
-<span class="w">照明 | 照会 | 対照的 | 日照り | 照らす | 照れる</span><br>
-1110 | <span class="k">超</span> | <span class="t"></span> | チョウ；こ.える、こ.す | transcend, super-, ultra-<br>
-<span class="w">超越 | 超過 | 入超 | 超える | 超す</span><br>
-1111 | <span class="k">越</span> | <span class="t"></span> | エツ、オツ；こ.す、-こ.す、-ご.し、こ.える、-ご.え | surpass, cross over, move to, exceed, Vietnam<br>
-<span class="w">越境 | 年越し | 山越え</span><br>
-1112 | <span class="k">趣</span> | <span class="t"></span> | シュ；おもむき、おもむ.く | purport, gist, elegance, interest, proceed to, tend, become<br>
-<span class="w">趣向 | 趣味 | 趣</span><br>
-1113 | <span class="k">赴</span> | <span class="t"></span> | フ；おもむ.く | proceed, get, become, tend<br>
-<span class="w">赴任 | 赴く</span><br>
-1114 | <span class="k">訃</span> | <span class="t"></span> | フ；しらせ | obituary<br>
-<span class="w">訃報</span><br>
-1115 | <span class="k">朴</span> | <span class="t"></span> | ボク；ほう、ほお、えのき | crude, simple, plain, docile<br>
-<span class="w">純朴 | 素朴</span><br>
-1116 | <span class="k">掛</span> | <span class="t"></span> | カイ、ケイ；か.ける、-か.ける、か.け、-か.け、-が.け、か.かる、-か.かる、-が.かる、か.かり、-が.かり、かかり、-がかり | hang, suspend, depend, arrive at, tax, pour<br>
-<span class="w">掛ける | 掛かる | 掛</span><br>
-1117 | <span class="k">摘</span> | <span class="t"></span> | テキ；つ.む | pinch, pick, pluck, trim, clip, summarize<br>
-<span class="w">摘要 | 摘発 | 指摘 | 摘み草</span><br>
-1118 | <span class="k">滴</span> | <span class="t"></span> | テキ；しずく、したた.る | drip, drop<br>
-<span class="w">水滴 | 点滴 | 一滴 | 滴 | 滴り</span><br>
-1119 | <span class="k">嫡</span> | <span class="t"></span> | チャク、テキ | legitimate wife, direct descent (non-bastard)<br>
-<span class="w">嫡子 | 嫡流</span><br>
-1120 | <span class="k">適</span> | <span class="t"></span> | テキ；かな.う | suitable, occasional, rare, qualified, capable<br>
-<span class="w">適切 | 適度 | 快適</span><br>
-1121 | <span class="k">敵</span> | <span class="t"></span> | テキ；かたき、あだ、かな.う | enemy, foe, opponent<br>
-<span class="w">敵意 | 敵役 | 商売敵</span><br>
-1122 | <span class="k">授</span> | <span class="t"></span> | ジュ；さず.ける、さず.かる | impart, instruct, grant, confer<br>
-<span class="w">授与 | 伝授 | 教授 | 授ける | 授かる</span><br>
-1123 | <span class="k">援</span> | <span class="t"></span> | エン | abet, help, save<br>
-<span class="w">援助 | 応援</span><br>
-1124 | <span class="k">媛</span> | <span class="t"></span> | エン；ひめ | beautiful woman, princess<br>
-<span class="w">才媛 | 愛媛県</span><br>
-1125 | <span class="k">緩</span> | <span class="t"></span> | カン；ゆる.い、ゆる.やか、ゆる.む、ゆる.める | slacken, loosen, relax, lessen, be moderate, ease<br>
-<span class="w">緩和 | 緩慢 | 緩急 | 緩い | 緩やか | 緩む | 緩める</span><br>
-1126 | <span class="k">暖</span> | <span class="t"></span> | ダン、ノン；あたた.か、あたた.かい、あたた.まる、あたた.める | warmth<br>
-<span class="w">暖流 | 暖房 | 暖気 | 暖か | 暖かい | 暖まる | 暖める</span><br>
-1127 | <span class="k">観</span> | <span class="t">觀</span> | カン；み.る、しめ.す | outlook, look, appearance, condition, view<br>
-<span class="w">観察 | 客観 | 壮観</span><br>
-1128 | <span class="k">勧</span> | <span class="t">勸</span> | カン、ケン；すす.める | persuade, recommend, advise, encourage, offer<br>
-<span class="w">勧誘 | 勧奨 | 勧告 | 勧める</span><br>
-1129 | <span class="k">権</span> | <span class="t">權</span> | ケン、ゴン；おもり、かり、はか.る | authority, power, rights<br>
-<span class="w">権利 | 権威 | 人権 | 権化 | 権現</span><br>
-1130 | <span class="k">歓</span> | <span class="t">歡</span> | カン；よろこ.ぶ | delight, joy<br>
-<span class="w">歓迎 | 歓声 | 交歓</span><br>
-1131 | <span class="k">鶴</span> | <span class="t"></span> | カク；つる | crane, stork<br>
-<span class="w">鶴首 | 千羽鶴</span><br>
-1132 | <span class="k">確</span> | <span class="t"></span> | カク、コウ；たし.か、たし.かめる | assurance, firm, tight, hard, solid, confirm, clear, evident<br>
-<span class="w">確定 | 確認 | 正確 | 確か | 確かめる</span><br>
-1133 | <span class="k">慢</span> | <span class="t"></span> | マン | ridicule, laziness<br>
-<span class="w">慢性 | 自慢</span><br>
-1134 | <span class="k">漫</span> | <span class="t"></span> | マン；みだり.に、そぞ.ろ | cartoon, involuntarily, unrestrained, in spite of oneself, corrupt<br>
-<span class="w">漫画 | 漫歩 | 散漫</span><br>
-1135 | <span class="k">卯</span> | <span class="t"></span> | ボウ、モウ；う | sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east<br>
-<span class="w">丁卯 | 卯年</span><br>
-1136 | <span class="k">抑</span> | <span class="t"></span> | ヨク；おさ.える | repress, well, now, in the first place, push, shove, press, seal, do in spite of<br>
-<span class="w">抑圧 | 抑制 | 抑える</span><br>
-1137 | <span class="k">仰</span> | <span class="t"></span> | ギョウ、コウ；あお.ぐ、おお.せ、お.っしゃる、おっしゃ.る | face-up, look up, depend, seek, respect, rever, drink, take<br>
-<span class="w">仰視 | 仰天 | 仰角 | 信仰 | 仰ぐ | 仰せ</span><br>
-1138 | <span class="k">迎</span> | <span class="t"></span> | ゲイ；むか.える | welcome, meet, greet<br>
-<span class="w">迎合 | 送迎 | 出迎え</span><br>
-1139 | <span class="k">柳</span> | <span class="t"></span> | リュウ；やなぎ | willow<br>
-<span class="w">花柳界 | 柳腰</span><br>
-1140 | <span class="k">卵</span> | <span class="t"></span> | ラン；たまご | egg, ovum, spawn, roe<br>
-<span class="w">卵黄 | 産卵 | 卵</span><br>
-1141 | <span class="k">疎</span> | <span class="t"></span> | ソ、ショ；うと.い、うと.む、まば.ら | alienate, rough, neglect, shun, sparse, penetrate<br>
-<span class="w">疎密 | 疎外 | 親疎 | 疎い | 疎ましい</span><br>
-1142 | <span class="k">速</span> | <span class="t"></span> | ソク；はや.い、はや-、はや.める、すみ.やか | quick, fast<br>
-<span class="w">速度 | 時速 | 速い | 速める | 速まる | 速やか</span><br>
-1143 | <span class="k">遅</span> | <span class="t">遲</span> | チ；おく.れる、おく.らす、おそ.い | slow, late, back, later<br>
-<span class="w">遅延 | 遅刻 | 遅速 | 遅れる | 遅らす | 遅い</span><br>
-1144 | <span class="k">辻</span> | <span class="t"></span> | ；つじ | crossing, crossroad, street corners, (kokuji)<br>
-<span class="w">辻店</span><br>
-1145 | <span class="k">迅</span> | <span class="t"></span> | ジン | swift, fast<br>
-<span class="w">迅速 | 疾風迅雷</span><br>
-1146 | <span class="k">加</span> | <span class="t"></span> | カ；くわ.える、くわ.わる | add, addition, increase, join, include, Canada<br>
-<span class="w">加入 | 加減 | 追加 | 加える | 加わる</span><br>
-1147 | <span class="k">減</span> | <span class="t"></span> | ゲン；へ.る、へ.らす | dwindle, decrease, reduce, decline, curtail, get hungry<br>
-<span class="w">減少 | 目減り | 人減らし</span><br>
-1148 | <span class="k">滅</span> | <span class="t"></span> | メツ；ほろ.びる、ほろ.ぶ、ほろ.ぼす | destroy, ruin, overthrow, perish<br>
-<span class="w">滅亡 | 絶滅 | 滅びる | 滅ぶ | 滅ぼす</span><br>
-1149 | <span class="k">威</span> | <span class="t"></span> | イ；おど.す、おど.し、おど.かす | intimidate, dignity, majesty, menace, threaten<br>
-<span class="w">威力 | 威圧</span><br>
-1150 | <span class="k">嚇</span> | <span class="t"></span> | カク；おど.す | menacing, dignity, majesty, threaten<br>
-<span class="w">威嚇</span><br>
-1151 | <span class="k">或</span> | <span class="t"></span> | ワク、コク、イキ；あ.る、あるい、あるいは | some, one, or, possibly, a certain<br>
-<span class="w">或 | 或る | 或いは</span><br>
-1152 | <span class="k">惑</span> | <span class="t"></span> | ワク；まど.う | beguile, delusion, perplexity<br>
-<span class="w">惑星 | 惑う</span><br>
-1153 | <span class="k">域</span> | <span class="t"></span> | イキ | range, region, limits, stage, level<br>
-<span class="w">域内 | 地域 | 区域</span><br>
-1154 | <span class="k">収</span> | <span class="t">收</span> | シュウ；おさ.める、おさ.まる | income, obtain, reap, pay, supply, store<br>
-<span class="w">収入 | 回収 | 収める | 収まる</span><br>
-1155 | <span class="k">納</span> | <span class="t"></span> | ノウ、ナッ、ナ、ナン、トウ；おさ.める、-おさ.める、おさ.まる | settlement, obtain, reap, pay, supply, store<br>
-<span class="w">納入 | 納涼 | 収納 | 納得 | 納豆 | 納屋 | 納戸 | 出納 | 御用納め | 納まる</span><br>
-1156 | <span class="k">献</span> | <span class="t">獻</span> | ケン、コン；たてまつ.る | offering, counter for drinks, present, offer<br>
-<span class="w">献上 | 献身的 | 文献 | 献立 | 一献</span><br>
-1157 | <span class="k">貢</span> | <span class="t"></span> | コウ、ク；みつ.ぐ | tribute, support, finance<br>
-<span class="w">貢献 | 年貢 | 貢ぎ物</span><br>
-1158 | <span class="k">貪</span> | <span class="t"></span> | タン、ドン、トン；むさぼ.る | covet, indulge in<br>
-<span class="w">貪欲 | 貪る</span><br>
-1159 | <span class="k">貰</span> | <span class="t"></span> | セイ、シャ；もら.う | get, have, obtain<br>
-<span class="w">貰 | 貰う</span><br>
-1160 | <span class="k">貧</span> | <span class="t"></span> | ヒン、ビン；まず.しい | poverty, poor<br>
-<span class="w">貧富 | 貧弱 | 清貧 | 貧乏 | 貧しい</span><br>
-1161 | <span class="k">賃</span> | <span class="t"></span> | チン | fare, fee, hire, rent, wages, charge<br>
-<span class="w">賃金 | 賃上げ | 運賃</span><br>
-1162 | <span class="k">貸</span> | <span class="t"></span> | タイ；か.す、か.し-、かし- | lend<br>
-<span class="w">貸借 | 貸与 | 賃貸 | 貸し出し中</span><br>
-1163 | <span class="k">貨</span> | <span class="t"></span> | カ；たから | freight, goods, property<br>
-<span class="w">貨物 | 通貨</span><br>
-1164 | <span class="k">資</span> | <span class="t"></span> | シ | assets, resources, capital, funds, data, be conducive to, contribute to<br>
-<span class="w">資本 | 資格 | 物資</span><br>
-1165 | <span class="k">賛</span> | <span class="t">贊</span> | サン；たす.ける、たた.える | approve, praise, title or inscription on picture, assist, agree with<br>
-<span class="w">賛成 | 賛同</span><br>
-1166 | <span class="k">替</span> | <span class="t"></span> | タイ；か.える、か.え-、か.わる | exchange, spare, substitute, per-<br>
-<span class="w">代替 | 両替 | 替わる | 為替</span><br>
-1167 | <span class="k">潜</span> | <span class="t">潛</span> | セン；ひそ.む、もぐ.る、かく.れる、くぐ.る、ひそ.める | submerge, conceal, hide, lower (voice), hush<br>
-<span class="w">潜水 | 潜在的 | 沈潜 | 潜む | 潜り込む | 潜る</span><br>
-1168 | <span class="k">貿</span> | <span class="t"></span> | ボウ | trade, exchange<br>
-<span class="w">貿易</span><br>
-1169 | <span class="k">留</span> | <span class="t"></span> | リュウ、ル；と.める、と.まる、とど.める、とど.まる、るうぶる | detain, fasten, halt, stop<br>
-<span class="w">留意 | 留学 | 保留 | 留守 | 帯留め | 歩留まり | 留める | 家に留まる</span><br>
-1170 | <span class="k">溜</span> | <span class="t"></span> | リュウ；た.まる、たま.る、た.める、したた.る、たまり、ため | collect, gather, be in arrears<br>
-<span class="w">蒸溜 | 溜まる | 溜める</span><br>
-1171 | <span class="k">賀</span> | <span class="t"></span> | ガ | congratulations, joy<br>
-<span class="w">賀状 | 賀する</span><br>
-1172 | <span class="k">架</span> | <span class="t"></span> | カ；か.ける、か.かる | erect, frame, mount, support, shelf, construct<br>
-<span class="w">架橋 | 架空 | 書架 | 架ける | 架かる</span><br>
-1173 | <span class="k">染</span> | <span class="t"></span> | セン；そ.める、そ.まる、し.みる、し.み | dye, color, paint, stain, print<br>
-<span class="w">染色 | 染料 | 汚染 | 染め物 | 染まる | 油染みる | 染み抜き</span><br>
-1174 | <span class="k">梨</span> | <span class="t"></span> | リ；なし | pear tree<br>
-<span class="w">梨園 | 梨</span><br>
-1175 | <span class="k">傑</span> | <span class="t"></span> | ケツ；すぐ.れる | greatness, excellence<br>
-<span class="w">傑物 | 傑作 | 豪傑</span><br>
-1176 | <span class="k">貴</span> | <span class="t"></span> | キ；たっと.い、とうと.い、たっと.ぶ、とうと.ぶ | precious, value, prize, esteem, honor<br>
-<span class="w">貴重 | 貴下 | 貴い | 貴ぶ</span><br>
-1177 | <span class="k">潰</span> | <span class="t"></span> | カイ、エ；つぶ.す、つぶ.れる、つい.える | crush, smash, break, dissipate<br>
-<span class="w">潰瘍 | 潰す | 潰れる</span><br>
-1178 | <span class="k">遺</span> | <span class="t"></span> | イ、ユイ；のこ.す | bequeath, leave behind, reserve<br>
-<span class="w">遺棄 | 遺産 | 遺失 | 遺言</span><br>
-1179 | <span class="k">遣</span> | <span class="t"></span> | ケン；つか.う、-つか.い、-づか.い、つか.わす、や.る | dispatch, despatch, send, give, donate, do, undertake<br>
-<span class="w">遣外 | 分遣 | 金遣い | 遣わす</span><br>
-1180 | <span class="k">追</span> | <span class="t"></span> | ツイ；お.う | chase, drive away, follow, pursue, meanwhile<br>
-<span class="w">追放 | 訴追 | 追う</span><br>
-1181 | <span class="k">迫</span> | <span class="t"></span> | ハク；せま.る | urge, force, imminent, spur on<br>
-<span class="w">迫害 | 切迫 | 迫る</span><br>
-1182 | <span class="k">泊</span> | <span class="t"></span> | ハク；と.まる、と.める | overnight stay, put up at, ride at anchor<br>
-<span class="w">宿泊 | 停泊 | 外泊 | 泊まる | 泊める</span><br>
-1183 | <span class="k">伯</span> | <span class="t"></span> | ハク | chief, count, earl, uncle, Brazil<br>
-<span class="w">伯仲 | 画伯</span><br>
-1184 | <span class="k">拍</span> | <span class="t"></span> | ハク、ヒョウ | clap, beat (music)<br>
-<span class="w">拍手 | 拍車 | 一拍 | 拍子</span><br>
-1185 | <span class="k">弔</span> | <span class="t"></span> | チョウ；とむら.う、とぶら.う | condolences, mourning, funeral<br>
-<span class="w">弔問 | 弔辞 | 弔う</span><br>
-1186 | <span class="k">沸</span> | <span class="t"></span> | フツ；わ.く、わ.かす | seethe, boil, ferment, uproar, breed<br>
-<span class="w">沸騰 | 沸点 | 沸き上がる | 湯沸かし</span><br>
-1187 | <span class="k">煮</span> | <span class="t">煮</span> | シャ；に.る、-に、に.える、に.やす | boil, cook<br>
-<span class="w">煮沸 | 雑煮 | 生煮え | 業を煮やす</span><br>
-1188 | <span class="k">費</span> | <span class="t"></span> | ヒ；つい.やす、つい.える | expense, cost, spend, consume, waste<br>
-<span class="w">費用 | 消費 | 旅費 | 費やす | 費え</span><br>
-1189 | <span class="k">弟</span> | <span class="t"></span> | テイ、ダイ、デ；おとうと | younger brother, faithful service to elders<br>
-<span class="w">弟妹 | 義弟 | 子弟 | 兄弟 | 弟子 | 弟</span><br>
-1190 | <span class="k">第</span> | <span class="t"></span> | ダイ、テイ | No., residence<br>
-<span class="w">第一 | 第三者</span><br>
-1191 | <span class="k">剃</span> | <span class="t"></span> | テイ；まい、そ.る、す.る | shave<br>
-<span class="w">剃髪 | 剃る</span><br>
-1192 | <span class="k">兄</span> | <span class="t"></span> | ケイ、キョウ；あに | elder brother, big brother<br>
-<span class="w">兄事 | 父兄 | 義兄 | 兄弟 | 兄 | 兄さん</span><br>
-1193 | <span class="k">只</span> | <span class="t"></span> | シ；ただ | only, free, in addition<br>
-<span class="w">只管打坐 | 只今</span><br>
-1194 | <span class="k">税</span> | <span class="t"></span> | ゼイ | tax, duty<br>
-<span class="w">税金 | 免税 | 関税</span><br>
-1195 | <span class="k">鋭</span> | <span class="t"></span> | エイ；するど.い | pointed, sharpness, edge, weapon, sharp, violent<br>
-<span class="w">鋭利 | 鋭敏 | 精鋭 | 鋭い</span><br>
-1196 | <span class="k">説</span> | <span class="t"></span> | セツ、ゼイ；と.く | opinion, theory, explanation, rumor<br>
-<span class="w">説明 | 小説 | 演説 | 遊説 | 説く</span><br>
-1197 | <span class="k">脱</span> | <span class="t"></span> | ダツ；ぬ.ぐ、ぬ.げる | undress, removing, escape from, get rid of, be left out, take off<br>
-<span class="w">脱衣 | 脱出 | 虚脱 | 脱ぐ | 脱げる</span><br>
-1198 | <span class="k">閲</span> | <span class="t"></span> | エツ；けみ.する | review, inspection, revision<br>
-<span class="w">閲覧 | 閲歴</span><br>
-1199 | <span class="k">祝</span> | <span class="t">祝</span> | シュク、シュウ；いわ.う | celebrate, congratulate<br>
-<span class="w">祝賀 | 祝日 | 祝儀 | 祝言 | 祝う | 祝詞</span><br>
-1200 | <span class="k">況</span> | <span class="t"></span> | キョウ；まし.て、いわ.んや、おもむき | condition, situation<br>
-<span class="w">状況 | 実況 | 概況 | 況んや | 況して</span><br>
-1201 | <span class="k">悦</span> | <span class="t"></span> | エツ；よろこ.ぶ、よろこ.ばす | ecstasy, joy, rapture<br>
-<span class="w">悦楽 | 喜悦 | 悦ぶ</span><br>
-1202 | <span class="k">克</span> | <span class="t"></span> | コク；か.つ | overcome, kindly, skillfully<br>
-<span class="w">克服 | 克明 | 克つ</span><br>
-1203 | <span class="k">競</span> | <span class="t"></span> | キョウ、ケイ；きそ.う、せ.る、くら.べる | emulate, compete with, bid, sell at auction, bout, contest, race<br>
-<span class="w">競争 | 競技 | 競泳 | 競馬 | 競輪 | 競う | 競り合う</span><br>
-1204 | <span class="k">姉</span> | <span class="t"></span> | シ；あね、はは | elder sister<br>
-<span class="w">諸姉 | 姉上 | 姉さん</span><br>
-1205 | <span class="k">妹</span> | <span class="t"></span> | マイ；いもうと | younger sister<br>
-<span class="w">姉妹 | 義妹 | 令妹 | 妹</span><br>
-1206 | <span class="k">珠</span> | <span class="t"></span> | シュ；たま | pearl, gem, jewel<br>
-<span class="w">珠玉 | 珠算 | 真珠 | 数珠</span><br>
-1207 | <span class="k">殊</span> | <span class="t"></span> | シュ；こと | particularly, especially, exceptionally<br>
-<span class="w">殊勝 | 殊勲 | 殊に | 殊の外 | 殊更</span><br>
-1208 | <span class="k">序</span> | <span class="t"></span> | ジョ；つい.で、ついで | preface, beginning, order, precedence, occasion, chance, incidentally<br>
-<span class="w">序幕</span><br>
-1209 | <span class="k">秩</span> | <span class="t"></span> | チツ | regularity, salary, order<br>
-<span class="w">秩序</span><br>
-1210 | <span class="k">迭</span> | <span class="t"></span> | テツ | transfer, alternation<br>
-<span class="w">更迭</span><br>
-1211 | <span class="k">喜</span> | <span class="t"></span> | キ；よろこ.ぶ、よろこ.ばす | rejoice, take pleasure in<br>
-<span class="w">喜劇 | 歓喜 | 喜ばしい | 親を喜ばす</span><br>
-1212 | <span class="k">善</span> | <span class="t"></span> | ゼン；よ.い、い.い、よ.く、よし.とする | virtuous, good, goodness<br>
-<span class="w">善悪 | 善処 | 善い</span><br>
-1213 | <span class="k">繕</span> | <span class="t"></span> | ゼン；つくろ.う | darning, repair, mend, trim, tidy up, adjust<br>
-<span class="w">修繕 | 営繕 | 繕う</span><br>
-1214 | <span class="k">膳</span> | <span class="t"></span> | ゼン、セン；かしわ、すす.める、そな.える | small low table, tray<br>
-<span class="w">配膳</span><br>
-1215 | <span class="k">憾</span> | <span class="t"></span> | カン；うら.む | remorse, regret, be sorry<br>
-<span class="w">遺憾</span><br>
-1216 | <span class="k">恨</span> | <span class="t"></span> | コン；うら.む、うら.めしい | regret, bear a grudge, resentment, malice, hatred<br>
-<span class="w">遺恨 | 痛恨 | 恨む | 恨めしい</span><br>
-1217 | <span class="k">惜</span> | <span class="t"></span> | セキ；お.しい、お.しむ | pity, be sparing of, frugal, stingy, regret<br>
-<span class="w">惜敗 | 痛惜 | 愛惜 | 惜しい | 負け惜しみ</span><br>
-1218 | <span class="k">措</span> | <span class="t"></span> | ソ；お.く | set aside, give up, suspend, discontinue, lay aside, except<br>
-<span class="w">措置 | 措辞 | 挙措 | 措く</span><br>
-1219 | <span class="k">借</span> | <span class="t"></span> | シャク；か.りる | borrow, rent<br>
-<span class="w">借用 | 借金 | 借り</span><br>
-1220 | <span class="k">錯</span> | <span class="t"></span> | サク、シャク | confused, mix, be in disorder<br>
-<span class="w">錯誤 | 錯覚 | 交錯</span><br>
-1221 | <span class="k">曽</span> | <span class="t">曾</span> | ソウ、ソ、ゾウ；かつ、かつて、すなわち | formerly, once, before, ever, never, ex-<br>
-<span class="w">曽祖父 | 曽孫 | 曽 | 未曽有</span><br>
-1222 | <span class="k">増</span> | <span class="t">增</span> | ゾウ；ま.す、ま.し、ふ.える、ふ.やす | increase, add, augment, gain, promote<br>
-<span class="w">増減 | 増加 | 激増 | 水増し | 増える | 増やす</span><br>
-1223 | <span class="k">層</span> | <span class="t">層</span> | ソウ | stratum, social class, layer, story, floor<br>
-<span class="w">層雲 | 高層 | 断層</span><br>
-1224 | <span class="k">憎</span> | <span class="t">憎</span> | ゾウ；にく.む、にく.い、にく.らしい、にく.しみ | hate, detest<br>
-<span class="w">憎悪 | 愛憎 | 憎む | 憎さ | 憎らしい | 憎しみ</span><br>
-1225 | <span class="k">僧</span> | <span class="t">僧</span> | ソウ | Buddhist priest, monk<br>
-<span class="w">僧院 | 高僧</span><br>
-1226 | <span class="k">贈</span> | <span class="t">贈</span> | ゾウ、ソウ；おく.る | presents, send, give to, award to, confer on, presenting something<br>
-<span class="w">贈与 | 贈呈 | 贈答 | 寄贈 | 贈り物</span><br>
-1227 | <span class="k">賄</span> | <span class="t"></span> | ワイ；まかな.う | bribe, board, supply, finance<br>
-<span class="w">収賄 | 贈賄 | 賄い</span><br>
-1228 | <span class="k">賂</span> | <span class="t"></span> | ロ；まいな.い、まいな.う | bribe<br>
-<span class="w">賄賂</span><br>
-1229 | <span class="k">賦</span> | <span class="t"></span> | フ、ブ | levy, ode, prose, poem, tribute, installment<br>
-<span class="w">賦役 | 月賦 | 天賦</span><br>
-1230 | <span class="k">賊</span> | <span class="t"></span> | ゾク | burglar, rebel, traitor, robber<br>
-<span class="w">賊軍 | 盗賊</span><br>
-1231 | <span class="k">帯</span> | <span class="t">帶</span> | タイ；お.びる、おび | sash, belt, obi, zone, region<br>
-<span class="w">地帯 | 連帯 | 帯びる | 角帯</span><br>
-1232 | <span class="k">滞</span> | <span class="t">滯</span> | タイ、テイ；とどこお.る | stagnate, be delayed, overdue, arrears<br>
-<span class="w">滞在 | 滞貨 | 滞る</span><br>
-1233 | <span class="k">渋</span> | <span class="t">澁</span> | ジュウ、シュウ；しぶ、しぶ.い、しぶ.る | astringent, hesitate, reluctant, have diarrhea<br>
-<span class="w">渋滞 | 苦渋 | 渋紙 | 渋み | 渋る</span><br>
-1234 | <span class="k">摂</span> | <span class="t">攝</span> | セツ、ショウ；おさ.める、かね.る、と.る | vicarious, surrogate, act in addition to, take in, absorb<br>
-<span class="w">摂取 | 摂生 | 摂る</span><br>
-1235 | <span class="k">為</span> | <span class="t">爲</span> | イ；ため、な.る、な.す、す.る、たり、つく.る、なり | do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of<br>
-<span class="w">為政者 | 行為 | の為に | 為す</span><br>
-1236 | <span class="k">偽</span> | <span class="t">僞</span> | ギ、カ；いつわ.る、にせ、いつわ.り | falsehood, lie, deceive, pretend, counterfeit, forgery<br>
-<span class="w">偽名 | 偽る | 偽物 | 偽札</span><br>
-1237 | <span class="k">参</span> | <span class="t">參</span> | サン、シン；まい.る、まい-、まじわる、みつ | nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in<br>
-<span class="w">参加 | 参万円 | 人参 | 寺参り</span><br>
-1238 | <span class="k">惨</span> | <span class="t">慘</span> | サン、ザン；みじ.め、いた.む、むご.い | wretched, disaster, cruelty, harsh<br>
-<span class="w">惨劇 | 悲惨 | 陰惨 | 惨死 | 惨殺 | 惨め</span><br>
-1239 | <span class="k">呂</span> | <span class="t"></span> | ロ、リョ；せぼね | spine, backbone<br>
-<span class="w">風呂</span><br>
-1240 | <span class="k">侶</span> | <span class="t"></span> | リョ、ロ；とも | companion, follower<br>
-<span class="w">僧侶 | 伴侶</span><br>
-1241 | <span class="k">宮</span> | <span class="t"></span> | キュウ、グウ、ク、クウ；みや | Shinto shrine, constellations, palace, princess<br>
-<span class="w">宮殿 | 離宮 | 宮司 | 神宮 | 東宮 | 宮内庁 | 宮様</span><br>
-1242 | <span class="k">営</span> | <span class="t">營</span> | エイ；いとな.む、いとな.み | occupation, camp, perform, build, conduct (business)<br>
-<span class="w">営業 | 経営 | 陣営 | 営む</span><br>
-1243 | <span class="k">蛍</span> | <span class="t">螢</span> | ケイ；ほたる | lightning-bug, firefly<br>
-<span class="w">蛍光灯 | 蛍光塗料 | 蛍</span><br>
-1244 | <span class="k">栄</span> | <span class="t">榮</span> | エイ、ヨウ；さか.える、は.え、-ば.え、は.える、え | flourish, prosperity, honor, glory, splendor<br>
-<span class="w">栄枯 | 栄養 | 栄える | 栄えある | 見栄え | 出来栄え | 栄える</span><br>
-1245 | <span class="k">誉</span> | <span class="t">譽</span> | ヨ；ほま.れ、ほ.める | reputation, praise, honor, glory<br>
-<span class="w">名誉 | 栄誉 | 誉れ</span><br>
-1246 | <span class="k">挙</span> | <span class="t">擧</span> | キョ；あ.げる、あ.がる、こぞ.る | raise, plan, project, behavior, actions<br>
-<span class="w">挙手 | 挙国 | 壮挙 | 挙げて | 挙がる</span><br>
-1247 | <span class="k">拳</span> | <span class="t"></span> | ケン、ゲン；こぶし | fist<br>
-<span class="w">拳銃 | 拳法 | 拳骨 | 握り拳</span><br>
-1248 | <span class="k">桜</span> | <span class="t">櫻</span> | オウ、ヨウ；さくら | cherry<br>
-<span class="w">桜花 | 観桜 | 桜色 | 葉桜</span><br>
-1249 | <span class="k">妥</span> | <span class="t"></span> | ダ | gentle, peace, depravity<br>
-<span class="w">妥当 | 妥結 | 妥協</span><br>
-1250 | <span class="k">咲</span> | <span class="t"></span> | ショウ；さ.く、-ざき | blossom, bloom<br>
-<span class="w">遅咲き</span><br>
-1251 | <span class="k">朕</span> | <span class="t"></span> | チン | majestic plural, imperial we<br>
-<span class="w">朕</span><br>
-1252 | <span class="k">茎</span> | <span class="t">莖</span> | ケイ、キョウ；くき | stalk, stem<br>
-<span class="w">球茎 | 地下茎 | 歯茎</span><br>
-1253 | <span class="k">径</span> | <span class="t">徑</span> | ケイ；みち、こみち、さしわたし、ただちに | diameter, path, method<br>
-<span class="w">直径 | 直情径行</span><br>
-1254 | <span class="k">怪</span> | <span class="t"></span> | カイ、ケ；あや.しい、あや.しむ | suspicious, mystery, apparition<br>
-<span class="w">怪談 | 怪物 | 奇怪 | 怪我 | 怪しげ | 怪しむ</span><br>
-1255 | <span class="k">軽</span> | <span class="t">輕</span> | ケイ、キョウ、キン；かる.い、かろ.やか、かろ.んじる | lightly, trifling, unimportant<br>
-<span class="w">軽快 | 軽薄 | 軽率 | 軽々 | 手軽 | 軽やか</span><br>
-1256 | <span class="k">経</span> | <span class="t">經</span> | ケイ、キョウ、キン；へ.る、た.つ、たていと、はか.る、のり | sutra, longitude, pass thru, expire, warp<br>
-<span class="w">経費 | 経済 | 経文 | お経 | 写経 | 経る | 時間が経つ | 読経</span><br>
-1257 | <span class="k">斉</span> | <span class="t">齊</span> | セイ、サイ；そろ.う、ひと.しい、ひと.しく、あたる、はやい | adjusted, alike, equal, similar variety of<br>
-<span class="w">斉唱 | 一斉 | 斉う | 斉しい</span><br>
-1258 | <span class="k">斎</span> | <span class="t">齋</span> | サイ；とき、つつし.む、ものいみ、い.む、いわ.う、いつ.く | purification, Buddhist food, room, worship, avoid, alike<br>
-<span class="w">斎場 | 潔斎 | 書斎</span><br>
-1259 | <span class="k">済</span> | <span class="t">濟</span> | サイ、セイ；す.む、-ず.み、-ずみ、す.まない、す.ます、-す.ます、すく.う、な.す、わたし、わた.る | settle (debt,  etc.), relieve (burden), finish, come to an end, excusable, need not<br>
-<span class="w">返済 | 救済 | 多士済々 | 使用済み | 済ます</span><br>
-1260 | <span class="k">剤</span> | <span class="t">劑</span> | ザイ、スイ、セイ；かる、けず.る | dose, medicine, drug<br>
-<span class="w">薬剤師 | 消化剤</span><br>
-1261 | <span class="k">剖</span> | <span class="t"></span> | ボウ | divide<br>
-<span class="w">解剖</span><br>
-1262 | <span class="k">陪</span> | <span class="t"></span> | バイ | obeisance, follow, accompany, attend on<br>
-<span class="w">陪席 | 陪食 | 陪審</span><br>
-1263 | <span class="k">培</span> | <span class="t"></span> | バイ；つちか.う | cultivate, foster<br>
-<span class="w">培養 | 培う</span><br>
-1264 | <span class="k">賠</span> | <span class="t"></span> | バイ | compensation, indemnify<br>
-<span class="w">賠償</span><br>
-1265 | <span class="k">貼</span> | <span class="t"></span> | テン、チョウ；は.る、つ.く | stick, paste, apply<br>
-<span class="w">貼付 | 貼付 | 貼る</span><br>
-1266 | <span class="k">粘</span> | <span class="t"></span> | ネン；ねば.る | sticky, glutinous, greasy, persevere<br>
-<span class="w">粘土 | 粘液 | 粘着 | 粘り強い</span><br>
-1267 | <span class="k">衡</span> | <span class="t"></span> | コウ | equilibrium, measuring rod, scale<br>
-<span class="w">均衡 | 平衡 | 度量衡</span><br>
-1268 | <span class="k">換</span> | <span class="t"></span> | カン；か.える、-か.える、か.わる | interchange, period, change, convert, replace, renew<br>
-<span class="w">換気 | 換算 | 交換 | 換える | 換わる</span><br>
-1269 | <span class="k">喚</span> | <span class="t"></span> | カン；わめ.く | yell, cry, call, scream, summon<br>
-<span class="w">喚問 | 喚く</span><br>
-1270 | <span class="k">絶</span> | <span class="t"></span> | ゼツ；た.える、た.やす、た.つ | discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled<br>
-<span class="w">絶妙 | 絶食 | 絶える | 絶やす | 絶つ</span><br>
-1271 | <span class="k">免</span> | <span class="t">免</span> | メン；まぬか.れる、まぬが.れる | excuse, dismissal<br>
-<span class="w">免許 | 免除 | 放免 | 免れる</span><br>
-1272 | <span class="k">逸</span> | <span class="t">逸</span> | イツ；そ.れる、そ.らす、はぐ.れる | deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge<br>
-<span class="w">逸話 | 逸品 | 逸する | 逸れる | 逸らす | 逸れる</span><br>
-1273 | <span class="k">勉</span> | <span class="t">勉</span> | ベン；つと.める | exertion, endeavour, encourage, strive, make effort, diligent<br>
-<span class="w">勉強 | 勉学 | 勉める</span><br>
-1274 | <span class="k">晩</span> | <span class="t">晚</span> | バン | nightfall, night<br>
-<span class="w">晩夏 | 今晩</span><br>
-1275 | <span class="k">許</span> | <span class="t"></span> | キョ；ゆる.す、もと | permit, approve<br>
-<span class="w">許可 | 許諾 | 特許 | 許す</span><br>
-1276 | <span class="k">象</span> | <span class="t"></span> | ショウ、ゾウ；かたど.る | elephant, pattern after, imitate, image, shape, sign (of the times)<br>
-<span class="w">象徴 | 対象 | 象眼 | 巨象</span><br>
-1277 | <span class="k">像</span> | <span class="t"></span> | ゾウ | statue, picture, image, figure, portrait<br>
-<span class="w">現像</span><br>
-1278 | <span class="k">彫</span> | <span class="t"></span> | チョウ；ほ.る、-ぼ.り | carve, engrave, chisel<br>
-<span class="w">木彫 | 木彫り</span><br>
-1279 | <span class="k">景</span> | <span class="t"></span> | ケイ | scenery, view<br>
-<span class="w">景気 | 風景 | 光景 | 景色</span><br>
-1280 | <span class="k">影</span> | <span class="t"></span> | エイ；かげ | shadow, silhouette, phantom<br>
-<span class="w">影響 | 陰影 | 影絵 | 人影</span><br>
-1281 | <span class="k">撮</span> | <span class="t"></span> | サツ；と.る、つま.む、-ど.り | snapshot, take pictures<br>
-<span class="w">撮影 | 撮る</span><br>
-1282 | <span class="k">就</span> | <span class="t"></span> | シュウ、ジュ；つ.く、つ.ける | concerning, settle, take position, depart, study, per<br>
-<span class="w">就任 | 就寝 | 成就 | 就く | 就ける</span><br>
-1283 | <span class="k">涼</span> | <span class="t"></span> | リョウ；すず.しい、すず.む、すず.やか、うす.い、ひや.す、まことに | refreshing, nice and cool<br>
-<span class="w">涼味 | 清涼剤 | 涼しい | 夕涼み</span><br>
-1284 | <span class="k">鯨</span> | <span class="t"></span> | ゲイ；くじら | whale<br>
-<span class="w">鯨油 | 捕鯨 | 鯨</span><br>
-1285 | <span class="k">隔</span> | <span class="t"></span> | カク；へだ.てる、へだ.たる | isolate, alternate, distance, separate, gulf<br>
-<span class="w">隔離 | 隔月 | 隔て | 隔たり</span><br>
-1286 | <span class="k">融</span> | <span class="t"></span> | ユウ；と.ける、と.かす | dissolve, melt<br>
-<span class="w">融解 | 融和 | 金融 | 融ける | 融かす</span><br>
-1287 | <span class="k">肖</span> | <span class="t"></span> | ショウ；あやか.る | resemblance<br>
-<span class="w">肖像 | 不肖 | 肖る</span><br>
-1288 | <span class="k">消</span> | <span class="t"></span> | ショウ；き.える、け.す | extinguish, blow out, turn off, neutralize, cancel<br>
-<span class="w">消滅 | 消極的 | 費消 | 立ち消え | 消しゴム</span><br>
-1289 | <span class="k">硝</span> | <span class="t"></span> | ショウ | nitrate, saltpeter<br>
-<span class="w">硝石 | 硝酸</span><br>
-1290 | <span class="k">梢</span> | <span class="t"></span> | ショウ；こずえ、くすのき | treetops, twig<br>
-<span class="w">末梢 | 梢</span><br>
-1291 | <span class="k">削</span> | <span class="t"></span> | サク；けず.る、はつ.る、そ.ぐ | plane, sharpen, whittle, pare, shave<br>
-<span class="w">削除 | 削減 | 削る</span><br>
-1292 | <span class="k">宵</span> | <span class="t"></span> | ショウ；よい | wee hours, evening, early night<br>
-<span class="w">徹宵 | 宵</span><br>
-1293 | <span class="k">宴</span> | <span class="t"></span> | エン；うたげ | banquet, feast, party<br>
-<span class="w">宴会 | 宴席 | 宴</span><br>
-1294 | <span class="k">郷</span> | <span class="t">鄕</span> | キョウ、ゴウ；さと | home town, village, native place, district<br>
-<span class="w">郷里 | 郷土 | 異郷 | 郷士 | 近郷 | 在郷 | 郷</span><br>
-1295 | <span class="k">饗</span> | <span class="t"></span> | キョウ；う.ける、もてな.す | banquet<br>
-<span class="w">饗宴</span><br>
-1296 | <span class="k">響</span> | <span class="t">響</span> | キョウ；ひび.く | echo, sound, resound, ring, vibrate<br>
-<span class="w">音響 | 交響楽 | 響く</span><br>
-1297 | <span class="k">城</span> | <span class="t"></span> | ジョウ、セイ；しろ | castle<br>
-<span class="w">城内 | 城下町 | 落城 | 城跡 | 宮城県</span><br>
-1298 | <span class="k">誠</span> | <span class="t"></span> | セイ；まこと | sincerity, admonish, warn, prohibit, truth, fidelity<br>
-<span class="w">誠実 | 誠意 | 至誠 | 誠に</span><br>
-1299 | <span class="k">盛</span> | <span class="t"></span> | セイ、ジョウ；も.る、さか.る、さか.ん | boom, prosper, copulate<br>
-<span class="w">盛大 | 全盛 | 繁盛 | 盛り上がる | 燃え盛る | 盛り | 花盛り | 盛んに</span><br>
-1300 | <span class="k">旺</span> | <span class="t"></span> | オウ、キョウ、ゴウ；かがや.き、うつくし.い、さかん | flourishing, successful, beautiful, vigorous<br>
-<span class="w">旺盛</span><br>
-1301 | <span class="k">盆</span> | <span class="t"></span> | ボン | basin, lantern festival, tray<br>
-<span class="w">盆栽 | 盆地 | 旧盆</span><br>
-1302 | <span class="k">蓋</span> | <span class="t"></span> | ガイ、カイ、コウ；ふた、けだ.し、おお.う、かさ、かこう | cover, lid, flap<br>
-<span class="w">頭蓋骨 | 火蓋</span><br>
-1303 | <span class="k">盗</span> | <span class="t">盜</span> | トウ；ぬす.む、ぬす.み | steal, rob, pilfer<br>
-<span class="w">盗難 | 盗用 | 強盗 | 盗む</span><br>
-1304 | <span class="k">盟</span> | <span class="t"></span> | メイ | alliance, oath<br>
-<span class="w">加盟 | 同盟 | 連盟</span><br>
-1305 | <span class="k">塩</span> | <span class="t">鹽</span> | エン；しお | salt<br>
-<span class="w">塩分 | 塩酸 | 食塩 | 塩辛い</span><br>
-1306 | <span class="k">傷</span> | <span class="t"></span> | ショウ；きず、いた.む、いた.める | wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point<br>
-<span class="w">傷害 | 負傷 | 感傷 | 古傷 | 傷つく | 傷む | 傷める</span><br>
-1307 | <span class="k">揚</span> | <span class="t"></span> | ヨウ；あ.げる、-あ.げ、あ.がる | raise, elevate, hoist, praise, extol, fry in deep fat<br>
-<span class="w">意気揚々 | 抑揚 | 掲揚 | 荷揚げ | 揚がる</span><br>
-1308 | <span class="k">暢</span> | <span class="t"></span> | チョウ；のび.る | stretch<br>
-<span class="w">流暢 | 暢気</span><br>
-1309 | <span class="k">陽</span> | <span class="t"></span> | ヨウ；ひ | sunshine, yang principle, positive, male, heaven, daytime<br>
-<span class="w">陽光 | 陰陽 | 陽</span><br>
-1310 | <span class="k">陰</span> | <span class="t"></span> | イン；かげ、かげ.る | shade, yin, negative, sex organs, secret, shadow<br>
-<span class="w">陰気 | 陰性 | 光陰 | 日陰 | 陰り</span><br>
-1311 | <span class="k">隠</span> | <span class="t">隱</span> | イン、オン；かく.す、かく.し、かく.れる、かか.す、よ.る | conceal, hide, cover<br>
-<span class="w">隠居 | 隠忍 | 隠語 | 隠す | 雲隠れ</span><br>
-1312 | <span class="k">穏</span> | <span class="t">穩</span> | オン；おだ.やか | calm, quiet, moderation<br>
-<span class="w">穏和 | 穏当 | 平穏 | 穏やか</span><br>
-1313 | <span class="k">穂</span> | <span class="t">穗</span> | スイ；ほ | ear, ear (grain), head, crest (wave)<br>
-<span class="w">穂状 | 出穂期 | 穂</span><br>
-1314 | <span class="k">稲</span> | <span class="t">稻</span> | トウ、テ；いね、いな- | rice plant<br>
-<span class="w">水稲 | 陸稲 | 稲刈り | 稲作 | 稲穂</span><br>
-1315 | <span class="k">愁</span> | <span class="t"></span> | シュウ；うれ.える、うれ.い | distress, grieve, lament, be anxious<br>
-<span class="w">愁傷 | 愁える | 愁い</span><br>
-1316 | <span class="k">裁</span> | <span class="t"></span> | サイ；た.つ、さば.く | tailor, judge, decision, cut out (pattern)<br>
-<span class="w">裁縫 | 裁判 | 裁ち物 | 裁く</span><br>
-1317 | <span class="k">載</span> | <span class="t"></span> | サイ；の.せる、の.る | ride, board, get on, place, spread, 10**44, record, publish<br>
-<span class="w">積載 | 記載 | 載せる | 載る</span><br>
-1318 | <span class="k">栽</span> | <span class="t"></span> | サイ | plantation, planting<br>
-<span class="w">栽培</span><br>
-1319 | <span class="k">赦</span> | <span class="t"></span> | シャ | pardon, forgiveness<br>
-<span class="w">赦免 | 大赦 | 恩赦 | 赦す</span><br>
-1320 | <span class="k">跡</span> | <span class="t"></span> | セキ；あと | tracks, mark, print, impression<br>
-<span class="w">追跡 | 旧跡 | 遺跡 | 跡取り</span><br>
-1321 | <span class="k">踪</span> | <span class="t"></span> | ソウ、ショウ；あと | remains, clue, footprint<br>
-<span class="w">失踪</span><br>
-1322 | <span class="k">痕</span> | <span class="t"></span> | コン；あと | mark, foot print<br>
-<span class="w">痕跡 | 血痕 | 傷痕</span><br>
-1323 | <span class="k">蹴</span> | <span class="t"></span> | シュク、シュウ；け.る | kick<br>
-<span class="w">一蹴 | 蹴散らす</span><br>
-1324 | <span class="k">踊</span> | <span class="t"></span> | ヨウ；おど.る | jump, dance, leap, skip<br>
-<span class="w">舞踊 | 踊る | 踊り</span><br>
-1325 | <span class="k">踏</span> | <span class="t"></span> | トウ；ふ.む、ふ.まえる | step, trample, carry through, appraise, evade payment<br>
-<span class="w">踏破 | 踏襲 | 高踏的 | 足踏み | 踏まえる</span><br>
-1326 | <span class="k">躍</span> | <span class="t"></span> | ヤク；おど.る | leap, dance, skip<br>
-<span class="w">躍動 | 躍起 | 躍り上がる</span><br>
-1327 | <span class="k">濯</span> | <span class="t"></span> | タク；すす.ぐ、ゆす.ぐ | laundry, wash, pour on, rinse<br>
-<span class="w">洗濯 | 濯ぐ</span><br>
-1328 | <span class="k">奇</span> | <span class="t"></span> | キ；く.しき、あや.しい、くし、めずら.しい | strange, strangeness, curiosity<br>
-<span class="w">奇襲 | 奇数 | 珍奇 | 奇しき</span><br>
-1329 | <span class="k">寄</span> | <span class="t"></span> | キ；よ.る、-よ.り、よ.せる | draw near, stop in, bring near, gather, collect, send, forward<br>
-<span class="w">寄宿 | 寄港 | 近寄る | 身寄り | 人寄せ</span><br>
-1330 | <span class="k">騎</span> | <span class="t"></span> | キ | equestrian, riding on horses, counter for equestrians<br>
-<span class="w">騎士 | 騎馬 | 一騎当千</span><br>
-1331 | <span class="k">椅</span> | <span class="t"></span> | イ | chair<br>
-<span class="w">椅子</span><br>
-1332 | <span class="k">崎</span> | <span class="t"></span> | キ；さき、さい、みさき | promontory, cape, spit<br>
-<span class="w">崎嶇 | 長崎</span><br>
-1333 | <span class="k">埼</span> | <span class="t"></span> | キ；さき、さい、みさき | cape, spit, promontory<br>
-<span class="w">埼 | 埼玉県</span><br>
-1334 | <span class="k">岬</span> | <span class="t"></span> | コウ；みさき | headland, cape, spit, promontory<br>
-<span class="w">岬角 | 岬</span><br>
-1335 | <span class="k">模</span> | <span class="t"></span> | モ、ボ | imitation, copy, mock<br>
-<span class="w">模範 | 模型 | 規模</span><br>
-1336 | <span class="k">膜</span> | <span class="t"></span> | マク | membrane<br>
-<span class="w">膜質 | 鼓膜 | 粘膜</span><br>
-1337 | <span class="k">漠</span> | <span class="t"></span> | バク | vague, obscure, desert, wide<br>
-<span class="w">漠然 | 広漠 | 砂漠</span><br>
-1338 | <span class="k">幕</span> | <span class="t"></span> | マク、バク；とばり | curtain, bunting, act of play<br>
-<span class="w">幕切れ | 天幕 | 暗幕 | 幕府 | 幕末 | 幕僚</span><br>
-1339 | <span class="k">墓</span> | <span class="t"></span> | ボ；はか | grave, tomb<br>
-<span class="w">墓地 | 墓参 | 墓参り</span><br>
-1340 | <span class="k">募</span> | <span class="t"></span> | ボ；つの.る | recruit, campaign, gather (contributions), enlist, grow violent<br>
-<span class="w">募金 | 募集 | 応募 | 募る</span><br>
-1341 | <span class="k">暮</span> | <span class="t"></span> | ボ；く.れる、く.らす | evening, twilight, season's end, livelihood, make a living, spend time<br>
-<span class="w">暮春 | 薄暮 | 暮れ | 暮らす</span><br>
-1342 | <span class="k">慕</span> | <span class="t"></span> | ボ；した.う | pining, yearn for, love dearly, adore<br>
-<span class="w">慕情 | 敬慕 | 思慕 | 慕わしい</span><br>
-1343 | <span class="k">添</span> | <span class="t"></span> | テン；そ.える、そ.う | annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate<br>
-<span class="w">添加 | 添付 | 添削 | 添え手紙 | 付き添う</span><br>
-1344 | <span class="k">恭</span> | <span class="t"></span> | キョウ；うやうや.しい | respect, reverent<br>
-<span class="w">恭賀 | 恭順 | 恭しい</span><br>
-1345 | <span class="k">暴</span> | <span class="t"></span> | ボウ、バク；あば.く、あば.れる | outburst, rave, fret, force, violence, cruelty, outrage<br>
-<span class="w">暴言 | 横暴 | 乱暴 | 暴露 | 暴き出す | 大暴れ</span><br>
-1346 | <span class="k">爆</span> | <span class="t"></span> | バク；は.ぜる | bomb, burst open, pop, split<br>
-<span class="w">爆発 | 爆弾 | 原爆</span><br>
-1347 | <span class="k">沿</span> | <span class="t"></span> | エン；そ.う、-ぞ.い | run alongside, follow along, run along, lie along<br>
-<span class="w">沿海 | 沿線 | 沿革 | 川沿い</span><br>
-1348 | <span class="k">礎</span> | <span class="t"></span> | ソ；いしずえ | cornerstone, foundation stone<br>
-<span class="w">礎石 | 定礎 | 礎</span><br>
-1349 | <span class="k">疑</span> | <span class="t"></span> | ギ；うたが.う | doubt, distrust, be suspicious, question<br>
-<span class="w">疑念 | 疑問 | 容疑 | 疑わしい</span><br>
-1350 | <span class="k">凝</span> | <span class="t"></span> | ギョウ；こ.る、こ.らす、こご.らす、こご.らせる、こご.る | congeal, freeze, stiff, be absorbed in<br>
-<span class="w">凝固 | 凝結 | 凝視 | 凝り性 | 凝らす</span><br>
-1351 | <span class="k">擬</span> | <span class="t"></span> | ギ；まが.い、もど.き | mimic, aim (a gun) at, nominate, imitate<br>
-<span class="w">擬音 | 擬人法 | 模擬</span><br>
-1352 | <span class="k">倣</span> | <span class="t"></span> | ホウ；なら.う | emulate, imitate<br>
-<span class="w">模倣 | 倣う</span><br>
-1353 | <span class="k">似</span> | <span class="t"></span> | ジ；に.る、ひ.る | becoming, resemble, counterfeit, imitate, suitable<br>
-<span class="w">類似 | 疑似 | 似顔</span><br>
-1354 | <span class="k">俵</span> | <span class="t"></span> | ヒョウ；たわら | bag, bale, sack, counter for bags<br>
-<span class="w">一俵 | 土俵 | 米俵</span><br>
-1355 | <span class="k">俺</span> | <span class="t"></span> | エン；おれ、われ | I, myself<br>
-<span class="w">俺</span><br>
-1356 | <span class="k">庵</span> | <span class="t"></span> | アン；いおり、いお | hermitage, retreat<br>
-<span class="w">庵室 | 庵</span><br>
-1357 | <span class="k">僕</span> | <span class="t"></span> | ボク；しもべ | me, I (male), servant, manservant<br>
-<span class="w">公僕</span><br>
-1358 | <span class="k">撲</span> | <span class="t"></span> | ボク | slap, strike, hit, beat, tell, speak<br>
-<span class="w">撲殺 | 撲滅 | 打撲 | 撲る | 相撲</span><br>
-1359 | <span class="k">叩</span> | <span class="t"></span> | コウ；たた.く、はた.く、すぎ | strike, beat, kow tow, hit, thrash, criticize<br>
-<span class="w">叩頭 | キーを叩く</span><br>
-1360 | <span class="k">伐</span> | <span class="t"></span> | バツ、ハツ、カ、ボチ；き.る、そむ.く、う.つ | fell, strike, attack, punish<br>
-<span class="w">伐採 | 征伐 | 殺伐 | 伐る | 伐つ</span><br>
-1361 | <span class="k">閥</span> | <span class="t"></span> | バツ | clique, lineage, pedigree, faction, clan<br>
-<span class="w">門閥 | 財閥 | 派閥</span><br>
-1362 | <span class="k">闘</span> | <span class="t">鬭</span> | トウ；たたか.う、あらそ.う | fight, war<br>
-<span class="w">闘争 | 闘志 | 戦闘 | 闘う</span><br>
-1363 | <span class="k">闇</span> | <span class="t"></span> | アン、オン；やみ、くら.い | get dark, gloom, disorder<br>
-<span class="w">闇愚 | 闇夜 | 暗闇</span><br>
-1364 | <span class="k">閑</span> | <span class="t"></span> | カン | leisure<br>
-<span class="w">閑静 | 閑却 | 繁閑</span><br>
-1365 | <span class="k">脈</span> | <span class="t"></span> | ミャク；すじ | vein, pulse, hope<br>
-<span class="w">脈絡 | 動脈</span><br>
-1366 | <span class="k">派</span> | <span class="t"></span> | ハ | faction, group, party, clique, sect, school<br>
-<span class="w">派遣 | 派生 | 流派</span><br>
-1367 | <span class="k">缶</span> | <span class="t">罐</span> | カン；かま | tin can, container, jar radical (no. 121)<br>
-<span class="w">缶詰 | 製缶</span><br>
-1368 | <span class="k">揺</span> | <span class="t">搖</span> | ヨウ；ゆ.れる、ゆ.る、ゆ.らぐ、ゆ.るぐ、ゆ.する、ゆ.さぶる、ゆ.すぶる、うご.く | swing, shake, sway, rock, tremble, vibrate<br>
-<span class="w">動揺 | 揺れる | 揺り返し | 揺り籠 | 揺らぐ | 揺るぎない | 貧乏揺すり | 揺さぶる | 揺すぶる</span><br>
-1369 | <span class="k">謡</span> | <span class="t">謠</span> | ヨウ；うた.い、うた.う | song, sing, ballad, noh chanting<br>
-<span class="w">謡曲 | 民謡 | 歌謡 | 素謡 | 謡う</span><br>
-1370 | <span class="k">遥</span> | <span class="t"></span> | ヨウ；はる.か | far off, distant, long ago<br>
-<span class="w">遥遠 | 遥か</span><br>
-1371 | <span class="k">陶</span> | <span class="t"></span> | トウ；すえ | pottery, porcelain<br>
-<span class="w">陶器 | 陶酔</span><br>
-1372 | <span class="k">陳</span> | <span class="t"></span> | チン；ひ.ねる | exhibit, state, relate, explain<br>
-<span class="w">陳列 | 陳謝 | 開陳</span><br>
-1373 | <span class="k">陣</span> | <span class="t"></span> | ジン | camp, battle array, ranks, position, sudden, brief time<br>
-<span class="w">陣頭 | 陣痛 | 円陣</span><br>
-1374 | <span class="k">陥</span> | <span class="t">陷</span> | カン；おちい.る、おとしい.れる | collapse, fall into, cave in, fall (castle), slide into<br>
-<span class="w">陥落 | 陥没 | 欠陥 | 陥る | 陥れる</span><br>
-1375 | <span class="k">隆</span> | <span class="t">隆</span> | リュウ | hump, high, noble, prosperity<br>
-<span class="w">隆起 | 隆盛 | 興隆</span><br>
-1376 | <span class="k">降</span> | <span class="t"></span> | コウ、ゴ；お.りる、お.ろす、ふ.る、ふ.り、くだ.る、くだ.す | descend, precipitate, fall, surrender<br>
-<span class="w">降雨 | 降参 | 乗り降り | 降ろす | 大降り</span><br>
-1377 | <span class="k">峰</span> | <span class="t"></span> | ホウ；みね、ね | summit, peak<br>
-<span class="w">秀峰 | 霊峰 | 連峰 | 剣が峰</span><br>
-1378 | <span class="k">逢</span> | <span class="t"></span> | ホウ；あ.う、むか.える | meeting, tryst, date, rendezvous<br>
-<span class="w">逢着 | 逢う</span><br>
-1379 | <span class="k">縫</span> | <span class="t"></span> | ホウ；ぬ.う | sew, stitch, embroider<br>
-<span class="w">縫合 | 縫製 | 縫い目</span><br>
-1380 | <span class="k">蜂</span> | <span class="t"></span> | ホウ；はち | bee, wasp, hornet<br>
-<span class="w">蜂起 | 蜜蜂</span><br>
-1381 | <span class="k">蜜</span> | <span class="t"></span> | ミツ、ビツ | honey, nectar, molasses<br>
-<span class="w">蜜月</span><br>
-1382 | <span class="k">密</span> | <span class="t"></span> | ミツ；ひそ.か | secrecy, density (pop), minuteness, carefulness<br>
-<span class="w">密約 | 厳密 | 密か</span><br>
-1383 | <span class="k">秘</span> | <span class="t">祕</span> | ヒ；ひ.める、ひそ.か、かく.す | secret, conceal<br>
-<span class="w">秘密 | 秘書 | 神秘 | 秘める</span><br>
-1384 | <span class="k">欧</span> | <span class="t">歐</span> | オウ；うた.う、は.く | Europe<br>
-<span class="w">欧文 | 西欧 | 渡欧</span><br>
-1385 | <span class="k">枢</span> | <span class="t">樞</span> | スウ、シュ；とぼそ、からくり | hinge, pivot, door<br>
-<span class="w">枢軸 | 枢要 | 中枢 | 枢</span><br>
-1386 | <span class="k">殴</span> | <span class="t">毆</span> | オウ；なぐ.る | assault, hit, beat, thrash<br>
-<span class="w">殴打 | 殴る</span><br>
-1387 | <span class="k">駆</span> | <span class="t">驅</span> | ク；か.ける、か.る | drive, run, gallop, advance, inspire, impel<br>
-<span class="w">駆使 | 駆逐 | 先駆 | 抜け駆け | 駆り立てる</span><br>
-1388 | <span class="k">馳</span> | <span class="t"></span> | チ、ジ；は.せる | run, gallop, sail, drive (a wagon), win (fame), despatch<br>
-<span class="w">ご馳走様 | 馳せる</span><br>
-1389 | <span class="k">騒</span> | <span class="t">騷</span> | ソウ；さわ.ぐ、うれい、さわ.がしい | boisterous, make noise, clamor, disturb, excite<br>
-<span class="w">騒動 | 騒音 | 物騒 | 騒がしい</span><br>
-1390 | <span class="k">旭</span> | <span class="t"></span> | キョク；あさひ | rising sun, morning sun<br>
-<span class="w">旭日 | 旭</span><br>
-1391 | <span class="k">旦</span> | <span class="t"></span> | タン、ダン；あき.らか、あきら、ただし、あさ、あした | daybreak, dawn, morning<br>
-<span class="w">一旦 | 元旦 | 旦那</span><br>
-1392 | <span class="k">但</span> | <span class="t"></span> | タン；ただ.し | however, but<br>
-<span class="w">但 | 但し書き</span><br>
-1393 | <span class="k">担</span> | <span class="t">擔</span> | タン；かつ.ぐ、にな.う | shouldering, carry, raise, bear<br>
-<span class="w">担当 | 担架 | 担ぐ | 担う</span><br>
-1394 | <span class="k">亘</span> | <span class="t"></span> | コウ、カン、セン；わた.る、もと.める | span, range, extend over<br>
-<span class="w">亘古 | 数キロに亘る</span><br>
-1395 | <span class="k">恒</span> | <span class="t">恆</span> | コウ；つね、つねに | constancy, always<br>
-<span class="w">恒常 | 恒例 | 恒久 | 恒に</span><br>
-1396 | <span class="k">垣</span> | <span class="t"></span> | エン；かき | hedge, fence, wall<br>
-<span class="w">垣 | 垣根</span><br>
-1397 | <span class="k">宣</span> | <span class="t"></span> | セン；のたま.う | proclaim, say, announce<br>
-<span class="w">宣言 | 宣誓 | 宣伝 | 宣う</span><br>
-1398 | <span class="k">喧</span> | <span class="t"></span> | ケン；やかま.しい、かまびす.しい | noisy, boisterous<br>
-<span class="w">喧嘩 | 喧しい</span><br>
-1399 | <span class="k">嘩</span> | <span class="t"></span> | カ、ケ；かまびす.しい | noisy<br>
-<span class="w">喧嘩</span><br>
-1400 | <span class="k">唾</span> | <span class="t"></span> | ダ、タ；つば、つばき | saliva, sputum<br>
-<span class="w">唾液 | 唾棄 | 眉唾 | 固唾</span><br>
-1401 | <span class="k">壷</span> | <span class="t"></span> | コ；つぼ | jar, pot, hinge knuckle, one's aim<br>
-<span class="w">唾壷 | 油壷</span><br>
-1402 | <span class="k">坪</span> | <span class="t"></span> | ヘイ；つぼ | two-mat area, approx. thirty-six sq ft<br>
-<span class="w">坪 | 坪数 | 建坪</span><br>
-1403 | <span class="k">畔</span> | <span class="t"></span> | ハン；あぜ、くろ、ほとり | paddy ridge, levee<br>
-<span class="w">湖畔 | 畔 | 畔</span><br>
-1404 | <span class="k">衆</span> | <span class="t"></span> | シュウ、シュ；おお.い | masses, great numbers, multitude, populace<br>
-<span class="w">衆寡 | 民衆 | 衆生</span><br>
-1405 | <span class="k">伊</span> | <span class="t"></span> | イ；かれ | Italy, that one<br>
-<span class="w">日独伊</span><br>
-1406 | <span class="k">君</span> | <span class="t"></span> | クン；きみ、-ぎみ | mister, you, ruler, male name suffix<br>
-<span class="w">君主 | 君臨 | 母君</span><br>
-1407 | <span class="k">群</span> | <span class="t"></span> | グン；む.れる、む.れ、むら、むら.がる | flock, group, crowd, herd, swarm, cluster<br>
-<span class="w">群居 | 大群 | 群れる | 群れ | 群雀 | 群千鳥 | 群がる | 群がる</span><br>
-1408 | <span class="k">郡</span> | <span class="t"></span> | グン；こおり | county, district<br>
-<span class="w">郡部 | 郡</span><br>
-1409 | <span class="k">那</span> | <span class="t"></span> | ナ、ダ；なに、なんぞ、いかん | what?<br>
-<span class="w">刹那 | 那</span><br>
-1410 | <span class="k">邦</span> | <span class="t"></span> | ホウ；くに | home country, country, Japan<br>
-<span class="w">邦楽 | 本邦 | 連邦 | 邦</span><br>
-1411 | <span class="k">郊</span> | <span class="t"></span> | コウ | outskirts, suburbs, rural area<br>
-<span class="w">郊外 | 近郊</span><br>
-1412 | <span class="k">効</span> | <span class="t">效</span> | コウ；き.く、ききめ、なら.う | merit, efficacy, efficiency, benefit<br>
-<span class="w">効果 | 効力 | 時効 | 効き目</span><br>
-1413 | <span class="k">絞</span> | <span class="t"></span> | コウ；しぼ.る、し.める、し.まる | strangle, constrict, wring<br>
-<span class="w">絞殺 | 絞首刑 | 絞り上げる | 絞り | 絞める | 絞まる</span><br>
-1414 | <span class="k">搾</span> | <span class="t"></span> | サク；しぼ.る | squeeze<br>
-<span class="w">搾取 | 圧搾 | 搾る</span><br>
-1415 | <span class="k">紋</span> | <span class="t"></span> | モン | family crest, figures<br>
-<span class="w">紋章 | 指紋 | 波紋</span><br>
-1416 | <span class="k">菊</span> | <span class="t"></span> | キク | chrysanthemum<br>
-<span class="w">菊花 | 白菊</span><br>
-1417 | <span class="k">帝</span> | <span class="t"></span> | テイ；みかど | sovereign, the emperor, god, creator<br>
-<span class="w">帝王 | 帝国</span><br>
-1418 | <span class="k">締</span> | <span class="t"></span> | テイ；し.まる、し.まり、し.める、-し.め、-じ.め | tighten, tie, shut, lock, fasten<br>
-<span class="w">締結 | 締まり | 締め切る | 引き締め</span><br>
-1419 | <span class="k">諦</span> | <span class="t"></span> | テイ、タイ；あきら.める、つまびらか、まこと | truth, clarity, abandon, give up<br>
-<span class="w">諦観 | 諦念 | 諦める</span><br>
-1420 | <span class="k">享</span> | <span class="t"></span> | キョウ、コウ；う.ける | enjoy, receive, undergo, answer (phone), take, get, catch<br>
-<span class="w">享有 | 享受 | 享楽</span><br>
-1421 | <span class="k">郭</span> | <span class="t"></span> | カク；くるわ | enclosure, quarters, fortification, red-light district<br>
-<span class="w">城郭 | 外郭 | 輪郭</span><br>
-1422 | <span class="k">亭</span> | <span class="t"></span> | テイ、チン | pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name<br>
-<span class="w">亭主 | 料亭</span><br>
-1423 | <span class="k">停</span> | <span class="t"></span> | テイ；と.める、と.まる | halt, stopping<br>
-<span class="w">停止 | 停車 | 調停</span><br>
-1424 | <span class="k">昆</span> | <span class="t"></span> | コン | descendants, elder brother, insect<br>
-<span class="w">昆虫 | 昆布</span><br>
-1425 | <span class="k">混</span> | <span class="t"></span> | コン；ま.じる、-ま.じり、ま.ざる、ま.ぜる、こ.む | mix, blend, confuse<br>
-<span class="w">混合 | 混雑 | 混迷 | 混じり物 | 混ざる | 混ぜ物 | 混み合う | 人混み</span><br>
-1426 | <span class="k">皆</span> | <span class="t"></span> | カイ；みな、みんな | all, everything<br>
-<span class="w">皆無 | 皆勤 | 皆出席 | 皆 | 皆さん | 皆</span><br>
-1427 | <span class="k">楷</span> | <span class="t"></span> | カイ | square character style, correctness<br>
-<span class="w">楷書</span><br>
-1428 | <span class="k">諧</span> | <span class="t"></span> | カイ；かな.う、やわ.らぐ | harmony<br>
-<span class="w">俳諧</span><br>
-1429 | <span class="k">階</span> | <span class="t"></span> | カイ；きざはし | storey, stair, counter for storeys of a building<br>
-<span class="w">階段 | 階級 | 地階</span><br>
-1430 | <span class="k">陛</span> | <span class="t"></span> | ヘイ | highness, steps (of throne)<br>
-<span class="w">陛下</span><br>
-1431 | <span class="k">陸</span> | <span class="t"></span> | リク、ロク；おか | land, six<br>
-<span class="w">陸地 | 陸橋 | 着陸</span><br>
-1432 | <span class="k">睦</span> | <span class="t"></span> | ボク、モク；むつ.まじい、むつ.む、むつ.ぶ | intimate, friendly, harmonious<br>
-<span class="w">親睦 | 和睦 | 睦まじい | 睦む</span><br>
-1433 | <span class="k">勢</span> | <span class="t"></span> | セイ、ゼイ；いきお.い、はずみ | forces, energy, military strength<br>
-<span class="w">勢力 | 優勢 | 情勢 | 勢い</span><br>
-1434 | <span class="k">熱</span> | <span class="t"></span> | ネツ；あつ.い | heat, temperature, fever, mania, passion<br>
-<span class="w">熱病 | 熱湯 | 熱い</span><br>
-1435 | <span class="k">熟</span> | <span class="t"></span> | ジュク；う.れる | mellow, ripen, mature, acquire skill<br>
-<span class="w">熟練 | 熟慮 | 成熟 | 熟れる</span><br>
-1436 | <span class="k">塾</span> | <span class="t"></span> | ジュク | cram school, private school<br>
-<span class="w">私塾</span><br>
-1437 | <span class="k">陵</span> | <span class="t"></span> | リョウ；みささぎ | mausoleum, imperial tomb, mound, hill<br>
-<span class="w">陵墓 | 陵</span><br>
-1438 | <span class="k">菱</span> | <span class="t"></span> | リョウ；ひし | diamond (shape), water chestnut, rhombus<br>
-<span class="w">菱 | 菱形</span><br>
-1439 | <span class="k">俊</span> | <span class="t"></span> | シュン | sagacious, genius, excellence<br>
-<span class="w">俊敏 | 俊秀 | 俊才</span><br>
-1440 | <span class="k">唆</span> | <span class="t"></span> | サ；そそ.る、そそのか.す | tempt, seduce, instigate, promote<br>
-<span class="w">教唆 | 唆す</span><br>
-1441 | <span class="k">筈</span> | <span class="t"></span> | カツ；はず、やはず | notch of an arrow, ought, must, should be, expected<br>
-<span class="w">筈 | その筈</span><br>
-1442 | <span class="k">箸</span> | <span class="t"></span> | チョ、チャク；はし | chopsticks<br>
-<span class="w">箸 | 箸</span><br>
-1443 | <span class="k">暑</span> | <span class="t">暑</span> | ショ；あつ.い | sultry, hot, summer heat<br>
-<span class="w">暑気 | 残暑 | 避暑 | 暑い</span><br>
-1444 | <span class="k">署</span> | <span class="t">署</span> | ショ | signature, govt office, police station<br>
-<span class="w">署名 | 署長 | 警察署</span><br>
-1445 | <span class="k">曙</span> | <span class="t"></span> | ショ；あけぼの | dawn, daybreak<br>
-<span class="w">曙光 | 時代の曙</span><br>
-1446 | <span class="k">賭</span> | <span class="t"></span> | ト；か.ける、かけ | gamble, wager, bet<br>
-<span class="w">賭場 | 賭博 | 賭け</span><br>
-1447 | <span class="k">諸</span> | <span class="t">諸</span> | ショ；もろ | various, many, several, together<br>
-<span class="w">諸君 | 諸国</span><br>
-1448 | <span class="k">儲</span> | <span class="t"></span> | チョ；もう.ける、もう.かる、もうけ、たくわ.える | be profitable, yield profit<br>
-<span class="w">皇儲 | 儲ける | 儲かる</span><br>
-1449 | <span class="k">緒</span> | <span class="t">緖</span> | ショ、チョ；お、いとぐち | thong, beginning, inception, end, cord, strap, mental or emotional state<br>
-<span class="w">緒戦 | 端緒 | 情緒 | 鼻緒</span><br>
-1450 | <span class="k">翁</span> | <span class="t"></span> | オウ；おきな | venerable old man<br>
-<span class="w">老翁</span><br>
-1451 | <span class="k">婆</span> | <span class="t"></span> | バ；ばば、ばあ | old woman, grandma, wet nurse<br>
-<span class="w">老婆 | 産婆 | お婆さん</span><br>
-1452 | <span class="k">姿</span> | <span class="t"></span> | シ；すがた | figure, form, shape<br>
-<span class="w">姿勢 | 容姿 | 雄姿 | 姿</span><br>
-1453 | <span class="k">恣</span> | <span class="t"></span> | シ；ほしいまま | selfish, arbitrary<br>
-<span class="w">恣意的</span><br>
-1454 | <span class="k">妄</span> | <span class="t"></span> | モウ、ボウ；みだ.りに | delusion, unnecessarily, without authority, reckless<br>
-<span class="w">妄信 | 妄想 | 迷妄 | 妄言</span><br>
-1455 | <span class="k">萎</span> | <span class="t"></span> | イ；な、しお.れる、しな.びる、しぼ.む、な.える | wither, droop, lame<br>
-<span class="w">萎縮 | 萎える | 萎む | 萎れる | 萎びる</span><br>
-1456 | <span class="k">妻</span> | <span class="t"></span> | サイ；つま | wife, spouse<br>
-<span class="w">妻子 | 良妻 | 人妻</span><br>
-1457 | <span class="k">凄</span> | <span class="t"></span> | セイ、サイ；さむ.い、すご.い、すさ.まじい | uncanny, weird, threatening, horrible<br>
-<span class="w">凄惨 | 凄絶 | 物凄い | 凄まじい | 凄む</span><br>
-1458 | <span class="k">章</span> | <span class="t"></span> | ショウ | badge, chapter, composition, poem, design<br>
-<span class="w">憲章 | 文章</span><br>
-1459 | <span class="k">彰</span> | <span class="t"></span> | ショウ | patent, clear<br>
-<span class="w">表彰</span><br>
-1460 | <span class="k">障</span> | <span class="t"></span> | ショウ；さわ.る | hinder, hurt, harm<br>
-<span class="w">障害 | 障子 | 故障 | 差し障り</span><br>
-1461 | <span class="k">辛</span> | <span class="t"></span> | シン；から.い、つら.い、-づら.い、かのと | spicy, bitter, hot, acrid<br>
-<span class="w">辛苦 | 辛酸 | 香辛料 | 辛み | 辛うじて | 辛い</span><br>
-1462 | <span class="k">宰</span> | <span class="t"></span> | サイ | superintend, manager, rule<br>
-<span class="w">宰領 | 宰相 | 主宰</span><br>
-1463 | <span class="k">辣</span> | <span class="t"></span> | ラツ；から.い | pungent, spicy, harsh, cruel, severe<br>
-<span class="w">辣腕 | 辛辣</span><br>
-1464 | <span class="k">辞</span> | <span class="t">辭</span> | ジ；や.める、いな.む | resign, word, term, expression<br>
-<span class="w">辞書 | 辞職 | 式辞 | 辞める</span><br>
-1465 | <span class="k">壁</span> | <span class="t"></span> | ヘキ；かべ | wall, lining (stomach), fence<br>
-<span class="w">壁面 | 壁画 | 壁土</span><br>
-1466 | <span class="k">璧</span> | <span class="t"></span> | ヘキ；たま | sphere, ball<br>
-<span class="w">完璧 | 双璧</span><br>
-1467 | <span class="k">癖</span> | <span class="t"></span> | ヘキ；くせ、くせ.に | mannerism, habit, vice, trait, fault, kink<br>
-<span class="w">習癖 | 病癖 | 潔癖 | 口癖</span><br>
-1468 | <span class="k">避</span> | <span class="t"></span> | ヒ；さ.ける、よ.ける | evade, avoid, avert, ward off, shirk, shun<br>
-<span class="w">避難 | 逃避 | 不可避 | 避ける</span><br>
-1469 | <span class="k">幸</span> | <span class="t"></span> | コウ；さいわ.い、さち、しあわ.せ | happiness, blessing, fortune<br>
-<span class="w">幸福 | 不幸 | 行幸 | 何が幸いするかわからない | 幸 | 幸せ</span><br>
-1470 | <span class="k">服</span> | <span class="t"></span> | フク | clothing, admit, obey, discharge<br>
-<span class="w">服装 | 服従 | 洋服</span><br>
-1471 | <span class="k">報</span> | <span class="t"></span> | ホウ；むく.いる | report, news, reward, retribution<br>
-<span class="w">報告 | 報い | 報う</span><br>
-1472 | <span class="k">執</span> | <span class="t"></span> | シツ、シュウ；と.る | tenacious, take hold, grasp, take to heart<br>
-<span class="w">執務 | 執筆 | 確執 | 執念 | 執心 | 我執 | 執る</span><br>
-1473 | <span class="k">摯</span> | <span class="t"></span> | シ；いた.る | gift, seriousness<br>
-<span class="w">真摯</span><br>
-1474 | <span class="k">達</span> | <span class="t"></span> | タツ、ダ；-たち | accomplished, reach, arrive, attain<br>
-<span class="w">達人 | 調達 | 伝達 | 友達</span><br>
-1475 | <span class="k">朗</span> | <span class="t">朗</span> | ロウ；ほが.らか、あき.らか | melodious, clear, bright, serene, cheerful<br>
-<span class="w">朗読 | 朗々 | 明朗 | 朗らか</span><br>
-1476 | <span class="k">浪</span> | <span class="t"></span> | ロウ | wandering, waves, billows, reckless, unrestrained<br>
-<span class="w">浪費 | 放浪</span><br>
-1477 | <span class="k">呉</span> | <span class="t"></span> | ゴ；く.れる、くれ | give, do something for, kingdom of Wu<br>
-<span class="w">呉服 | 呉越同舟 | 呉れる</span><br>
-1478 | <span class="k">娯</span> | <span class="t"></span> | ゴ | recreation, pleasure<br>
-<span class="w">娯楽</span><br>
-1479 | <span class="k">誤</span> | <span class="t"></span> | ゴ；あやま.る、-あやま.る | mistake, err, do wrong, mislead<br>
-<span class="w">誤解 | 正誤 | 誤る</span><br>
-1480 | <span class="k">富</span> | <span class="t"></span> | フ、フウ；と.む、とみ | wealth, enrich, abundant<br>
-<span class="w">富強 | 富裕 | 富貴 | 富む | 富 | 富山県</span><br>
-1481 | <span class="k">副</span> | <span class="t"></span> | フク | vice-, assistant, aide, duplicate, copy<br>
-<span class="w">副業 | 副作用 | 正副</span><br>
-1482 | <span class="k">幅</span> | <span class="t"></span> | フク；はば | hanging scroll, width<br>
-<span class="w">幅員 | 振幅 | 全幅 | 横幅</span><br>
-1483 | <span class="k">福</span> | <span class="t">福</span> | フク | blessing, fortune, luck, wealth<br>
-<span class="w">福徳</span><br>
-1484 | <span class="k">祉</span> | <span class="t">祉</span> | シ | welfare, happiness<br>
-<span class="w">福祉</span><br>
-1485 | <span class="k">禍</span> | <span class="t">禍</span> | カ；わざわい | calamity, misfortune, evil, curse<br>
-<span class="w">禍福 | 禍根 | 災禍</span><br>
-1486 | <span class="k">渦</span> | <span class="t"></span> | カ；うず | whirlpool, eddy, vortex<br>
-<span class="w">渦中 | 渦潮 | 渦巻く</span><br>
-1487 | <span class="k">鍋</span> | <span class="t"></span> | カ；なべ | pot, pan, kettle<br>
-<span class="w">鍋 | 鍋料理</span><br>
-1488 | <span class="k">蘭</span> | <span class="t"></span> | ラン、ラ | orchid, Holland<br>
-<span class="w">蘭学</span><br>
-1489 | <span class="k">欄</span> | <span class="t">欄</span> | ラン；てすり | column, handrail, blank, space<br>
-<span class="w">欄干 | 欄外 | 空欄</span><br>
-1490 | <span class="k">潤</span> | <span class="t"></span> | ジュン；うるお.う、うるお.す、うる.む | wet, be watered, profit by, receive benefits, favor, charm, steep<br>
-<span class="w">潤色 | 湿潤 | 潤う | 潤す | 潤む</span><br>
-1491 | <span class="k">淵</span> | <span class="t"></span> | エン、カク、コウ；ふち、かた.い、はなわ | abyss, edge, deep pool, the depths<br>
-<span class="w">深淵 | 絶望の淵</span><br>
-1492 | <span class="k">滑</span> | <span class="t"></span> | カツ、コツ；すべ.る、なめ.らか | slippery, slide, slip, fail exam<br>
-<span class="w">滑走 | 滑降 | 円滑 | 滑稽 | 滑る | 滑らか</span><br>
-1493 | <span class="k">稽</span> | <span class="t"></span> | ケイ；かんが.える、とど.める | think, consider<br>
-<span class="w">稽古</span><br>
-1494 | <span class="k">肩</span> | <span class="t"></span> | ケン；かた | shoulder<br>
-<span class="w">肩章 | 比肩 | 肩</span><br>
-1495 | <span class="k">脅</span> | <span class="t"></span> | キョウ；おびや.かす、おど.す、おど.かす | threaten, coerce<br>
-<span class="w">脅迫 | 脅威 | 脅かす | 脅し文句 | 脅かす</span><br>
-1496 | <span class="k">肯</span> | <span class="t"></span> | コウ；がえんじ.る | agreement, consent, comply with<br>
-<span class="w">肯定 | 首肯</span><br>
-1497 | <span class="k">双</span> | <span class="t">雙</span> | ソウ；ふた、たぐい、ならぶ、ふたつ | pair, set, comparison, counter for pairs<br>
-<span class="w">双肩 | 双方 | 無双 | 双子 | 双葉</span><br>
+1002 | <kk>仙</kk> | <kt></kt> | セン、セント | hermit, wizard, cent<br>
+<kw>仙骨</kw> | <kw>仙人</kw> | <kw>酒仙</kw><br>
+1003 | <kk>垂</kk> | <kt></kt> | スイ；た.れる、た.らす、た.れ、-た.れ、なんな.んとする | droop, suspend, hang, slouch<br>
+<kw>垂直</kw> | <kw>胃下垂</kw> | <kw>雨垂れ</kw> | <kw>垂らす</kw><br>
+1004 | <kk>乗</kk> | <kt>乘</kt> | ジョウ、ショウ；の.る、-の.り、の.せる | ride, power, multiplication, record, counter for vehicles, board, mount, join<br>
+<kw>乗数</kw> | <kw>乗車</kw> | <kw>大乗的</kw> | <kw>乗り物</kw> | <kw>乗せる</kw><br>
+1005 | <kk>兼</kk> | <kt></kt> | ケン；か.ねる、-か.ねる | concurrently, and, beforehand, in advance<br>
+<kw>兼用</kw> | <kw>兼任</kw> | <kw>兼職</kw> | <kw>兼ねる</kw><br>
+1006 | <kk>剰</kk> | <kt>剩</kt> | ジョウ；あまつさ.え、あま.り、あま.る | surplus, besides<br>
+<kw>剰余</kw> | <kw>過剰</kw><br>
+1007 | <kk>睡</kk> | <kt></kt> | スイ；ねむ.る、ねむ.い | drowsy, sleep, die<br>
+<kw>睡眠</kw> | <kw>熟睡</kw> | <kw>午睡</kw><br>
+1008 | <kk>眠</kk> | <kt></kt> | ミン；ねむ.る、ねむ.い | sleep, die, sleepy<br>
+<kw>不眠</kw> | <kw>安眠</kw> | <kw>眠る</kw> | <kw>眠たい</kw> | <kw>眠気</kw><br>
+1009 | <kk>郵</kk> | <kt></kt> | ユウ | mail, stagecoach stop<br>
+<kw>郵便</kw> | <kw>郵送</kw> | <kw>郵券</kw><br>
+1010 | <kk>錘</kk> | <kt></kt> | スイ；つむ、おもり | weight, plumb bob, sinker, spindle<br>
+<kw>紡錘</kw> | <kw>錘</kw><br>
+1011 | <kk>華</kk> | <kt></kt> | カ、ケ；はな | splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous<br>
+<kw>華美</kw> | <kw>繁華</kw> | <kw>栄華</kw> | <kw>香華</kw> | <kw>散華</kw> | <kw>華やか</kw> | <kw>華々しい</kw><br>
+1012 | <kk>侵</kk> | <kt></kt> | シン；おか.す | encroach, invade, raid, trespass, violate<br>
+<kw>侵入</kw> | <kw>侵害</kw> | <kw>不可侵</kw> | <kw>侵す</kw><br>
+1013 | <kk>浸</kk> | <kt></kt> | シン；ひた.す、ひた.る、つ.かる | immersed, soak, dip, steep, moisten, wet, dunk<br>
+<kw>浸水</kw> | <kw>浸透</kw> | <kw>水浸し</kw> | <kw>浸る</kw><br>
+1014 | <kk>寝</kk> | <kt>寢</kt> | シン；ね.る、ね.かす、い.ぬ、みたまや、や.める | lie down, sleep, rest, bed, remain unsold<br>
+<kw>寝室</kw> | <kw>寝具</kw> | <kw>寝る</kw> | <kw>寝かす</kw> | <kw>寝かせる</kw><br>
+1015 | <kk>掃</kk> | <kt></kt> | ソウ、シュ；は.く | sweep, brush<br>
+<kw>清掃</kw> | <kw>一掃</kw> | <kw>掃く</kw><br>
+1016 | <kk>婦</kk> | <kt></kt> | フ；よめ | lady, woman, wife, bride<br>
+<kw>婦人</kw> | <kw>主婦</kw><br>
+1017 | <kk>帰</kk> | <kt>歸</kt> | キ；かえ.る、かえ.す、おく.る、とつ.ぐ | homecoming, arrive at, lead to, result in<br>
+<kw>帰還</kw> | <kw>帰納</kw> | <kw>復帰</kw> | <kw>帰る</kw> | <kw>帰す</kw><br>
+1018 | <kk>戻</kk> | <kt>戾</kt> | レイ；もど.す、もど.る | re-, return, revert, resume, restore, go backwards<br>
+<kw>戻入</kw> | <kw>返戻</kw> | <kw>差し戻し</kw> | <kw>後戻り</kw><br>
+1019 | <kk>涙</kk> | <kt>淚</kt> | ルイ、レイ；なみだ | tears, sympathy<br>
+<kw>感涙</kw> | <kw>声涙</kw> | <kw>涙ぐむ</kw> | <kw>涙ぐましい</kw><br>
+1020 | <kk>射</kk> | <kt></kt> | シャ；い.る、さ.す、う.つ | shoot, shine into, onto, archery<br>
+<kw>射撃</kw> | <kw>発射</kw> | <kw>日射病</kw> | <kw>射る</kw> | <kw>射す</kw><br>
+1021 | <kk>謝</kk> | <kt></kt> | シャ；あやま.る | apologize, thank, refuse<br>
+<kw>謝絶</kw> | <kw>感謝</kw> | <kw>平謝り</kw><br>
+1022 | <kk>討</kk> | <kt></kt> | トウ；う.つ | chastise, attack, defeat, destroy, conquer<br>
+<kw>討伐</kw> | <kw>討論</kw> | <kw>敵討ち</kw><br>
+1023 | <kk>訂</kk> | <kt></kt> | テイ；ただ.す | revise, correct, decide<br>
+<kw>訂正</kw> | <kw>改訂</kw><br>
+1024 | <kk>打</kk> | <kt></kt> | ダ、ダース；う.つ、う.ち-、ぶ.つ | strike, hit, knock, pound, dozen<br>
+<kw>打撃</kw> | <kw>打破</kw> | <kw>乱打</kw> | <kw>打ち込む</kw><br>
+1025 | <kk>撃</kk> | <kt>擊</kt> | ゲキ；う.つ | beat, attack, defeat, conquer<br>
+<kw>撃退</kw> | <kw>早撃ち</kw><br>
+1026 | <kk>拭</kk> | <kt></kt> | ショク、シキ；ぬぐ.う、ふ.く | wipe, mop, swab<br>
+<kw>払拭</kw> | <kw>清拭</kw> | <kw>拭く</kw> | <kw>拭う</kw><br>
+1027 | <kk>試</kk> | <kt></kt> | シ；こころ.みる、ため.す | test, try, attempt, experiment, ordeal<br>
+<kw>試作</kw> | <kw>追試</kw> | <kw>試みる</kw> | <kw>試す</kw><br>
+1028 | <kk>検</kk> | <kt>檢</kt> | ケン；しら.べる | examination, investigate<br>
+<kw>検査</kw> | <kw>検討</kw> | <kw>点検</kw><br>
+1029 | <kk>験</kk> | <kt>驗</kt> | ケン、ゲン；あかし、しるし、ため.す、ためし | verification, effect, testing<br>
+<kw>試験</kw> | <kw>経験</kw> | <kw>実験</kw> | <kw>験がある</kw> | <kw>霊験</kw><br>
+1030 | <kk>険</kk> | <kt>險</kt> | ケン；けわ.しい | precipitous, inaccessible place, impregnable position, steep place, sharp eyes<br>
+<kw>険悪</kw> | <kw>保険</kw> | <kw>険しい</kw><br>
+1031 | <kk>倹</kk> | <kt>儉</kt> | ケン；つま.しい、つづまやか | frugal, economy, thrifty<br>
+<kw>倹約</kw> | <kw>節倹</kw> | <kw>勤倹</kw><br>
+1032 | <kk>剣</kk> | <kt>劍</kt> | ケン；つるぎ | sabre, sword, blade, clock hand<br>
+<kw>剣道</kw> | <kw>剣舞</kw> | <kw>剣</kw><br>
+1033 | <kk>谷</kk> | <kt></kt> | コク；たに、きわ.まる | valley<br>
+<kw>幽谷</kw> | <kw>谷川</kw><br>
+1034 | <kk>欲</kk> | <kt></kt> | ヨク；ほっ.する、ほ.しい | longing, covetousness, greed, passion, desire, craving<br>
+<kw>欲望</kw> | <kw>食欲</kw> | <kw>無欲</kw> | <kw>欲する</kw> | <kw>欲しがる</kw><br>
+1035 | <kk>浴</kk> | <kt></kt> | ヨク；あ.びる、あ.びせる | bathe, be favored with, bask in<br>
+<kw>浴場</kw> | <kw>海水浴</kw> | <kw>水浴び</kw> | <kw>浴びせる</kw><br>
+1036 | <kk>容</kk> | <kt></kt> | ヨウ；い.れる | contain, form, looks<br>
+<kw>容易</kw> | <kw>容器</kw> | <kw>形容</kw><br>
+1037 | <kk>溶</kk> | <kt></kt> | ヨウ；と.ける、と.かす、と.く | melt, dissolve, thaw<br>
+<kw>溶解</kw> | <kw>溶液</kw> | <kw>水溶液</kw> | <kw>溶ける</kw> | <kw>溶かす</kw> | <kw>溶く</kw><br>
+1038 | <kk>俗</kk> | <kt></kt> | ゾク | vulgar, customs, manners, worldliness, mundane things<br>
+<kw>俗事</kw> | <kw>風俗</kw> | <kw>民俗</kw><br>
+1039 | <kk>裕</kk> | <kt></kt> | ユウ | abundant, rich, fertile<br>
+<kw>裕福</kw> | <kw>余裕</kw><br>
+1040 | <kk>寛</kk> | <kt>寬</kt> | カン；くつろ.ぐ、ひろ.い、ゆる.やか | tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded<br>
+<kw>寛大</kw> | <kw>寛容</kw> | <kw>寛厳</kw><br>
+1041 | <kk>甘</kk> | <kt></kt> | カン；あま.い、あま.える、あま.やかす、うま.い | sweet, coax, pamper, be content, sugary<br>
+<kw>甘言</kw> | <kw>甘受</kw> | <kw>甘味料</kw> | <kw>甘み</kw> | <kw>甘える</kw> | <kw>甘やかす</kw><br>
+1042 | <kk>紺</kk> | <kt></kt> | コン | dark blue, navy<br>
+<kw>紺青</kw> | <kw>紺屋</kw><br>
+1043 | <kk>紅</kk> | <kt></kt> | コウ、ク；べに、くれない、あか.い | crimson, deep red<br>
+<kw>紅白</kw> | <kw>紅茶</kw> | <kw>真紅</kw> | <kw>深紅</kw> | <kw>紅</kw> | <kw>口紅</kw> | <kw>紅葉</kw><br>
+1044 | <kk>攻</kk> | <kt></kt> | コウ；せ.める | aggression, attack, criticize, polish<br>
+<kw>攻守</kw> | <kw>攻撃</kw> | <kw>専攻</kw> | <kw>攻める</kw><br>
+1045 | <kk>功</kk> | <kt></kt> | コウ、ク；いさお | achievement, merits, success, honor, credit<br>
+<kw>功名</kw> | <kw>功績</kw> | <kw>功徳</kw><br>
+1046 | <kk>巧</kk> | <kt></kt> | コウ；たく.み、たく.む、うま.い | adroit, skilled, ingenuity<br>
+<kw>巧拙</kw> | <kw>巧妙</kw> | <kw>技巧</kw> | <kw>巧みな術</kw><br>
+1047 | <kk>朽</kk> | <kt></kt> | キュウ；く.ちる | decay, rot, remain in seclusion<br>
+<kw>不朽</kw> | <kw>老朽</kw> | <kw>腐朽</kw> | <kw>朽ちる</kw><br>
+1048 | <kk>枯</kk> | <kt></kt> | コ；か.れる、か.らす | wither, die, dry up, be seasoned<br>
+<kw>枯死</kw> | <kw>枯淡</kw> | <kw>枯れ木</kw> | <kw>木枯らし</kw><br>
+1049 | <kk>汚</kk> | <kt></kt> | オ；けが.す、けが.れる、けが.らわしい、よご.す、よご.れる、きたな.い | dirty, pollute, disgrace, rape, defile<br>
+<kw>汚点</kw> | <kw>汚物</kw> | <kw>汚名</kw> | <kw>汚す</kw> | <kw>汚れる</kw> | <kw>汚らわしい</kw> | <kw>口汚し</kw> | <kw>汚れ物</kw> | <kw>汚らしい</kw><br>
+1050 | <kk>升</kk> | <kt></kt> | ショウ；ます | measuring box, 1.8 liter<br>
+<kw>升</kw> | <kw>升目</kw><br>
+1051 | <kk>弁</kk> | <kt>辨瓣辯</kt> | ベン、ヘン；かんむり、わきま.える、わ.ける、はなびら、あらそ.う | valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap<br>
+<kw>弁償</kw> | <kw>雄弁</kw><br>
+1052 | <kk>昇</kk> | <kt></kt> | ショウ；のぼ.る | rise up<br>
+<kw>昇降</kw> | <kw>昇進</kw> | <kw>昇る</kw><br>
+1053 | <kk>登</kk> | <kt></kt> | トウ、ト、ドウ、ショウ、チョウ；のぼ.る、あ.がる | ascend, climb up<br>
+<kw>登壇</kw> | <kw>登校</kw> | <kw>登記</kw> | <kw>登山</kw> | <kw>登城</kw> | <kw>山登り</kw><br>
+1054 | <kk>澄</kk> | <kt></kt> | チョウ；す.む、す.ます、-す.ます | lucidity, be clear, clear, clarify, settle, strain, look grave<br>
+<kw>清澄</kw> | <kw>上澄み</kw> | <kw>澄まし顔</kw><br>
+1055 | <kk>充</kk> | <kt></kt> | ジュウ；あ.てる、み.たす | allot, fill<br>
+<kw>充実</kw> | <kw>充電</kw> | <kw>充てる</kw><br>
+1056 | <kk>銃</kk> | <kt></kt> | ジュウ；つつ | gun, arms<br>
+<kw>銃砲</kw> | <kw>銃弾</kw> | <kw>小銃</kw><br>
+1057 | <kk>統</kk> | <kt></kt> | トウ；す.べる、ほび.る | overall, relationship, ruling, governing<br>
+<kw>統一</kw> | <kw>統計</kw> | <kw>統べる</kw><br>
+1058 | <kk>流</kk> | <kt></kt> | リュウ、ル；なが.れる、なが.れ、なが.す、-なが.す | current, a sink, flow, forfeit<br>
+<kw>流行</kw> | <kw>流動</kw> | <kw>電流</kw> | <kw>流布</kw> | <kw>流転</kw> | <kw>流罪</kw> | <kw>流れる</kw> | <kw>流す</kw><br>
+1059 | <kk>硫</kk> | <kt></kt> | リュウ | sulphur<br>
+<kw>硫安</kw> | <kw>硫酸</kw> | <kw>硫化</kw> | <kw>硫黄</kw><br>
+1060 | <kk>盲</kk> | <kt></kt> | モウ；めくら | blind, blind man, ignoramus<br>
+<kw>盲点</kw> | <kw>盲従</kw> | <kw>文盲</kw><br>
+1061 | <kk>忘</kk> | <kt></kt> | ボウ；わす.れる | forget<br>
+<kw>忘却</kw> | <kw>忘年会</kw> | <kw>備忘</kw> | <kw>物忘れ</kw><br>
+1062 | <kk>忙</kk> | <kt></kt> | ボウ、モウ；いそが.しい、せわ.しい、おそ.れる、うれえるさま | busy, occupied, restless<br>
+<kw>忙殺</kw> | <kw>多忙</kw> | <kw>繁忙</kw> | <kw>忙しい</kw><br>
+1063 | <kk>荒</kk> | <kt></kt> | コウ；あら.い、あら-、あ.れる、あ.らす、-あ.らし、すさ.む | laid waste, rough, rude, wild<br>
+<kw>荒天</kw> | <kw>荒廃</kw> | <kw>荒涼</kw> | <kw>荒波</kw> | <kw>荒々しい</kw> | <kw>荒れ地</kw> | <kw>大荒れ</kw> | <kw>倉庫荒らし</kw> | <kw>荒む</kw><br>
+1064 | <kk>慌</kk> | <kt></kt> | コウ；あわ.てる、あわ.ただしい | disconcerted, be confused, lose one's head<br>
+<kw>恐慌</kw> | <kw>大慌て</kw> | <kw>慌ただしい</kw><br>
+1065 | <kk>望</kk> | <kt></kt> | ボウ、モウ；のぞ.む、もち | ambition, full moon, hope, desire, aspire to, expect<br>
+<kw>望郷</kw> | <kw>人望</kw> | <kw>所望</kw> | <kw>大望</kw> | <kw>本望</kw> | <kw>望ましい</kw><br>
+1066 | <kk>希</kk> | <kt></kt> | キ、ケ；まれ、こいねが.う | hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal<br>
+<kw>希望</kw> | <kw>希少</kw> | <kw>希薄</kw> | <kw>希な</kw><br>
+1067 | <kk>稀</kk> | <kt></kt> | キ、ケ；まれ、まばら | rare, phenomenal, dilute (acid)<br>
+<kw>稀薄</kw> | <kw>稀有</kw> | <kw>稀</kw><br>
+1068 | <kk>括</kk> | <kt></kt> | カツ；くく.る | fasten, tie up, arrest, constrict<br>
+<kw>括弧</kw> | <kw>一括</kw> | <kw>包括</kw><br>
+1069 | <kk>拘</kk> | <kt></kt> | コウ；かか.わる | arrest, seize, concerned, adhere to, despite<br>
+<kw>拘束</kw> | <kw>拘留</kw> | <kw>拘置</kw> | <kw>拘る</kw> | <kw>拘る</kw><br>
+1070 | <kk>拾</kk> | <kt></kt> | シュウ、ジュウ；ひろ.う | pick up, gather, find, go on foot, ten<br>
+<kw>拾得</kw> | <kw>収拾</kw> | <kw>拾万円</kw> | <kw>拾い物</kw><br>
+1071 | <kk>捨</kk> | <kt></kt> | シャ；す.てる | discard, throw away, abandon, resign, reject, sacrifice<br>
+<kw>捨象</kw> | <kw>喜捨</kw> | <kw>捨て子</kw><br>
+1072 | <kk>孤</kk> | <kt></kt> | コ | orphan, alone<br>
+<kw>孤児</kw> | <kw>孤独</kw> | <kw>孤立</kw><br>
+1073 | <kk>弧</kk> | <kt></kt> | コ | arc, arch, bow<br>
+<kw>弧状</kw> | <kw>円弧</kw><br>
+1074 | <kk>弾</kk> | <kt>彈</kt> | ダン、タン；ひ.く、-ひ.き、はず.む、たま、はじ.く、はじ.ける、ただ.す、はじ.きゆみ | bullet, twang, flip, snap<br>
+<kw>弾力</kw> | <kw>弾圧</kw> | <kw>弾き手</kw> | <kw>弾む</kw> | <kw>弾</kw><br>
+1075 | <kk>禅</kk> | <kt>禪</kt> | ゼン、セン；しずか、ゆず.る | Zen, silent meditation<br>
+<kw>禅宗</kw> | <kw>禅寺</kw> | <kw>座禅</kw><br>
+1076 | <kk>系</kk> | <kt></kt> | ケイ | lineage, system<br>
+<kw>系統</kw> | <kw>系列</kw> | <kw>体系</kw><br>
+1077 | <kk>係</kk> | <kt></kt> | ケイ；かか.る、かかり、-がかり、かか.わる | person in charge, connection, duty, concern oneself<br>
+<kw>係累</kw> | <kw>係争</kw> | <kw>係る</kw> | <kw>係員</kw> | <kw>係わる</kw><br>
+1078 | <kk>孫</kk> | <kt></kt> | ソン；まご | grandchild, descendants<br>
+<kw>嫡孫</kw> | <kw>孫</kw><br>
+1079 | <kk>懸</kk> | <kt></kt> | ケン、ケ；か.ける、か.かる | state of suspension, hang, depend, consult, distant, far apart<br>
+<kw>懸垂</kw> | <kw>懸賞</kw> | <kw>懸命</kw> | <kw>懸念</kw> | <kw>懸想</kw> | <kw>命懸け</kw> | <kw>懸かる</kw><br>
+1080 | <kk>偏</kk> | <kt></kt> | ヘン；かたよ.る | partial, side, left-side radical, inclining, biased<br>
+<kw>偏向</kw> | <kw>偏見</kw> | <kw>偏食</kw> | <kw>偏る</kw><br>
+1081 | <kk>遍</kk> | <kt></kt> | ヘン；あまね.く | everywhere, times, widely, generally<br>
+<kw>遍歴</kw> | <kw>一遍</kw><br>
+1082 | <kk>編</kk> | <kt></kt> | ヘン；あ.む、-あ.み | compilation, knit, plait, braid, twist, editing, completed poem, part of a book<br>
+<kw>編集</kw> | <kw>編成</kw> | <kw>長編</kw> | <kw>手編み</kw><br>
+1083 | <kk>篇</kk> | <kt></kt> | ヘン | volume, chapter, book, editing, compilation<br>
+<kw>短篇</kw><br>
+1084 | <kk>普</kk> | <kt></kt> | フ；あまね.く、あまねし | universal, wide(ly), generally, Prussia<br>
+<kw>普通</kw> | <kw>普遍</kw><br>
+1085 | <kk>譜</kk> | <kt></kt> | フ | musical score, music, note, staff, table, genealogy<br>
+<kw>系譜</kw> | <kw>楽譜</kw> | <kw>年譜</kw><br>
+1086 | <kk>職</kk> | <kt></kt> | ショク、ソク | post, employment, work<br>
+<kw>職業</kw> | <kw>職務</kw> | <kw>就職</kw><br>
+1087 | <kk>織</kk> | <kt></kt> | ショク、シキ；お.る、お.り、おり、-おり、-お.り | weave, fabric<br>
+<kw>織機</kw> | <kw>染織</kw> | <kw>紡織</kw> | <kw>組織</kw> | <kw>織物</kw><br>
+1088 | <kk>識</kk> | <kt></kt> | シキ；し.る、しる.す | discriminating, know, write<br>
+<kw>識別</kw> | <kw>意識</kw><br>
+1089 | <kk>殉</kk> | <kt></kt> | ジュン | martyrdom, follow by resigning<br>
+<kw>殉死</kw> | <kw>殉職</kw> | <kw>殉難</kw><br>
+1090 | <kk>退</kk> | <kt></kt> | タイ；しりぞ.く、しりぞ.ける、ひ.く、の.く、の.ける、ど.く | retreat, withdraw, retire, resign, repel, expel, reject<br>
+<kw>退却</kw> | <kw>退屈</kw> | <kw>進退</kw> | <kw>退く</kw> | <kw>退ける</kw> | <kw>立ち退く</kw><br>
+1091 | <kk>眼</kk> | <kt></kt> | ガン、ゲン；まなこ、め | eyeball<br>
+<kw>眼球</kw> | <kw>眼力</kw> | <kw>主眼</kw> | <kw>開眼</kw> | <kw>どんぐり眼</kw> | <kw>血眼</kw> | <kw>眼</kw><br>
+1092 | <kk>智</kk> | <kt></kt> | チ | wisdom, intellect, reason<br>
+<kw>智慧</kw><br>
+1093 | <kk>仁</kk> | <kt></kt> | ジン、ニ、ニン | humanity, virtue, benevolence, charity, man, kernel<br>
+<kw>仁義</kw> | <kw>仁術</kw> | <kw>仁王</kw><br>
+1094 | <kk>忍</kk> | <kt></kt> | ニン；しの.ぶ、しの.ばせる | endure, bear, put up with, conceal, secrete, spy, sneak<br>
+<kw>忍者</kw> | <kw>忍耐</kw> | <kw>残忍</kw> | <kw>忍び足</kw> | <kw>忍びやか</kw> | <kw>忍ばせる</kw><br>
+1095 | <kk>認</kk> | <kt></kt> | ニン；みと.める、したた.める | acknowledge, witness, discern, recognize, appreciate, believe<br>
+<kw>認識</kw> | <kw>承認</kw> | <kw>否認</kw> | <kw>認める</kw><br>
+1096 | <kk>求</kk> | <kt></kt> | キュウ、グ；もと.める | request, want, wish for, require, demand<br>
+<kw>求職</kw> | <kw>要求</kw> | <kw>追求</kw> | <kw>求める</kw><br>
+1097 | <kk>救</kk> | <kt></kt> | キュウ；すく.う | salvation, save, help, rescue, reclaim<br>
+<kw>救助</kw> | <kw>救援</kw> | <kw>救急</kw> | <kw>救う</kw><br>
+1098 | <kk>球</kk> | <kt></kt> | キュウ；たま | ball, sphere<br>
+<kw>球形</kw> | <kw>球技</kw> | <kw>地球</kw> | <kw>球</kw><br>
+1099 | <kk>屯</kk> | <kt></kt> | トン；たむろ | barracks, police station, camp, ton<br>
+<kw>駐屯</kw> | <kw>駐屯地</kw><br>
+1100 | <kk>純</kk> | <kt></kt> | ジュン | genuine, purity, innocence, net (profit)<br>
+<kw>純真</kw> | <kw>不純</kw><br>
+1101 | <kk>鈍</kk> | <kt></kt> | ドン；にぶ.い、にぶ.る、にぶ-、なま.る、なまく.ら | dull, slow, foolish, blunt<br>
+<kw>鈍感</kw> | <kw>鈍角</kw> | <kw>鈍い</kw> | <kw>鈍る</kw><br>
+1102 | <kk>召</kk> | <kt></kt> | ショウ；め.す | seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)<br>
+<kw>召喚</kw> | <kw>召集</kw> | <kw>召し上がる</kw><br>
+1103 | <kk>招</kk> | <kt></kt> | ショウ；まね.く | beckon, invite, summon, engage<br>
+<kw>招待</kw> | <kw>招致</kw> | <kw>招請</kw> | <kw>招く</kw><br>
+1104 | <kk>沼</kk> | <kt></kt> | ショウ；ぬま | marsh, lake, bog, swamp, pond<br>
+<kw>沼沢</kw> | <kw>湖沼</kw> | <kw>沼地</kw><br>
+1105 | <kk>紹</kk> | <kt></kt> | ショウ | introduce, inherit, help<br>
+<kw>紹介</kw><br>
+1106 | <kk>詔</kk> | <kt></kt> | ショウ；みことのり | imperial edict<br>
+<kw>詔勅</kw> | <kw>詔書</kw> | <kw>詔</kw><br>
+1107 | <kk>勅</kk> | <kt>敕</kt> | チョク；いまし.める、みことのり | imperial order<br>
+<kw>勅語</kw> | <kw>勅使</kw><br>
+1108 | <kk>昭</kk> | <kt></kt> | ショウ | shining, bright<br>
+<kw>昭和</kw><br>
+1109 | <kk>照</kk> | <kt></kt> | ショウ；て.る、て.らす、て.れる | illuminate, shine, compare, bashful<br>
+<kw>照明</kw> | <kw>照会</kw> | <kw>対照的</kw> | <kw>日照り</kw> | <kw>照らす</kw> | <kw>照れる</kw><br>
+1110 | <kk>超</kk> | <kt></kt> | チョウ；こ.える、こ.す | transcend, super-, ultra-<br>
+<kw>超越</kw> | <kw>超過</kw> | <kw>入超</kw> | <kw>超える</kw> | <kw>超す</kw><br>
+1111 | <kk>越</kk> | <kt></kt> | エツ、オツ；こ.す、-こ.す、-ご.し、こ.える、-ご.え | surpass, cross over, move to, exceed, Vietnam<br>
+<kw>越境</kw> | <kw>年越し</kw> | <kw>山越え</kw><br>
+1112 | <kk>趣</kk> | <kt></kt> | シュ；おもむき、おもむ.く | purport, gist, elegance, interest, proceed to, tend, become<br>
+<kw>趣向</kw> | <kw>趣味</kw> | <kw>趣</kw><br>
+1113 | <kk>赴</kk> | <kt></kt> | フ；おもむ.く | proceed, get, become, tend<br>
+<kw>赴任</kw> | <kw>赴く</kw><br>
+1114 | <kk>訃</kk> | <kt></kt> | フ；しらせ | obituary<br>
+<kw>訃報</kw><br>
+1115 | <kk>朴</kk> | <kt></kt> | ボク；ほう、ほお、えのき | crude, simple, plain, docile<br>
+<kw>純朴</kw> | <kw>素朴</kw><br>
+1116 | <kk>掛</kk> | <kt></kt> | カイ、ケイ；か.ける、-か.ける、か.け、-か.け、-が.け、か.かる、-か.かる、-が.かる、か.かり、-が.かり、かかり、-がかり | hang, suspend, depend, arrive at, tax, pour<br>
+<kw>掛ける</kw> | <kw>掛かる</kw> | <kw>掛</kw><br>
+1117 | <kk>摘</kk> | <kt></kt> | テキ；つ.む | pinch, pick, pluck, trim, clip, summarize<br>
+<kw>摘要</kw> | <kw>摘発</kw> | <kw>指摘</kw> | <kw>摘み草</kw><br>
+1118 | <kk>滴</kk> | <kt></kt> | テキ；しずく、したた.る | drip, drop<br>
+<kw>水滴</kw> | <kw>点滴</kw> | <kw>一滴</kw> | <kw>滴</kw> | <kw>滴り</kw><br>
+1119 | <kk>嫡</kk> | <kt></kt> | チャク、テキ | legitimate wife, direct descent (non-bastard)<br>
+<kw>嫡子</kw> | <kw>嫡流</kw><br>
+1120 | <kk>適</kk> | <kt></kt> | テキ；かな.う | suitable, occasional, rare, qualified, capable<br>
+<kw>適切</kw> | <kw>適度</kw> | <kw>快適</kw><br>
+1121 | <kk>敵</kk> | <kt></kt> | テキ；かたき、あだ、かな.う | enemy, foe, opponent<br>
+<kw>敵意</kw> | <kw>敵役</kw> | <kw>商売敵</kw><br>
+1122 | <kk>授</kk> | <kt></kt> | ジュ；さず.ける、さず.かる | impart, instruct, grant, confer<br>
+<kw>授与</kw> | <kw>伝授</kw> | <kw>教授</kw> | <kw>授ける</kw> | <kw>授かる</kw><br>
+1123 | <kk>援</kk> | <kt></kt> | エン | abet, help, save<br>
+<kw>援助</kw> | <kw>応援</kw><br>
+1124 | <kk>媛</kk> | <kt></kt> | エン；ひめ | beautiful woman, princess<br>
+<kw>才媛</kw> | <kw>愛媛県</kw><br>
+1125 | <kk>緩</kk> | <kt></kt> | カン；ゆる.い、ゆる.やか、ゆる.む、ゆる.める | slacken, loosen, relax, lessen, be moderate, ease<br>
+<kw>緩和</kw> | <kw>緩慢</kw> | <kw>緩急</kw> | <kw>緩い</kw> | <kw>緩やか</kw> | <kw>緩む</kw> | <kw>緩める</kw><br>
+1126 | <kk>暖</kk> | <kt></kt> | ダン、ノン；あたた.か、あたた.かい、あたた.まる、あたた.める | warmth<br>
+<kw>暖流</kw> | <kw>暖房</kw> | <kw>暖気</kw> | <kw>暖か</kw> | <kw>暖かい</kw> | <kw>暖まる</kw> | <kw>暖める</kw><br>
+1127 | <kk>観</kk> | <kt>觀</kt> | カン；み.る、しめ.す | outlook, look, appearance, condition, view<br>
+<kw>観察</kw> | <kw>客観</kw> | <kw>壮観</kw><br>
+1128 | <kk>勧</kk> | <kt>勸</kt> | カン、ケン；すす.める | persuade, recommend, advise, encourage, offer<br>
+<kw>勧誘</kw> | <kw>勧奨</kw> | <kw>勧告</kw> | <kw>勧める</kw><br>
+1129 | <kk>権</kk> | <kt>權</kt> | ケン、ゴン；おもり、かり、はか.る | authority, power, rights<br>
+<kw>権利</kw> | <kw>権威</kw> | <kw>人権</kw> | <kw>権化</kw> | <kw>権現</kw><br>
+1130 | <kk>歓</kk> | <kt>歡</kt> | カン；よろこ.ぶ | delight, joy<br>
+<kw>歓迎</kw> | <kw>歓声</kw> | <kw>交歓</kw><br>
+1131 | <kk>鶴</kk> | <kt></kt> | カク；つる | crane, stork<br>
+<kw>鶴首</kw> | <kw>千羽鶴</kw><br>
+1132 | <kk>確</kk> | <kt></kt> | カク、コウ；たし.か、たし.かめる | assurance, firm, tight, hard, solid, confirm, clear, evident<br>
+<kw>確定</kw> | <kw>確認</kw> | <kw>正確</kw> | <kw>確か</kw> | <kw>確かめる</kw><br>
+1133 | <kk>慢</kk> | <kt></kt> | マン | ridicule, laziness<br>
+<kw>慢性</kw> | <kw>自慢</kw><br>
+1134 | <kk>漫</kk> | <kt></kt> | マン；みだり.に、そぞ.ろ | cartoon, involuntarily, unrestrained, in spite of oneself, corrupt<br>
+<kw>漫画</kw> | <kw>漫歩</kw> | <kw>散漫</kw><br>
+1135 | <kk>卯</kk> | <kt></kt> | ボウ、モウ；う | sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east<br>
+<kw>丁卯</kw> | <kw>卯年</kw><br>
+1136 | <kk>抑</kk> | <kt></kt> | ヨク；おさ.える | repress, well, now, in the first place, push, shove, press, seal, do in spite of<br>
+<kw>抑圧</kw> | <kw>抑制</kw> | <kw>抑える</kw><br>
+1137 | <kk>仰</kk> | <kt></kt> | ギョウ、コウ；あお.ぐ、おお.せ、お.っしゃる、おっしゃ.る | face-up, look up, depend, seek, respect, rever, drink, take<br>
+<kw>仰視</kw> | <kw>仰天</kw> | <kw>仰角</kw> | <kw>信仰</kw> | <kw>仰ぐ</kw> | <kw>仰せ</kw><br>
+1138 | <kk>迎</kk> | <kt></kt> | ゲイ；むか.える | welcome, meet, greet<br>
+<kw>迎合</kw> | <kw>送迎</kw> | <kw>出迎え</kw><br>
+1139 | <kk>柳</kk> | <kt></kt> | リュウ；やなぎ | willow<br>
+<kw>花柳界</kw> | <kw>柳腰</kw><br>
+1140 | <kk>卵</kk> | <kt></kt> | ラン；たまご | egg, ovum, spawn, roe<br>
+<kw>卵黄</kw> | <kw>産卵</kw> | <kw>卵</kw><br>
+1141 | <kk>疎</kk> | <kt></kt> | ソ、ショ；うと.い、うと.む、まば.ら | alienate, rough, neglect, shun, sparse, penetrate<br>
+<kw>疎密</kw> | <kw>疎外</kw> | <kw>親疎</kw> | <kw>疎い</kw> | <kw>疎ましい</kw><br>
+1142 | <kk>速</kk> | <kt></kt> | ソク；はや.い、はや-、はや.める、すみ.やか | quick, fast<br>
+<kw>速度</kw> | <kw>時速</kw> | <kw>速い</kw> | <kw>速める</kw> | <kw>速まる</kw> | <kw>速やか</kw><br>
+1143 | <kk>遅</kk> | <kt>遲</kt> | チ；おく.れる、おく.らす、おそ.い | slow, late, back, later<br>
+<kw>遅延</kw> | <kw>遅刻</kw> | <kw>遅速</kw> | <kw>遅れる</kw> | <kw>遅らす</kw> | <kw>遅い</kw><br>
+1144 | <kk>辻</kk> | <kt></kt> | ；つじ | crossing, crossroad, street corners, (kokuji)<br>
+<kw>辻店</kw><br>
+1145 | <kk>迅</kk> | <kt></kt> | ジン | swift, fast<br>
+<kw>迅速</kw> | <kw>疾風迅雷</kw><br>
+1146 | <kk>加</kk> | <kt></kt> | カ；くわ.える、くわ.わる | add, addition, increase, join, include, Canada<br>
+<kw>加入</kw> | <kw>加減</kw> | <kw>追加</kw> | <kw>加える</kw> | <kw>加わる</kw><br>
+1147 | <kk>減</kk> | <kt></kt> | ゲン；へ.る、へ.らす | dwindle, decrease, reduce, decline, curtail, get hungry<br>
+<kw>減少</kw> | <kw>目減り</kw> | <kw>人減らし</kw><br>
+1148 | <kk>滅</kk> | <kt></kt> | メツ；ほろ.びる、ほろ.ぶ、ほろ.ぼす | destroy, ruin, overthrow, perish<br>
+<kw>滅亡</kw> | <kw>絶滅</kw> | <kw>滅びる</kw> | <kw>滅ぶ</kw> | <kw>滅ぼす</kw><br>
+1149 | <kk>威</kk> | <kt></kt> | イ；おど.す、おど.し、おど.かす | intimidate, dignity, majesty, menace, threaten<br>
+<kw>威力</kw> | <kw>威圧</kw><br>
+1150 | <kk>嚇</kk> | <kt></kt> | カク；おど.す | menacing, dignity, majesty, threaten<br>
+<kw>威嚇</kw><br>
+1151 | <kk>或</kk> | <kt></kt> | ワク、コク、イキ；あ.る、あるい、あるいは | some, one, or, possibly, a certain<br>
+<kw>或</kw> | <kw>或る</kw> | <kw>或いは</kw><br>
+1152 | <kk>惑</kk> | <kt></kt> | ワク；まど.う | beguile, delusion, perplexity<br>
+<kw>惑星</kw> | <kw>惑う</kw><br>
+1153 | <kk>域</kk> | <kt></kt> | イキ | range, region, limits, stage, level<br>
+<kw>域内</kw> | <kw>地域</kw> | <kw>区域</kw><br>
+1154 | <kk>収</kk> | <kt>收</kt> | シュウ；おさ.める、おさ.まる | income, obtain, reap, pay, supply, store<br>
+<kw>収入</kw> | <kw>回収</kw> | <kw>収める</kw> | <kw>収まる</kw><br>
+1155 | <kk>納</kk> | <kt></kt> | ノウ、ナッ、ナ、ナン、トウ；おさ.める、-おさ.める、おさ.まる | settlement, obtain, reap, pay, supply, store<br>
+<kw>納入</kw> | <kw>納涼</kw> | <kw>収納</kw> | <kw>納得</kw> | <kw>納豆</kw> | <kw>納屋</kw> | <kw>納戸</kw> | <kw>出納</kw> | <kw>御用納め</kw> | <kw>納まる</kw><br>
+1156 | <kk>献</kk> | <kt>獻</kt> | ケン、コン；たてまつ.る | offering, counter for drinks, present, offer<br>
+<kw>献上</kw> | <kw>献身的</kw> | <kw>文献</kw> | <kw>献立</kw> | <kw>一献</kw><br>
+1157 | <kk>貢</kk> | <kt></kt> | コウ、ク；みつ.ぐ | tribute, support, finance<br>
+<kw>貢献</kw> | <kw>年貢</kw> | <kw>貢ぎ物</kw><br>
+1158 | <kk>貪</kk> | <kt></kt> | タン、ドン、トン；むさぼ.る | covet, indulge in<br>
+<kw>貪欲</kw> | <kw>貪る</kw><br>
+1159 | <kk>貰</kk> | <kt></kt> | セイ、シャ；もら.う | get, have, obtain<br>
+<kw>貰</kw> | <kw>貰う</kw><br>
+1160 | <kk>貧</kk> | <kt></kt> | ヒン、ビン；まず.しい | poverty, poor<br>
+<kw>貧富</kw> | <kw>貧弱</kw> | <kw>清貧</kw> | <kw>貧乏</kw> | <kw>貧しい</kw><br>
+1161 | <kk>賃</kk> | <kt></kt> | チン | fare, fee, hire, rent, wages, charge<br>
+<kw>賃金</kw> | <kw>賃上げ</kw> | <kw>運賃</kw><br>
+1162 | <kk>貸</kk> | <kt></kt> | タイ；か.す、か.し-、かし- | lend<br>
+<kw>貸借</kw> | <kw>貸与</kw> | <kw>賃貸</kw> | <kw>貸し出し中</kw><br>
+1163 | <kk>貨</kk> | <kt></kt> | カ；たから | freight, goods, property<br>
+<kw>貨物</kw> | <kw>通貨</kw><br>
+1164 | <kk>資</kk> | <kt></kt> | シ | assets, resources, capital, funds, data, be conducive to, contribute to<br>
+<kw>資本</kw> | <kw>資格</kw> | <kw>物資</kw><br>
+1165 | <kk>賛</kk> | <kt>贊</kt> | サン；たす.ける、たた.える | approve, praise, title or inscription on picture, assist, agree with<br>
+<kw>賛成</kw> | <kw>賛同</kw><br>
+1166 | <kk>替</kk> | <kt></kt> | タイ；か.える、か.え-、か.わる | exchange, spare, substitute, per-<br>
+<kw>代替</kw> | <kw>両替</kw> | <kw>替わる</kw> | <kw>為替</kw><br>
+1167 | <kk>潜</kk> | <kt>潛</kt> | セン；ひそ.む、もぐ.る、かく.れる、くぐ.る、ひそ.める | submerge, conceal, hide, lower (voice), hush<br>
+<kw>潜水</kw> | <kw>潜在的</kw> | <kw>沈潜</kw> | <kw>潜む</kw> | <kw>潜り込む</kw> | <kw>潜る</kw><br>
+1168 | <kk>貿</kk> | <kt></kt> | ボウ | trade, exchange<br>
+<kw>貿易</kw><br>
+1169 | <kk>留</kk> | <kt></kt> | リュウ、ル；と.める、と.まる、とど.める、とど.まる、るうぶる | detain, fasten, halt, stop<br>
+<kw>留意</kw> | <kw>留学</kw> | <kw>保留</kw> | <kw>留守</kw> | <kw>帯留め</kw> | <kw>歩留まり</kw> | <kw>留める</kw> | <kw>家に留まる</kw><br>
+1170 | <kk>溜</kk> | <kt></kt> | リュウ；た.まる、たま.る、た.める、したた.る、たまり、ため | collect, gather, be in arrears<br>
+<kw>蒸溜</kw> | <kw>溜まる</kw> | <kw>溜める</kw><br>
+1171 | <kk>賀</kk> | <kt></kt> | ガ | congratulations, joy<br>
+<kw>賀状</kw> | <kw>賀する</kw><br>
+1172 | <kk>架</kk> | <kt></kt> | カ；か.ける、か.かる | erect, frame, mount, support, shelf, construct<br>
+<kw>架橋</kw> | <kw>架空</kw> | <kw>書架</kw> | <kw>架ける</kw> | <kw>架かる</kw><br>
+1173 | <kk>染</kk> | <kt></kt> | セン；そ.める、そ.まる、し.みる、し.み | dye, color, paint, stain, print<br>
+<kw>染色</kw> | <kw>染料</kw> | <kw>汚染</kw> | <kw>染め物</kw> | <kw>染まる</kw> | <kw>油染みる</kw> | <kw>染み抜き</kw><br>
+1174 | <kk>梨</kk> | <kt></kt> | リ；なし | pear tree<br>
+<kw>梨園</kw> | <kw>梨</kw><br>
+1175 | <kk>傑</kk> | <kt></kt> | ケツ；すぐ.れる | greatness, excellence<br>
+<kw>傑物</kw> | <kw>傑作</kw> | <kw>豪傑</kw><br>
+1176 | <kk>貴</kk> | <kt></kt> | キ；たっと.い、とうと.い、たっと.ぶ、とうと.ぶ | precious, value, prize, esteem, honor<br>
+<kw>貴重</kw> | <kw>貴下</kw> | <kw>貴い</kw> | <kw>貴ぶ</kw><br>
+1177 | <kk>潰</kk> | <kt></kt> | カイ、エ；つぶ.す、つぶ.れる、つい.える | crush, smash, break, dissipate<br>
+<kw>潰瘍</kw> | <kw>潰す</kw> | <kw>潰れる</kw><br>
+1178 | <kk>遺</kk> | <kt></kt> | イ、ユイ；のこ.す | bequeath, leave behind, reserve<br>
+<kw>遺棄</kw> | <kw>遺産</kw> | <kw>遺失</kw> | <kw>遺言</kw><br>
+1179 | <kk>遣</kk> | <kt></kt> | ケン；つか.う、-つか.い、-づか.い、つか.わす、や.る | dispatch, despatch, send, give, donate, do, undertake<br>
+<kw>遣外</kw> | <kw>分遣</kw> | <kw>金遣い</kw> | <kw>遣わす</kw><br>
+1180 | <kk>追</kk> | <kt></kt> | ツイ；お.う | chase, drive away, follow, pursue, meanwhile<br>
+<kw>追放</kw> | <kw>訴追</kw> | <kw>追う</kw><br>
+1181 | <kk>迫</kk> | <kt></kt> | ハク；せま.る | urge, force, imminent, spur on<br>
+<kw>迫害</kw> | <kw>切迫</kw> | <kw>迫る</kw><br>
+1182 | <kk>泊</kk> | <kt></kt> | ハク；と.まる、と.める | overnight stay, put up at, ride at anchor<br>
+<kw>宿泊</kw> | <kw>停泊</kw> | <kw>外泊</kw> | <kw>泊まる</kw> | <kw>泊める</kw><br>
+1183 | <kk>伯</kk> | <kt></kt> | ハク | chief, count, earl, uncle, Brazil<br>
+<kw>伯仲</kw> | <kw>画伯</kw><br>
+1184 | <kk>拍</kk> | <kt></kt> | ハク、ヒョウ | clap, beat (music)<br>
+<kw>拍手</kw> | <kw>拍車</kw> | <kw>一拍</kw> | <kw>拍子</kw><br>
+1185 | <kk>弔</kk> | <kt></kt> | チョウ；とむら.う、とぶら.う | condolences, mourning, funeral<br>
+<kw>弔問</kw> | <kw>弔辞</kw> | <kw>弔う</kw><br>
+1186 | <kk>沸</kk> | <kt></kt> | フツ；わ.く、わ.かす | seethe, boil, ferment, uproar, breed<br>
+<kw>沸騰</kw> | <kw>沸点</kw> | <kw>沸き上がる</kw> | <kw>湯沸かし</kw><br>
+1187 | <kk>煮</kk> | <kt>煮</kt> | シャ；に.る、-に、に.える、に.やす | boil, cook<br>
+<kw>煮沸</kw> | <kw>雑煮</kw> | <kw>生煮え</kw> | <kw>業を煮やす</kw><br>
+1188 | <kk>費</kk> | <kt></kt> | ヒ；つい.やす、つい.える | expense, cost, spend, consume, waste<br>
+<kw>費用</kw> | <kw>消費</kw> | <kw>旅費</kw> | <kw>費やす</kw> | <kw>費え</kw><br>
+1189 | <kk>弟</kk> | <kt></kt> | テイ、ダイ、デ；おとうと | younger brother, faithful service to elders<br>
+<kw>弟妹</kw> | <kw>義弟</kw> | <kw>子弟</kw> | <kw>兄弟</kw> | <kw>弟子</kw> | <kw>弟</kw><br>
+1190 | <kk>第</kk> | <kt></kt> | ダイ、テイ | No., residence<br>
+<kw>第一</kw> | <kw>第三者</kw><br>
+1191 | <kk>剃</kk> | <kt></kt> | テイ；まい、そ.る、す.る | shave<br>
+<kw>剃髪</kw> | <kw>剃る</kw><br>
+1192 | <kk>兄</kk> | <kt></kt> | ケイ、キョウ；あに | elder brother, big brother<br>
+<kw>兄事</kw> | <kw>父兄</kw> | <kw>義兄</kw> | <kw>兄弟</kw> | <kw>兄</kw> | <kw>兄さん</kw><br>
+1193 | <kk>只</kk> | <kt></kt> | シ；ただ | only, free, in addition<br>
+<kw>只管打坐</kw> | <kw>只今</kw><br>
+1194 | <kk>税</kk> | <kt></kt> | ゼイ | tax, duty<br>
+<kw>税金</kw> | <kw>免税</kw> | <kw>関税</kw><br>
+1195 | <kk>鋭</kk> | <kt></kt> | エイ；するど.い | pointed, sharpness, edge, weapon, sharp, violent<br>
+<kw>鋭利</kw> | <kw>鋭敏</kw> | <kw>精鋭</kw> | <kw>鋭い</kw><br>
+1196 | <kk>説</kk> | <kt></kt> | セツ、ゼイ；と.く | opinion, theory, explanation, rumor<br>
+<kw>説明</kw> | <kw>小説</kw> | <kw>演説</kw> | <kw>遊説</kw> | <kw>説く</kw><br>
+1197 | <kk>脱</kk> | <kt></kt> | ダツ；ぬ.ぐ、ぬ.げる | undress, removing, escape from, get rid of, be left out, take off<br>
+<kw>脱衣</kw> | <kw>脱出</kw> | <kw>虚脱</kw> | <kw>脱ぐ</kw> | <kw>脱げる</kw><br>
+1198 | <kk>閲</kk> | <kt></kt> | エツ；けみ.する | review, inspection, revision<br>
+<kw>閲覧</kw> | <kw>閲歴</kw><br>
+1199 | <kk>祝</kk> | <kt>祝</kt> | シュク、シュウ；いわ.う | celebrate, congratulate<br>
+<kw>祝賀</kw> | <kw>祝日</kw> | <kw>祝儀</kw> | <kw>祝言</kw> | <kw>祝う</kw> | <kw>祝詞</kw><br>
+1200 | <kk>況</kk> | <kt></kt> | キョウ；まし.て、いわ.んや、おもむき | condition, situation<br>
+<kw>状況</kw> | <kw>実況</kw> | <kw>概況</kw> | <kw>況んや</kw> | <kw>況して</kw><br>
+1201 | <kk>悦</kk> | <kt></kt> | エツ；よろこ.ぶ、よろこ.ばす | ecstasy, joy, rapture<br>
+<kw>悦楽</kw> | <kw>喜悦</kw> | <kw>悦ぶ</kw><br>
+1202 | <kk>克</kk> | <kt></kt> | コク；か.つ | overcome, kindly, skillfully<br>
+<kw>克服</kw> | <kw>克明</kw> | <kw>克つ</kw><br>
+1203 | <kk>競</kk> | <kt></kt> | キョウ、ケイ；きそ.う、せ.る、くら.べる | emulate, compete with, bid, sell at auction, bout, contest, race<br>
+<kw>競争</kw> | <kw>競技</kw> | <kw>競泳</kw> | <kw>競馬</kw> | <kw>競輪</kw> | <kw>競う</kw> | <kw>競り合う</kw><br>
+1204 | <kk>姉</kk> | <kt></kt> | シ；あね、はは | elder sister<br>
+<kw>諸姉</kw> | <kw>姉上</kw> | <kw>姉さん</kw><br>
+1205 | <kk>妹</kk> | <kt></kt> | マイ；いもうと | younger sister<br>
+<kw>姉妹</kw> | <kw>義妹</kw> | <kw>令妹</kw> | <kw>妹</kw><br>
+1206 | <kk>珠</kk> | <kt></kt> | シュ；たま | pearl, gem, jewel<br>
+<kw>珠玉</kw> | <kw>珠算</kw> | <kw>真珠</kw> | <kw>数珠</kw><br>
+1207 | <kk>殊</kk> | <kt></kt> | シュ；こと | particularly, especially, exceptionally<br>
+<kw>殊勝</kw> | <kw>殊勲</kw> | <kw>殊に</kw> | <kw>殊の外</kw> | <kw>殊更</kw><br>
+1208 | <kk>序</kk> | <kt></kt> | ジョ；つい.で、ついで | preface, beginning, order, precedence, occasion, chance, incidentally<br>
+<kw>序幕</kw><br>
+1209 | <kk>秩</kk> | <kt></kt> | チツ | regularity, salary, order<br>
+<kw>秩序</kw><br>
+1210 | <kk>迭</kk> | <kt></kt> | テツ | transfer, alternation<br>
+<kw>更迭</kw><br>
+1211 | <kk>喜</kk> | <kt></kt> | キ；よろこ.ぶ、よろこ.ばす | rejoice, take pleasure in<br>
+<kw>喜劇</kw> | <kw>歓喜</kw> | <kw>喜ばしい</kw> | <kw>親を喜ばす</kw><br>
+1212 | <kk>善</kk> | <kt></kt> | ゼン；よ.い、い.い、よ.く、よし.とする | virtuous, good, goodness<br>
+<kw>善悪</kw> | <kw>善処</kw> | <kw>善い</kw><br>
+1213 | <kk>繕</kk> | <kt></kt> | ゼン；つくろ.う | darning, repair, mend, trim, tidy up, adjust<br>
+<kw>修繕</kw> | <kw>営繕</kw> | <kw>繕う</kw><br>
+1214 | <kk>膳</kk> | <kt></kt> | ゼン、セン；かしわ、すす.める、そな.える | small low table, tray<br>
+<kw>配膳</kw><br>
+1215 | <kk>憾</kk> | <kt></kt> | カン；うら.む | remorse, regret, be sorry<br>
+<kw>遺憾</kw><br>
+1216 | <kk>恨</kk> | <kt></kt> | コン；うら.む、うら.めしい | regret, bear a grudge, resentment, malice, hatred<br>
+<kw>遺恨</kw> | <kw>痛恨</kw> | <kw>恨む</kw> | <kw>恨めしい</kw><br>
+1217 | <kk>惜</kk> | <kt></kt> | セキ；お.しい、お.しむ | pity, be sparing of, frugal, stingy, regret<br>
+<kw>惜敗</kw> | <kw>痛惜</kw> | <kw>愛惜</kw> | <kw>惜しい</kw> | <kw>負け惜しみ</kw><br>
+1218 | <kk>措</kk> | <kt></kt> | ソ；お.く | set aside, give up, suspend, discontinue, lay aside, except<br>
+<kw>措置</kw> | <kw>措辞</kw> | <kw>挙措</kw> | <kw>措く</kw><br>
+1219 | <kk>借</kk> | <kt></kt> | シャク；か.りる | borrow, rent<br>
+<kw>借用</kw> | <kw>借金</kw> | <kw>借り</kw><br>
+1220 | <kk>錯</kk> | <kt></kt> | サク、シャク | confused, mix, be in disorder<br>
+<kw>錯誤</kw> | <kw>錯覚</kw> | <kw>交錯</kw><br>
+1221 | <kk>曽</kk> | <kt>曾</kt> | ソウ、ソ、ゾウ；かつ、かつて、すなわち | formerly, once, before, ever, never, ex-<br>
+<kw>曽祖父</kw> | <kw>曽孫</kw> | <kw>曽</kw> | <kw>未曽有</kw><br>
+1222 | <kk>増</kk> | <kt>增</kt> | ゾウ；ま.す、ま.し、ふ.える、ふ.やす | increase, add, augment, gain, promote<br>
+<kw>増減</kw> | <kw>増加</kw> | <kw>激増</kw> | <kw>水増し</kw> | <kw>増える</kw> | <kw>増やす</kw><br>
+1223 | <kk>層</kk> | <kt>層</kt> | ソウ | stratum, social class, layer, story, floor<br>
+<kw>層雲</kw> | <kw>高層</kw> | <kw>断層</kw><br>
+1224 | <kk>憎</kk> | <kt>憎</kt> | ゾウ；にく.む、にく.い、にく.らしい、にく.しみ | hate, detest<br>
+<kw>憎悪</kw> | <kw>愛憎</kw> | <kw>憎む</kw> | <kw>憎さ</kw> | <kw>憎らしい</kw> | <kw>憎しみ</kw><br>
+1225 | <kk>僧</kk> | <kt>僧</kt> | ソウ | Buddhist priest, monk<br>
+<kw>僧院</kw> | <kw>高僧</kw><br>
+1226 | <kk>贈</kk> | <kt>贈</kt> | ゾウ、ソウ；おく.る | presents, send, give to, award to, confer on, presenting something<br>
+<kw>贈与</kw> | <kw>贈呈</kw> | <kw>贈答</kw> | <kw>寄贈</kw> | <kw>贈り物</kw><br>
+1227 | <kk>賄</kk> | <kt></kt> | ワイ；まかな.う | bribe, board, supply, finance<br>
+<kw>収賄</kw> | <kw>贈賄</kw> | <kw>賄い</kw><br>
+1228 | <kk>賂</kk> | <kt></kt> | ロ；まいな.い、まいな.う | bribe<br>
+<kw>賄賂</kw><br>
+1229 | <kk>賦</kk> | <kt></kt> | フ、ブ | levy, ode, prose, poem, tribute, installment<br>
+<kw>賦役</kw> | <kw>月賦</kw> | <kw>天賦</kw><br>
+1230 | <kk>賊</kk> | <kt></kt> | ゾク | burglar, rebel, traitor, robber<br>
+<kw>賊軍</kw> | <kw>盗賊</kw><br>
+1231 | <kk>帯</kk> | <kt>帶</kt> | タイ；お.びる、おび | sash, belt, obi, zone, region<br>
+<kw>地帯</kw> | <kw>連帯</kw> | <kw>帯びる</kw> | <kw>角帯</kw><br>
+1232 | <kk>滞</kk> | <kt>滯</kt> | タイ、テイ；とどこお.る | stagnate, be delayed, overdue, arrears<br>
+<kw>滞在</kw> | <kw>滞貨</kw> | <kw>滞る</kw><br>
+1233 | <kk>渋</kk> | <kt>澁</kt> | ジュウ、シュウ；しぶ、しぶ.い、しぶ.る | astringent, hesitate, reluctant, have diarrhea<br>
+<kw>渋滞</kw> | <kw>苦渋</kw> | <kw>渋紙</kw> | <kw>渋み</kw> | <kw>渋る</kw><br>
+1234 | <kk>摂</kk> | <kt>攝</kt> | セツ、ショウ；おさ.める、かね.る、と.る | vicarious, surrogate, act in addition to, take in, absorb<br>
+<kw>摂取</kw> | <kw>摂生</kw> | <kw>摂る</kw><br>
+1235 | <kk>為</kk> | <kt>爲</kt> | イ；ため、な.る、な.す、す.る、たり、つく.る、なり | do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of<br>
+<kw>為政者</kw> | <kw>行為</kw> | <kw>の為に</kw> | <kw>為す</kw><br>
+1236 | <kk>偽</kk> | <kt>僞</kt> | ギ、カ；いつわ.る、にせ、いつわ.り | falsehood, lie, deceive, pretend, counterfeit, forgery<br>
+<kw>偽名</kw> | <kw>偽る</kw> | <kw>偽物</kw> | <kw>偽札</kw><br>
+1237 | <kk>参</kk> | <kt>參</kt> | サン、シン；まい.る、まい-、まじわる、みつ | nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in<br>
+<kw>参加</kw> | <kw>参万円</kw> | <kw>人参</kw> | <kw>寺参り</kw><br>
+1238 | <kk>惨</kk> | <kt>慘</kt> | サン、ザン；みじ.め、いた.む、むご.い | wretched, disaster, cruelty, harsh<br>
+<kw>惨劇</kw> | <kw>悲惨</kw> | <kw>陰惨</kw> | <kw>惨死</kw> | <kw>惨殺</kw> | <kw>惨め</kw><br>
+1239 | <kk>呂</kk> | <kt></kt> | ロ、リョ；せぼね | spine, backbone<br>
+<kw>風呂</kw><br>
+1240 | <kk>侶</kk> | <kt></kt> | リョ、ロ；とも | companion, follower<br>
+<kw>僧侶</kw> | <kw>伴侶</kw><br>
+1241 | <kk>宮</kk> | <kt></kt> | キュウ、グウ、ク、クウ；みや | Shinto shrine, constellations, palace, princess<br>
+<kw>宮殿</kw> | <kw>離宮</kw> | <kw>宮司</kw> | <kw>神宮</kw> | <kw>東宮</kw> | <kw>宮内庁</kw> | <kw>宮様</kw><br>
+1242 | <kk>営</kk> | <kt>營</kt> | エイ；いとな.む、いとな.み | occupation, camp, perform, build, conduct (business)<br>
+<kw>営業</kw> | <kw>経営</kw> | <kw>陣営</kw> | <kw>営む</kw><br>
+1243 | <kk>蛍</kk> | <kt>螢</kt> | ケイ；ほたる | lightning-bug, firefly<br>
+<kw>蛍光灯</kw> | <kw>蛍光塗料</kw> | <kw>蛍</kw><br>
+1244 | <kk>栄</kk> | <kt>榮</kt> | エイ、ヨウ；さか.える、は.え、-ば.え、は.える、え | flourish, prosperity, honor, glory, splendor<br>
+<kw>栄枯</kw> | <kw>栄養</kw> | <kw>栄える</kw> | <kw>栄えある</kw> | <kw>見栄え</kw> | <kw>出来栄え</kw> | <kw>栄える</kw><br>
+1245 | <kk>誉</kk> | <kt>譽</kt> | ヨ；ほま.れ、ほ.める | reputation, praise, honor, glory<br>
+<kw>名誉</kw> | <kw>栄誉</kw> | <kw>誉れ</kw><br>
+1246 | <kk>挙</kk> | <kt>擧</kt> | キョ；あ.げる、あ.がる、こぞ.る | raise, plan, project, behavior, actions<br>
+<kw>挙手</kw> | <kw>挙国</kw> | <kw>壮挙</kw> | <kw>挙げて</kw> | <kw>挙がる</kw><br>
+1247 | <kk>拳</kk> | <kt></kt> | ケン、ゲン；こぶし | fist<br>
+<kw>拳銃</kw> | <kw>拳法</kw> | <kw>拳骨</kw> | <kw>握り拳</kw><br>
+1248 | <kk>桜</kk> | <kt>櫻</kt> | オウ、ヨウ；さくら | cherry<br>
+<kw>桜花</kw> | <kw>観桜</kw> | <kw>桜色</kw> | <kw>葉桜</kw><br>
+1249 | <kk>妥</kk> | <kt></kt> | ダ | gentle, peace, depravity<br>
+<kw>妥当</kw> | <kw>妥結</kw> | <kw>妥協</kw><br>
+1250 | <kk>咲</kk> | <kt></kt> | ショウ；さ.く、-ざき | blossom, bloom<br>
+<kw>遅咲き</kw><br>
+1251 | <kk>朕</kk> | <kt></kt> | チン | majestic plural, imperial we<br>
+<kw>朕</kw><br>
+1252 | <kk>茎</kk> | <kt>莖</kt> | ケイ、キョウ；くき | stalk, stem<br>
+<kw>球茎</kw> | <kw>地下茎</kw> | <kw>歯茎</kw><br>
+1253 | <kk>径</kk> | <kt>徑</kt> | ケイ；みち、こみち、さしわたし、ただちに | diameter, path, method<br>
+<kw>直径</kw> | <kw>直情径行</kw><br>
+1254 | <kk>怪</kk> | <kt></kt> | カイ、ケ；あや.しい、あや.しむ | suspicious, mystery, apparition<br>
+<kw>怪談</kw> | <kw>怪物</kw> | <kw>奇怪</kw> | <kw>怪我</kw> | <kw>怪しげ</kw> | <kw>怪しむ</kw><br>
+1255 | <kk>軽</kk> | <kt>輕</kt> | ケイ、キョウ、キン；かる.い、かろ.やか、かろ.んじる | lightly, trifling, unimportant<br>
+<kw>軽快</kw> | <kw>軽薄</kw> | <kw>軽率</kw> | <kw>軽々</kw> | <kw>手軽</kw> | <kw>軽やか</kw><br>
+1256 | <kk>経</kk> | <kt>經</kt> | ケイ、キョウ、キン；へ.る、た.つ、たていと、はか.る、のり | sutra, longitude, pass thru, expire, warp<br>
+<kw>経費</kw> | <kw>経済</kw> | <kw>経文</kw> | <kw>お経</kw> | <kw>写経</kw> | <kw>経る</kw> | <kw>時間が経つ</kw> | <kw>読経</kw><br>
+1257 | <kk>斉</kk> | <kt>齊</kt> | セイ、サイ；そろ.う、ひと.しい、ひと.しく、あたる、はやい | adjusted, alike, equal, similar variety of<br>
+<kw>斉唱</kw> | <kw>一斉</kw> | <kw>斉う</kw> | <kw>斉しい</kw><br>
+1258 | <kk>斎</kk> | <kt>齋</kt> | サイ；とき、つつし.む、ものいみ、い.む、いわ.う、いつ.く | purification, Buddhist food, room, worship, avoid, alike<br>
+<kw>斎場</kw> | <kw>潔斎</kw> | <kw>書斎</kw><br>
+1259 | <kk>済</kk> | <kt>濟</kt> | サイ、セイ；す.む、-ず.み、-ずみ、す.まない、す.ます、-す.ます、すく.う、な.す、わたし、わた.る | settle (debt,  etc.), relieve (burden), finish, come to an end, excusable, need not<br>
+<kw>返済</kw> | <kw>救済</kw> | <kw>多士済々</kw> | <kw>使用済み</kw> | <kw>済ます</kw><br>
+1260 | <kk>剤</kk> | <kt>劑</kt> | ザイ、スイ、セイ；かる、けず.る | dose, medicine, drug<br>
+<kw>薬剤師</kw> | <kw>消化剤</kw><br>
+1261 | <kk>剖</kk> | <kt></kt> | ボウ | divide<br>
+<kw>解剖</kw><br>
+1262 | <kk>陪</kk> | <kt></kt> | バイ | obeisance, follow, accompany, attend on<br>
+<kw>陪席</kw> | <kw>陪食</kw> | <kw>陪審</kw><br>
+1263 | <kk>培</kk> | <kt></kt> | バイ；つちか.う | cultivate, foster<br>
+<kw>培養</kw> | <kw>培う</kw><br>
+1264 | <kk>賠</kk> | <kt></kt> | バイ | compensation, indemnify<br>
+<kw>賠償</kw><br>
+1265 | <kk>貼</kk> | <kt></kt> | テン、チョウ；は.る、つ.く | stick, paste, apply<br>
+<kw>貼付</kw> | <kw>貼付</kw> | <kw>貼る</kw><br>
+1266 | <kk>粘</kk> | <kt></kt> | ネン；ねば.る | sticky, glutinous, greasy, persevere<br>
+<kw>粘土</kw> | <kw>粘液</kw> | <kw>粘着</kw> | <kw>粘り強い</kw><br>
+1267 | <kk>衡</kk> | <kt></kt> | コウ | equilibrium, measuring rod, scale<br>
+<kw>均衡</kw> | <kw>平衡</kw> | <kw>度量衡</kw><br>
+1268 | <kk>換</kk> | <kt></kt> | カン；か.える、-か.える、か.わる | interchange, period, change, convert, replace, renew<br>
+<kw>換気</kw> | <kw>換算</kw> | <kw>交換</kw> | <kw>換える</kw> | <kw>換わる</kw><br>
+1269 | <kk>喚</kk> | <kt></kt> | カン；わめ.く | yell, cry, call, scream, summon<br>
+<kw>喚問</kw> | <kw>喚く</kw><br>
+1270 | <kk>絶</kk> | <kt></kt> | ゼツ；た.える、た.やす、た.つ | discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled<br>
+<kw>絶妙</kw> | <kw>絶食</kw> | <kw>絶える</kw> | <kw>絶やす</kw> | <kw>絶つ</kw><br>
+1271 | <kk>免</kk> | <kt>免</kt> | メン；まぬか.れる、まぬが.れる | excuse, dismissal<br>
+<kw>免許</kw> | <kw>免除</kw> | <kw>放免</kw> | <kw>免れる</kw><br>
+1272 | <kk>逸</kk> | <kt>逸</kt> | イツ；そ.れる、そ.らす、はぐ.れる | deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge<br>
+<kw>逸話</kw> | <kw>逸品</kw> | <kw>逸する</kw> | <kw>逸れる</kw> | <kw>逸らす</kw> | <kw>逸れる</kw><br>
+1273 | <kk>勉</kk> | <kt>勉</kt> | ベン；つと.める | exertion, endeavour, encourage, strive, make effort, diligent<br>
+<kw>勉強</kw> | <kw>勉学</kw> | <kw>勉める</kw><br>
+1274 | <kk>晩</kk> | <kt>晚</kt> | バン | nightfall, night<br>
+<kw>晩夏</kw> | <kw>今晩</kw><br>
+1275 | <kk>許</kk> | <kt></kt> | キョ；ゆる.す、もと | permit, approve<br>
+<kw>許可</kw> | <kw>許諾</kw> | <kw>特許</kw> | <kw>許す</kw><br>
+1276 | <kk>象</kk> | <kt></kt> | ショウ、ゾウ；かたど.る | elephant, pattern after, imitate, image, shape, sign (of the times)<br>
+<kw>象徴</kw> | <kw>対象</kw> | <kw>象眼</kw> | <kw>巨象</kw><br>
+1277 | <kk>像</kk> | <kt></kt> | ゾウ | statue, picture, image, figure, portrait<br>
+<kw>現像</kw><br>
+1278 | <kk>彫</kk> | <kt></kt> | チョウ；ほ.る、-ぼ.り | carve, engrave, chisel<br>
+<kw>木彫</kw> | <kw>木彫り</kw><br>
+1279 | <kk>景</kk> | <kt></kt> | ケイ | scenery, view<br>
+<kw>景気</kw> | <kw>風景</kw> | <kw>光景</kw> | <kw>景色</kw><br>
+1280 | <kk>影</kk> | <kt></kt> | エイ；かげ | shadow, silhouette, phantom<br>
+<kw>影響</kw> | <kw>陰影</kw> | <kw>影絵</kw> | <kw>人影</kw><br>
+1281 | <kk>撮</kk> | <kt></kt> | サツ；と.る、つま.む、-ど.り | snapshot, take pictures<br>
+<kw>撮影</kw> | <kw>撮る</kw><br>
+1282 | <kk>就</kk> | <kt></kt> | シュウ、ジュ；つ.く、つ.ける | concerning, settle, take position, depart, study, per<br>
+<kw>就任</kw> | <kw>就寝</kw> | <kw>成就</kw> | <kw>就く</kw> | <kw>就ける</kw><br>
+1283 | <kk>涼</kk> | <kt></kt> | リョウ；すず.しい、すず.む、すず.やか、うす.い、ひや.す、まことに | refreshing, nice and cool<br>
+<kw>涼味</kw> | <kw>清涼剤</kw> | <kw>涼しい</kw> | <kw>夕涼み</kw><br>
+1284 | <kk>鯨</kk> | <kt></kt> | ゲイ；くじら | whale<br>
+<kw>鯨油</kw> | <kw>捕鯨</kw> | <kw>鯨</kw><br>
+1285 | <kk>隔</kk> | <kt></kt> | カク；へだ.てる、へだ.たる | isolate, alternate, distance, separate, gulf<br>
+<kw>隔離</kw> | <kw>隔月</kw> | <kw>隔て</kw> | <kw>隔たり</kw><br>
+1286 | <kk>融</kk> | <kt></kt> | ユウ；と.ける、と.かす | dissolve, melt<br>
+<kw>融解</kw> | <kw>融和</kw> | <kw>金融</kw> | <kw>融ける</kw> | <kw>融かす</kw><br>
+1287 | <kk>肖</kk> | <kt></kt> | ショウ；あやか.る | resemblance<br>
+<kw>肖像</kw> | <kw>不肖</kw> | <kw>肖る</kw><br>
+1288 | <kk>消</kk> | <kt></kt> | ショウ；き.える、け.す | extinguish, blow out, turn off, neutralize, cancel<br>
+<kw>消滅</kw> | <kw>消極的</kw> | <kw>費消</kw> | <kw>立ち消え</kw> | <kw>消しゴム</kw><br>
+1289 | <kk>硝</kk> | <kt></kt> | ショウ | nitrate, saltpeter<br>
+<kw>硝石</kw> | <kw>硝酸</kw><br>
+1290 | <kk>梢</kk> | <kt></kt> | ショウ；こずえ、くすのき | treetops, twig<br>
+<kw>末梢</kw> | <kw>梢</kw><br>
+1291 | <kk>削</kk> | <kt></kt> | サク；けず.る、はつ.る、そ.ぐ | plane, sharpen, whittle, pare, shave<br>
+<kw>削除</kw> | <kw>削減</kw> | <kw>削る</kw><br>
+1292 | <kk>宵</kk> | <kt></kt> | ショウ；よい | wee hours, evening, early night<br>
+<kw>徹宵</kw> | <kw>宵</kw><br>
+1293 | <kk>宴</kk> | <kt></kt> | エン；うたげ | banquet, feast, party<br>
+<kw>宴会</kw> | <kw>宴席</kw> | <kw>宴</kw><br>
+1294 | <kk>郷</kk> | <kt>鄕</kt> | キョウ、ゴウ；さと | home town, village, native place, district<br>
+<kw>郷里</kw> | <kw>郷土</kw> | <kw>異郷</kw> | <kw>郷士</kw> | <kw>近郷</kw> | <kw>在郷</kw> | <kw>郷</kw><br>
+1295 | <kk>饗</kk> | <kt></kt> | キョウ；う.ける、もてな.す | banquet<br>
+<kw>饗宴</kw><br>
+1296 | <kk>響</kk> | <kt>響</kt> | キョウ；ひび.く | echo, sound, resound, ring, vibrate<br>
+<kw>音響</kw> | <kw>交響楽</kw> | <kw>響く</kw><br>
+1297 | <kk>城</kk> | <kt></kt> | ジョウ、セイ；しろ | castle<br>
+<kw>城内</kw> | <kw>城下町</kw> | <kw>落城</kw> | <kw>城跡</kw> | <kw>宮城県</kw><br>
+1298 | <kk>誠</kk> | <kt></kt> | セイ；まこと | sincerity, admonish, warn, prohibit, truth, fidelity<br>
+<kw>誠実</kw> | <kw>誠意</kw> | <kw>至誠</kw> | <kw>誠に</kw><br>
+1299 | <kk>盛</kk> | <kt></kt> | セイ、ジョウ；も.る、さか.る、さか.ん | boom, prosper, copulate<br>
+<kw>盛大</kw> | <kw>全盛</kw> | <kw>繁盛</kw> | <kw>盛り上がる</kw> | <kw>燃え盛る</kw> | <kw>盛り</kw> | <kw>花盛り</kw> | <kw>盛んに</kw><br>
+1300 | <kk>旺</kk> | <kt></kt> | オウ、キョウ、ゴウ；かがや.き、うつくし.い、さかん | flourishing, successful, beautiful, vigorous<br>
+<kw>旺盛</kw><br>
+1301 | <kk>盆</kk> | <kt></kt> | ボン | basin, lantern festival, tray<br>
+<kw>盆栽</kw> | <kw>盆地</kw> | <kw>旧盆</kw><br>
+1302 | <kk>蓋</kk> | <kt></kt> | ガイ、カイ、コウ；ふた、けだ.し、おお.う、かさ、かこう | cover, lid, flap<br>
+<kw>頭蓋骨</kw> | <kw>火蓋</kw><br>
+1303 | <kk>盗</kk> | <kt>盜</kt> | トウ；ぬす.む、ぬす.み | steal, rob, pilfer<br>
+<kw>盗難</kw> | <kw>盗用</kw> | <kw>強盗</kw> | <kw>盗む</kw><br>
+1304 | <kk>盟</kk> | <kt></kt> | メイ | alliance, oath<br>
+<kw>加盟</kw> | <kw>同盟</kw> | <kw>連盟</kw><br>
+1305 | <kk>塩</kk> | <kt>鹽</kt> | エン；しお | salt<br>
+<kw>塩分</kw> | <kw>塩酸</kw> | <kw>食塩</kw> | <kw>塩辛い</kw><br>
+1306 | <kk>傷</kk> | <kt></kt> | ショウ；きず、いた.む、いた.める | wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point<br>
+<kw>傷害</kw> | <kw>負傷</kw> | <kw>感傷</kw> | <kw>古傷</kw> | <kw>傷つく</kw> | <kw>傷む</kw> | <kw>傷める</kw><br>
+1307 | <kk>揚</kk> | <kt></kt> | ヨウ；あ.げる、-あ.げ、あ.がる | raise, elevate, hoist, praise, extol, fry in deep fat<br>
+<kw>意気揚々</kw> | <kw>抑揚</kw> | <kw>掲揚</kw> | <kw>荷揚げ</kw> | <kw>揚がる</kw><br>
+1308 | <kk>暢</kk> | <kt></kt> | チョウ；のび.る | stretch<br>
+<kw>流暢</kw> | <kw>暢気</kw><br>
+1309 | <kk>陽</kk> | <kt></kt> | ヨウ；ひ | sunshine, yang principle, positive, male, heaven, daytime<br>
+<kw>陽光</kw> | <kw>陰陽</kw> | <kw>陽</kw><br>
+1310 | <kk>陰</kk> | <kt></kt> | イン；かげ、かげ.る | shade, yin, negative, sex organs, secret, shadow<br>
+<kw>陰気</kw> | <kw>陰性</kw> | <kw>光陰</kw> | <kw>日陰</kw> | <kw>陰り</kw><br>
+1311 | <kk>隠</kk> | <kt>隱</kt> | イン、オン；かく.す、かく.し、かく.れる、かか.す、よ.る | conceal, hide, cover<br>
+<kw>隠居</kw> | <kw>隠忍</kw> | <kw>隠語</kw> | <kw>隠す</kw> | <kw>雲隠れ</kw><br>
+1312 | <kk>穏</kk> | <kt>穩</kt> | オン；おだ.やか | calm, quiet, moderation<br>
+<kw>穏和</kw> | <kw>穏当</kw> | <kw>平穏</kw> | <kw>穏やか</kw><br>
+1313 | <kk>穂</kk> | <kt>穗</kt> | スイ；ほ | ear, ear (grain), head, crest (wave)<br>
+<kw>穂状</kw> | <kw>出穂期</kw> | <kw>穂</kw><br>
+1314 | <kk>稲</kk> | <kt>稻</kt> | トウ、テ；いね、いな- | rice plant<br>
+<kw>水稲</kw> | <kw>陸稲</kw> | <kw>稲刈り</kw> | <kw>稲作</kw> | <kw>稲穂</kw><br>
+1315 | <kk>愁</kk> | <kt></kt> | シュウ；うれ.える、うれ.い | distress, grieve, lament, be anxious<br>
+<kw>愁傷</kw> | <kw>愁える</kw> | <kw>愁い</kw><br>
+1316 | <kk>裁</kk> | <kt></kt> | サイ；た.つ、さば.く | tailor, judge, decision, cut out (pattern)<br>
+<kw>裁縫</kw> | <kw>裁判</kw> | <kw>裁ち物</kw> | <kw>裁く</kw><br>
+1317 | <kk>載</kk> | <kt></kt> | サイ；の.せる、の.る | ride, board, get on, place, spread, 10**44, record, publish<br>
+<kw>積載</kw> | <kw>記載</kw> | <kw>載せる</kw> | <kw>載る</kw><br>
+1318 | <kk>栽</kk> | <kt></kt> | サイ | plantation, planting<br>
+<kw>栽培</kw><br>
+1319 | <kk>赦</kk> | <kt></kt> | シャ | pardon, forgiveness<br>
+<kw>赦免</kw> | <kw>大赦</kw> | <kw>恩赦</kw> | <kw>赦す</kw><br>
+1320 | <kk>跡</kk> | <kt></kt> | セキ；あと | tracks, mark, print, impression<br>
+<kw>追跡</kw> | <kw>旧跡</kw> | <kw>遺跡</kw> | <kw>跡取り</kw><br>
+1321 | <kk>踪</kk> | <kt></kt> | ソウ、ショウ；あと | remains, clue, footprint<br>
+<kw>失踪</kw><br>
+1322 | <kk>痕</kk> | <kt></kt> | コン；あと | mark, foot print<br>
+<kw>痕跡</kw> | <kw>血痕</kw> | <kw>傷痕</kw><br>
+1323 | <kk>蹴</kk> | <kt></kt> | シュク、シュウ；け.る | kick<br>
+<kw>一蹴</kw> | <kw>蹴散らす</kw><br>
+1324 | <kk>踊</kk> | <kt></kt> | ヨウ；おど.る | jump, dance, leap, skip<br>
+<kw>舞踊</kw> | <kw>踊る</kw> | <kw>踊り</kw><br>
+1325 | <kk>踏</kk> | <kt></kt> | トウ；ふ.む、ふ.まえる | step, trample, carry through, appraise, evade payment<br>
+<kw>踏破</kw> | <kw>踏襲</kw> | <kw>高踏的</kw> | <kw>足踏み</kw> | <kw>踏まえる</kw><br>
+1326 | <kk>躍</kk> | <kt></kt> | ヤク；おど.る | leap, dance, skip<br>
+<kw>躍動</kw> | <kw>躍起</kw> | <kw>躍り上がる</kw><br>
+1327 | <kk>濯</kk> | <kt></kt> | タク；すす.ぐ、ゆす.ぐ | laundry, wash, pour on, rinse<br>
+<kw>洗濯</kw> | <kw>濯ぐ</kw><br>
+1328 | <kk>奇</kk> | <kt></kt> | キ；く.しき、あや.しい、くし、めずら.しい | strange, strangeness, curiosity<br>
+<kw>奇襲</kw> | <kw>奇数</kw> | <kw>珍奇</kw> | <kw>奇しき</kw><br>
+1329 | <kk>寄</kk> | <kt></kt> | キ；よ.る、-よ.り、よ.せる | draw near, stop in, bring near, gather, collect, send, forward<br>
+<kw>寄宿</kw> | <kw>寄港</kw> | <kw>近寄る</kw> | <kw>身寄り</kw> | <kw>人寄せ</kw><br>
+1330 | <kk>騎</kk> | <kt></kt> | キ | equestrian, riding on horses, counter for equestrians<br>
+<kw>騎士</kw> | <kw>騎馬</kw> | <kw>一騎当千</kw><br>
+1331 | <kk>椅</kk> | <kt></kt> | イ | chair<br>
+<kw>椅子</kw><br>
+1332 | <kk>崎</kk> | <kt></kt> | キ；さき、さい、みさき | promontory, cape, spit<br>
+<kw>崎嶇</kw> | <kw>長崎</kw><br>
+1333 | <kk>埼</kk> | <kt></kt> | キ；さき、さい、みさき | cape, spit, promontory<br>
+<kw>埼</kw> | <kw>埼玉県</kw><br>
+1334 | <kk>岬</kk> | <kt></kt> | コウ；みさき | headland, cape, spit, promontory<br>
+<kw>岬角</kw> | <kw>岬</kw><br>
+1335 | <kk>模</kk> | <kt></kt> | モ、ボ | imitation, copy, mock<br>
+<kw>模範</kw> | <kw>模型</kw> | <kw>規模</kw><br>
+1336 | <kk>膜</kk> | <kt></kt> | マク | membrane<br>
+<kw>膜質</kw> | <kw>鼓膜</kw> | <kw>粘膜</kw><br>
+1337 | <kk>漠</kk> | <kt></kt> | バク | vague, obscure, desert, wide<br>
+<kw>漠然</kw> | <kw>広漠</kw> | <kw>砂漠</kw><br>
+1338 | <kk>幕</kk> | <kt></kt> | マク、バク；とばり | curtain, bunting, act of play<br>
+<kw>幕切れ</kw> | <kw>天幕</kw> | <kw>暗幕</kw> | <kw>幕府</kw> | <kw>幕末</kw> | <kw>幕僚</kw><br>
+1339 | <kk>墓</kk> | <kt></kt> | ボ；はか | grave, tomb<br>
+<kw>墓地</kw> | <kw>墓参</kw> | <kw>墓参り</kw><br>
+1340 | <kk>募</kk> | <kt></kt> | ボ；つの.る | recruit, campaign, gather (contributions), enlist, grow violent<br>
+<kw>募金</kw> | <kw>募集</kw> | <kw>応募</kw> | <kw>募る</kw><br>
+1341 | <kk>暮</kk> | <kt></kt> | ボ；く.れる、く.らす | evening, twilight, season's end, livelihood, make a living, spend time<br>
+<kw>暮春</kw> | <kw>薄暮</kw> | <kw>暮れ</kw> | <kw>暮らす</kw><br>
+1342 | <kk>慕</kk> | <kt></kt> | ボ；した.う | pining, yearn for, love dearly, adore<br>
+<kw>慕情</kw> | <kw>敬慕</kw> | <kw>思慕</kw> | <kw>慕わしい</kw><br>
+1343 | <kk>添</kk> | <kt></kt> | テン；そ.える、そ.う | annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate<br>
+<kw>添加</kw> | <kw>添付</kw> | <kw>添削</kw> | <kw>添え手紙</kw> | <kw>付き添う</kw><br>
+1344 | <kk>恭</kk> | <kt></kt> | キョウ；うやうや.しい | respect, reverent<br>
+<kw>恭賀</kw> | <kw>恭順</kw> | <kw>恭しい</kw><br>
+1345 | <kk>暴</kk> | <kt></kt> | ボウ、バク；あば.く、あば.れる | outburst, rave, fret, force, violence, cruelty, outrage<br>
+<kw>暴言</kw> | <kw>横暴</kw> | <kw>乱暴</kw> | <kw>暴露</kw> | <kw>暴き出す</kw> | <kw>大暴れ</kw><br>
+1346 | <kk>爆</kk> | <kt></kt> | バク；は.ぜる | bomb, burst open, pop, split<br>
+<kw>爆発</kw> | <kw>爆弾</kw> | <kw>原爆</kw><br>
+1347 | <kk>沿</kk> | <kt></kt> | エン；そ.う、-ぞ.い | run alongside, follow along, run along, lie along<br>
+<kw>沿海</kw> | <kw>沿線</kw> | <kw>沿革</kw> | <kw>川沿い</kw><br>
+1348 | <kk>礎</kk> | <kt></kt> | ソ；いしずえ | cornerstone, foundation stone<br>
+<kw>礎石</kw> | <kw>定礎</kw> | <kw>礎</kw><br>
+1349 | <kk>疑</kk> | <kt></kt> | ギ；うたが.う | doubt, distrust, be suspicious, question<br>
+<kw>疑念</kw> | <kw>疑問</kw> | <kw>容疑</kw> | <kw>疑わしい</kw><br>
+1350 | <kk>凝</kk> | <kt></kt> | ギョウ；こ.る、こ.らす、こご.らす、こご.らせる、こご.る | congeal, freeze, stiff, be absorbed in<br>
+<kw>凝固</kw> | <kw>凝結</kw> | <kw>凝視</kw> | <kw>凝り性</kw> | <kw>凝らす</kw><br>
+1351 | <kk>擬</kk> | <kt></kt> | ギ；まが.い、もど.き | mimic, aim (a gun) at, nominate, imitate<br>
+<kw>擬音</kw> | <kw>擬人法</kw> | <kw>模擬</kw><br>
+1352 | <kk>倣</kk> | <kt></kt> | ホウ；なら.う | emulate, imitate<br>
+<kw>模倣</kw> | <kw>倣う</kw><br>
+1353 | <kk>似</kk> | <kt></kt> | ジ；に.る、ひ.る | becoming, resemble, counterfeit, imitate, suitable<br>
+<kw>類似</kw> | <kw>疑似</kw> | <kw>似顔</kw><br>
+1354 | <kk>俵</kk> | <kt></kt> | ヒョウ；たわら | bag, bale, sack, counter for bags<br>
+<kw>一俵</kw> | <kw>土俵</kw> | <kw>米俵</kw><br>
+1355 | <kk>俺</kk> | <kt></kt> | エン；おれ、われ | I, myself<br>
+<kw>俺</kw><br>
+1356 | <kk>庵</kk> | <kt></kt> | アン；いおり、いお | hermitage, retreat<br>
+<kw>庵室</kw> | <kw>庵</kw><br>
+1357 | <kk>僕</kk> | <kt></kt> | ボク；しもべ | me, I (male), servant, manservant<br>
+<kw>公僕</kw><br>
+1358 | <kk>撲</kk> | <kt></kt> | ボク | slap, strike, hit, beat, tell, speak<br>
+<kw>撲殺</kw> | <kw>撲滅</kw> | <kw>打撲</kw> | <kw>撲る</kw> | <kw>相撲</kw><br>
+1359 | <kk>叩</kk> | <kt></kt> | コウ；たた.く、はた.く、すぎ | strike, beat, kow tow, hit, thrash, criticize<br>
+<kw>叩頭</kw> | <kw>キーを叩く</kw><br>
+1360 | <kk>伐</kk> | <kt></kt> | バツ、ハツ、カ、ボチ；き.る、そむ.く、う.つ | fell, strike, attack, punish<br>
+<kw>伐採</kw> | <kw>征伐</kw> | <kw>殺伐</kw> | <kw>伐る</kw> | <kw>伐つ</kw><br>
+1361 | <kk>閥</kk> | <kt></kt> | バツ | clique, lineage, pedigree, faction, clan<br>
+<kw>門閥</kw> | <kw>財閥</kw> | <kw>派閥</kw><br>
+1362 | <kk>闘</kk> | <kt>鬭</kt> | トウ；たたか.う、あらそ.う | fight, war<br>
+<kw>闘争</kw> | <kw>闘志</kw> | <kw>戦闘</kw> | <kw>闘う</kw><br>
+1363 | <kk>闇</kk> | <kt></kt> | アン、オン；やみ、くら.い | get dark, gloom, disorder<br>
+<kw>闇愚</kw> | <kw>闇夜</kw> | <kw>暗闇</kw><br>
+1364 | <kk>閑</kk> | <kt></kt> | カン | leisure<br>
+<kw>閑静</kw> | <kw>閑却</kw> | <kw>繁閑</kw><br>
+1365 | <kk>脈</kk> | <kt></kt> | ミャク；すじ | vein, pulse, hope<br>
+<kw>脈絡</kw> | <kw>動脈</kw><br>
+1366 | <kk>派</kk> | <kt></kt> | ハ | faction, group, party, clique, sect, school<br>
+<kw>派遣</kw> | <kw>派生</kw> | <kw>流派</kw><br>
+1367 | <kk>缶</kk> | <kt>罐</kt> | カン；かま | tin can, container, jar radical (no. 121)<br>
+<kw>缶詰</kw> | <kw>製缶</kw><br>
+1368 | <kk>揺</kk> | <kt>搖</kt> | ヨウ；ゆ.れる、ゆ.る、ゆ.らぐ、ゆ.るぐ、ゆ.する、ゆ.さぶる、ゆ.すぶる、うご.く | swing, shake, sway, rock, tremble, vibrate<br>
+<kw>動揺</kw> | <kw>揺れる</kw> | <kw>揺り返し</kw> | <kw>揺り籠</kw> | <kw>揺らぐ</kw> | <kw>揺るぎない</kw> | <kw>貧乏揺すり</kw> | <kw>揺さぶる</kw> | <kw>揺すぶる</kw><br>
+1369 | <kk>謡</kk> | <kt>謠</kt> | ヨウ；うた.い、うた.う | song, sing, ballad, noh chanting<br>
+<kw>謡曲</kw> | <kw>民謡</kw> | <kw>歌謡</kw> | <kw>素謡</kw> | <kw>謡う</kw><br>
+1370 | <kk>遥</kk> | <kt></kt> | ヨウ；はる.か | far off, distant, long ago<br>
+<kw>遥遠</kw> | <kw>遥か</kw><br>
+1371 | <kk>陶</kk> | <kt></kt> | トウ；すえ | pottery, porcelain<br>
+<kw>陶器</kw> | <kw>陶酔</kw><br>
+1372 | <kk>陳</kk> | <kt></kt> | チン；ひ.ねる | exhibit, state, relate, explain<br>
+<kw>陳列</kw> | <kw>陳謝</kw> | <kw>開陳</kw><br>
+1373 | <kk>陣</kk> | <kt></kt> | ジン | camp, battle array, ranks, position, sudden, brief time<br>
+<kw>陣頭</kw> | <kw>陣痛</kw> | <kw>円陣</kw><br>
+1374 | <kk>陥</kk> | <kt>陷</kt> | カン；おちい.る、おとしい.れる | collapse, fall into, cave in, fall (castle), slide into<br>
+<kw>陥落</kw> | <kw>陥没</kw> | <kw>欠陥</kw> | <kw>陥る</kw> | <kw>陥れる</kw><br>
+1375 | <kk>隆</kk> | <kt>隆</kt> | リュウ | hump, high, noble, prosperity<br>
+<kw>隆起</kw> | <kw>隆盛</kw> | <kw>興隆</kw><br>
+1376 | <kk>降</kk> | <kt></kt> | コウ、ゴ；お.りる、お.ろす、ふ.る、ふ.り、くだ.る、くだ.す | descend, precipitate, fall, surrender<br>
+<kw>降雨</kw> | <kw>降参</kw> | <kw>乗り降り</kw> | <kw>降ろす</kw> | <kw>大降り</kw><br>
+1377 | <kk>峰</kk> | <kt></kt> | ホウ；みね、ね | summit, peak<br>
+<kw>秀峰</kw> | <kw>霊峰</kw> | <kw>連峰</kw> | <kw>剣が峰</kw><br>
+1378 | <kk>逢</kk> | <kt></kt> | ホウ；あ.う、むか.える | meeting, tryst, date, rendezvous<br>
+<kw>逢着</kw> | <kw>逢う</kw><br>
+1379 | <kk>縫</kk> | <kt></kt> | ホウ；ぬ.う | sew, stitch, embroider<br>
+<kw>縫合</kw> | <kw>縫製</kw> | <kw>縫い目</kw><br>
+1380 | <kk>蜂</kk> | <kt></kt> | ホウ；はち | bee, wasp, hornet<br>
+<kw>蜂起</kw> | <kw>蜜蜂</kw><br>
+1381 | <kk>蜜</kk> | <kt></kt> | ミツ、ビツ | honey, nectar, molasses<br>
+<kw>蜜月</kw><br>
+1382 | <kk>密</kk> | <kt></kt> | ミツ；ひそ.か | secrecy, density (pop), minuteness, carefulness<br>
+<kw>密約</kw> | <kw>厳密</kw> | <kw>密か</kw><br>
+1383 | <kk>秘</kk> | <kt>祕</kt> | ヒ；ひ.める、ひそ.か、かく.す | secret, conceal<br>
+<kw>秘密</kw> | <kw>秘書</kw> | <kw>神秘</kw> | <kw>秘める</kw><br>
+1384 | <kk>欧</kk> | <kt>歐</kt> | オウ；うた.う、は.く | Europe<br>
+<kw>欧文</kw> | <kw>西欧</kw> | <kw>渡欧</kw><br>
+1385 | <kk>枢</kk> | <kt>樞</kt> | スウ、シュ；とぼそ、からくり | hinge, pivot, door<br>
+<kw>枢軸</kw> | <kw>枢要</kw> | <kw>中枢</kw> | <kw>枢</kw><br>
+1386 | <kk>殴</kk> | <kt>毆</kt> | オウ；なぐ.る | assault, hit, beat, thrash<br>
+<kw>殴打</kw> | <kw>殴る</kw><br>
+1387 | <kk>駆</kk> | <kt>驅</kt> | ク；か.ける、か.る | drive, run, gallop, advance, inspire, impel<br>
+<kw>駆使</kw> | <kw>駆逐</kw> | <kw>先駆</kw> | <kw>抜け駆け</kw> | <kw>駆り立てる</kw><br>
+1388 | <kk>馳</kk> | <kt></kt> | チ、ジ；は.せる | run, gallop, sail, drive (a wagon), win (fame), despatch<br>
+<kw>ご馳走様</kw> | <kw>馳せる</kw><br>
+1389 | <kk>騒</kk> | <kt>騷</kt> | ソウ；さわ.ぐ、うれい、さわ.がしい | boisterous, make noise, clamor, disturb, excite<br>
+<kw>騒動</kw> | <kw>騒音</kw> | <kw>物騒</kw> | <kw>騒がしい</kw><br>
+1390 | <kk>旭</kk> | <kt></kt> | キョク；あさひ | rising sun, morning sun<br>
+<kw>旭日</kw> | <kw>旭</kw><br>
+1391 | <kk>旦</kk> | <kt></kt> | タン、ダン；あき.らか、あきら、ただし、あさ、あした | daybreak, dawn, morning<br>
+<kw>一旦</kw> | <kw>元旦</kw> | <kw>旦那</kw><br>
+1392 | <kk>但</kk> | <kt></kt> | タン；ただ.し | however, but<br>
+<kw>但</kw> | <kw>但し書き</kw><br>
+1393 | <kk>担</kk> | <kt>擔</kt> | タン；かつ.ぐ、にな.う | shouldering, carry, raise, bear<br>
+<kw>担当</kw> | <kw>担架</kw> | <kw>担ぐ</kw> | <kw>担う</kw><br>
+1394 | <kk>亘</kk> | <kt></kt> | コウ、カン、セン；わた.る、もと.める | span, range, extend over<br>
+<kw>亘古</kw> | <kw>数キロに亘る</kw><br>
+1395 | <kk>恒</kk> | <kt>恆</kt> | コウ；つね、つねに | constancy, always<br>
+<kw>恒常</kw> | <kw>恒例</kw> | <kw>恒久</kw> | <kw>恒に</kw><br>
+1396 | <kk>垣</kk> | <kt></kt> | エン；かき | hedge, fence, wall<br>
+<kw>垣</kw> | <kw>垣根</kw><br>
+1397 | <kk>宣</kk> | <kt></kt> | セン；のたま.う | proclaim, say, announce<br>
+<kw>宣言</kw> | <kw>宣誓</kw> | <kw>宣伝</kw> | <kw>宣う</kw><br>
+1398 | <kk>喧</kk> | <kt></kt> | ケン；やかま.しい、かまびす.しい | noisy, boisterous<br>
+<kw>喧嘩</kw> | <kw>喧しい</kw><br>
+1399 | <kk>嘩</kk> | <kt></kt> | カ、ケ；かまびす.しい | noisy<br>
+<kw>喧嘩</kw><br>
+1400 | <kk>唾</kk> | <kt></kt> | ダ、タ；つば、つばき | saliva, sputum<br>
+<kw>唾液</kw> | <kw>唾棄</kw> | <kw>眉唾</kw> | <kw>固唾</kw><br>
+1401 | <kk>壷</kk> | <kt></kt> | コ；つぼ | jar, pot, hinge knuckle, one's aim<br>
+<kw>唾壷</kw> | <kw>油壷</kw><br>
+1402 | <kk>坪</kk> | <kt></kt> | ヘイ；つぼ | two-mat area, approx. thirty-six sq ft<br>
+<kw>坪</kw> | <kw>坪数</kw> | <kw>建坪</kw><br>
+1403 | <kk>畔</kk> | <kt></kt> | ハン；あぜ、くろ、ほとり | paddy ridge, levee<br>
+<kw>湖畔</kw> | <kw>畔</kw> | <kw>畔</kw><br>
+1404 | <kk>衆</kk> | <kt></kt> | シュウ、シュ；おお.い | masses, great numbers, multitude, populace<br>
+<kw>衆寡</kw> | <kw>民衆</kw> | <kw>衆生</kw><br>
+1405 | <kk>伊</kk> | <kt></kt> | イ；かれ | Italy, that one<br>
+<kw>日独伊</kw><br>
+1406 | <kk>君</kk> | <kt></kt> | クン；きみ、-ぎみ | mister, you, ruler, male name suffix<br>
+<kw>君主</kw> | <kw>君臨</kw> | <kw>母君</kw><br>
+1407 | <kk>群</kk> | <kt></kt> | グン；む.れる、む.れ、むら、むら.がる | flock, group, crowd, herd, swarm, cluster<br>
+<kw>群居</kw> | <kw>大群</kw> | <kw>群れる</kw> | <kw>群れ</kw> | <kw>群雀</kw> | <kw>群千鳥</kw> | <kw>群がる</kw> | <kw>群がる</kw><br>
+1408 | <kk>郡</kk> | <kt></kt> | グン；こおり | county, district<br>
+<kw>郡部</kw> | <kw>郡</kw><br>
+1409 | <kk>那</kk> | <kt></kt> | ナ、ダ；なに、なんぞ、いかん | what?<br>
+<kw>刹那</kw> | <kw>那</kw><br>
+1410 | <kk>邦</kk> | <kt></kt> | ホウ；くに | home country, country, Japan<br>
+<kw>邦楽</kw> | <kw>本邦</kw> | <kw>連邦</kw> | <kw>邦</kw><br>
+1411 | <kk>郊</kk> | <kt></kt> | コウ | outskirts, suburbs, rural area<br>
+<kw>郊外</kw> | <kw>近郊</kw><br>
+1412 | <kk>効</kk> | <kt>效</kt> | コウ；き.く、ききめ、なら.う | merit, efficacy, efficiency, benefit<br>
+<kw>効果</kw> | <kw>効力</kw> | <kw>時効</kw> | <kw>効き目</kw><br>
+1413 | <kk>絞</kk> | <kt></kt> | コウ；しぼ.る、し.める、し.まる | strangle, constrict, wring<br>
+<kw>絞殺</kw> | <kw>絞首刑</kw> | <kw>絞り上げる</kw> | <kw>絞り</kw> | <kw>絞める</kw> | <kw>絞まる</kw><br>
+1414 | <kk>搾</kk> | <kt></kt> | サク；しぼ.る | squeeze<br>
+<kw>搾取</kw> | <kw>圧搾</kw> | <kw>搾る</kw><br>
+1415 | <kk>紋</kk> | <kt></kt> | モン | family crest, figures<br>
+<kw>紋章</kw> | <kw>指紋</kw> | <kw>波紋</kw><br>
+1416 | <kk>菊</kk> | <kt></kt> | キク | chrysanthemum<br>
+<kw>菊花</kw> | <kw>白菊</kw><br>
+1417 | <kk>帝</kk> | <kt></kt> | テイ；みかど | sovereign, the emperor, god, creator<br>
+<kw>帝王</kw> | <kw>帝国</kw><br>
+1418 | <kk>締</kk> | <kt></kt> | テイ；し.まる、し.まり、し.める、-し.め、-じ.め | tighten, tie, shut, lock, fasten<br>
+<kw>締結</kw> | <kw>締まり</kw> | <kw>締め切る</kw> | <kw>引き締め</kw><br>
+1419 | <kk>諦</kk> | <kt></kt> | テイ、タイ；あきら.める、つまびらか、まこと | truth, clarity, abandon, give up<br>
+<kw>諦観</kw> | <kw>諦念</kw> | <kw>諦める</kw><br>
+1420 | <kk>享</kk> | <kt></kt> | キョウ、コウ；う.ける | enjoy, receive, undergo, answer (phone), take, get, catch<br>
+<kw>享有</kw> | <kw>享受</kw> | <kw>享楽</kw><br>
+1421 | <kk>郭</kk> | <kt></kt> | カク；くるわ | enclosure, quarters, fortification, red-light district<br>
+<kw>城郭</kw> | <kw>外郭</kw> | <kw>輪郭</kw><br>
+1422 | <kk>亭</kk> | <kt></kt> | テイ、チン | pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name<br>
+<kw>亭主</kw> | <kw>料亭</kw><br>
+1423 | <kk>停</kk> | <kt></kt> | テイ；と.める、と.まる | halt, stopping<br>
+<kw>停止</kw> | <kw>停車</kw> | <kw>調停</kw><br>
+1424 | <kk>昆</kk> | <kt></kt> | コン | descendants, elder brother, insect<br>
+<kw>昆虫</kw> | <kw>昆布</kw><br>
+1425 | <kk>混</kk> | <kt></kt> | コン；ま.じる、-ま.じり、ま.ざる、ま.ぜる、こ.む | mix, blend, confuse<br>
+<kw>混合</kw> | <kw>混雑</kw> | <kw>混迷</kw> | <kw>混じり物</kw> | <kw>混ざる</kw> | <kw>混ぜ物</kw> | <kw>混み合う</kw> | <kw>人混み</kw><br>
+1426 | <kk>皆</kk> | <kt></kt> | カイ；みな、みんな | all, everything<br>
+<kw>皆無</kw> | <kw>皆勤</kw> | <kw>皆出席</kw> | <kw>皆</kw> | <kw>皆さん</kw> | <kw>皆</kw><br>
+1427 | <kk>楷</kk> | <kt></kt> | カイ | square character style, correctness<br>
+<kw>楷書</kw><br>
+1428 | <kk>諧</kk> | <kt></kt> | カイ；かな.う、やわ.らぐ | harmony<br>
+<kw>俳諧</kw><br>
+1429 | <kk>階</kk> | <kt></kt> | カイ；きざはし | storey, stair, counter for storeys of a building<br>
+<kw>階段</kw> | <kw>階級</kw> | <kw>地階</kw><br>
+1430 | <kk>陛</kk> | <kt></kt> | ヘイ | highness, steps (of throne)<br>
+<kw>陛下</kw><br>
+1431 | <kk>陸</kk> | <kt></kt> | リク、ロク；おか | land, six<br>
+<kw>陸地</kw> | <kw>陸橋</kw> | <kw>着陸</kw><br>
+1432 | <kk>睦</kk> | <kt></kt> | ボク、モク；むつ.まじい、むつ.む、むつ.ぶ | intimate, friendly, harmonious<br>
+<kw>親睦</kw> | <kw>和睦</kw> | <kw>睦まじい</kw> | <kw>睦む</kw><br>
+1433 | <kk>勢</kk> | <kt></kt> | セイ、ゼイ；いきお.い、はずみ | forces, energy, military strength<br>
+<kw>勢力</kw> | <kw>優勢</kw> | <kw>情勢</kw> | <kw>勢い</kw><br>
+1434 | <kk>熱</kk> | <kt></kt> | ネツ；あつ.い | heat, temperature, fever, mania, passion<br>
+<kw>熱病</kw> | <kw>熱湯</kw> | <kw>熱い</kw><br>
+1435 | <kk>熟</kk> | <kt></kt> | ジュク；う.れる | mellow, ripen, mature, acquire skill<br>
+<kw>熟練</kw> | <kw>熟慮</kw> | <kw>成熟</kw> | <kw>熟れる</kw><br>
+1436 | <kk>塾</kk> | <kt></kt> | ジュク | cram school, private school<br>
+<kw>私塾</kw><br>
+1437 | <kk>陵</kk> | <kt></kt> | リョウ；みささぎ | mausoleum, imperial tomb, mound, hill<br>
+<kw>陵墓</kw> | <kw>陵</kw><br>
+1438 | <kk>菱</kk> | <kt></kt> | リョウ；ひし | diamond (shape), water chestnut, rhombus<br>
+<kw>菱</kw> | <kw>菱形</kw><br>
+1439 | <kk>俊</kk> | <kt></kt> | シュン | sagacious, genius, excellence<br>
+<kw>俊敏</kw> | <kw>俊秀</kw> | <kw>俊才</kw><br>
+1440 | <kk>唆</kk> | <kt></kt> | サ；そそ.る、そそのか.す | tempt, seduce, instigate, promote<br>
+<kw>教唆</kw> | <kw>唆す</kw><br>
+1441 | <kk>筈</kk> | <kt></kt> | カツ；はず、やはず | notch of an arrow, ought, must, should be, expected<br>
+<kw>筈</kw> | <kw>その筈</kw><br>
+1442 | <kk>箸</kk> | <kt></kt> | チョ、チャク；はし | chopsticks<br>
+<kw>箸</kw> | <kw>箸</kw><br>
+1443 | <kk>暑</kk> | <kt>暑</kt> | ショ；あつ.い | sultry, hot, summer heat<br>
+<kw>暑気</kw> | <kw>残暑</kw> | <kw>避暑</kw> | <kw>暑い</kw><br>
+1444 | <kk>署</kk> | <kt>署</kt> | ショ | signature, govt office, police station<br>
+<kw>署名</kw> | <kw>署長</kw> | <kw>警察署</kw><br>
+1445 | <kk>曙</kk> | <kt></kt> | ショ；あけぼの | dawn, daybreak<br>
+<kw>曙光</kw> | <kw>時代の曙</kw><br>
+1446 | <kk>賭</kk> | <kt></kt> | ト；か.ける、かけ | gamble, wager, bet<br>
+<kw>賭場</kw> | <kw>賭博</kw> | <kw>賭け</kw><br>
+1447 | <kk>諸</kk> | <kt>諸</kt> | ショ；もろ | various, many, several, together<br>
+<kw>諸君</kw> | <kw>諸国</kw><br>
+1448 | <kk>儲</kk> | <kt></kt> | チョ；もう.ける、もう.かる、もうけ、たくわ.える | be profitable, yield profit<br>
+<kw>皇儲</kw> | <kw>儲ける</kw> | <kw>儲かる</kw><br>
+1449 | <kk>緒</kk> | <kt>緖</kt> | ショ、チョ；お、いとぐち | thong, beginning, inception, end, cord, strap, mental or emotional state<br>
+<kw>緒戦</kw> | <kw>端緒</kw> | <kw>情緒</kw> | <kw>鼻緒</kw><br>
+1450 | <kk>翁</kk> | <kt></kt> | オウ；おきな | venerable old man<br>
+<kw>老翁</kw><br>
+1451 | <kk>婆</kk> | <kt></kt> | バ；ばば、ばあ | old woman, grandma, wet nurse<br>
+<kw>老婆</kw> | <kw>産婆</kw> | <kw>お婆さん</kw><br>
+1452 | <kk>姿</kk> | <kt></kt> | シ；すがた | figure, form, shape<br>
+<kw>姿勢</kw> | <kw>容姿</kw> | <kw>雄姿</kw> | <kw>姿</kw><br>
+1453 | <kk>恣</kk> | <kt></kt> | シ；ほしいまま | selfish, arbitrary<br>
+<kw>恣意的</kw><br>
+1454 | <kk>妄</kk> | <kt></kt> | モウ、ボウ；みだ.りに | delusion, unnecessarily, without authority, reckless<br>
+<kw>妄信</kw> | <kw>妄想</kw> | <kw>迷妄</kw> | <kw>妄言</kw><br>
+1455 | <kk>萎</kk> | <kt></kt> | イ；な、しお.れる、しな.びる、しぼ.む、な.える | wither, droop, lame<br>
+<kw>萎縮</kw> | <kw>萎える</kw> | <kw>萎む</kw> | <kw>萎れる</kw> | <kw>萎びる</kw><br>
+1456 | <kk>妻</kk> | <kt></kt> | サイ；つま | wife, spouse<br>
+<kw>妻子</kw> | <kw>良妻</kw> | <kw>人妻</kw><br>
+1457 | <kk>凄</kk> | <kt></kt> | セイ、サイ；さむ.い、すご.い、すさ.まじい | uncanny, weird, threatening, horrible<br>
+<kw>凄惨</kw> | <kw>凄絶</kw> | <kw>物凄い</kw> | <kw>凄まじい</kw> | <kw>凄む</kw><br>
+1458 | <kk>章</kk> | <kt></kt> | ショウ | badge, chapter, composition, poem, design<br>
+<kw>憲章</kw> | <kw>文章</kw><br>
+1459 | <kk>彰</kk> | <kt></kt> | ショウ | patent, clear<br>
+<kw>表彰</kw><br>
+1460 | <kk>障</kk> | <kt></kt> | ショウ；さわ.る | hinder, hurt, harm<br>
+<kw>障害</kw> | <kw>障子</kw> | <kw>故障</kw> | <kw>差し障り</kw><br>
+1461 | <kk>辛</kk> | <kt></kt> | シン；から.い、つら.い、-づら.い、かのと | spicy, bitter, hot, acrid<br>
+<kw>辛苦</kw> | <kw>辛酸</kw> | <kw>香辛料</kw> | <kw>辛み</kw> | <kw>辛うじて</kw> | <kw>辛い</kw><br>
+1462 | <kk>宰</kk> | <kt></kt> | サイ | superintend, manager, rule<br>
+<kw>宰領</kw> | <kw>宰相</kw> | <kw>主宰</kw><br>
+1463 | <kk>辣</kk> | <kt></kt> | ラツ；から.い | pungent, spicy, harsh, cruel, severe<br>
+<kw>辣腕</kw> | <kw>辛辣</kw><br>
+1464 | <kk>辞</kk> | <kt>辭</kt> | ジ；や.める、いな.む | resign, word, term, expression<br>
+<kw>辞書</kw> | <kw>辞職</kw> | <kw>式辞</kw> | <kw>辞める</kw><br>
+1465 | <kk>壁</kk> | <kt></kt> | ヘキ；かべ | wall, lining (stomach), fence<br>
+<kw>壁面</kw> | <kw>壁画</kw> | <kw>壁土</kw><br>
+1466 | <kk>璧</kk> | <kt></kt> | ヘキ；たま | sphere, ball<br>
+<kw>完璧</kw> | <kw>双璧</kw><br>
+1467 | <kk>癖</kk> | <kt></kt> | ヘキ；くせ、くせ.に | mannerism, habit, vice, trait, fault, kink<br>
+<kw>習癖</kw> | <kw>病癖</kw> | <kw>潔癖</kw> | <kw>口癖</kw><br>
+1468 | <kk>避</kk> | <kt></kt> | ヒ；さ.ける、よ.ける | evade, avoid, avert, ward off, shirk, shun<br>
+<kw>避難</kw> | <kw>逃避</kw> | <kw>不可避</kw> | <kw>避ける</kw><br>
+1469 | <kk>幸</kk> | <kt></kt> | コウ；さいわ.い、さち、しあわ.せ | happiness, blessing, fortune<br>
+<kw>幸福</kw> | <kw>不幸</kw> | <kw>行幸</kw> | <kw>何が幸いするかわからない</kw> | <kw>幸</kw> | <kw>幸せ</kw><br>
+1470 | <kk>服</kk> | <kt></kt> | フク | clothing, admit, obey, discharge<br>
+<kw>服装</kw> | <kw>服従</kw> | <kw>洋服</kw><br>
+1471 | <kk>報</kk> | <kt></kt> | ホウ；むく.いる | report, news, reward, retribution<br>
+<kw>報告</kw> | <kw>報い</kw> | <kw>報う</kw><br>
+1472 | <kk>執</kk> | <kt></kt> | シツ、シュウ；と.る | tenacious, take hold, grasp, take to heart<br>
+<kw>執務</kw> | <kw>執筆</kw> | <kw>確執</kw> | <kw>執念</kw> | <kw>執心</kw> | <kw>我執</kw> | <kw>執る</kw><br>
+1473 | <kk>摯</kk> | <kt></kt> | シ；いた.る | gift, seriousness<br>
+<kw>真摯</kw><br>
+1474 | <kk>達</kk> | <kt></kt> | タツ、ダ；-たち | accomplished, reach, arrive, attain<br>
+<kw>達人</kw> | <kw>調達</kw> | <kw>伝達</kw> | <kw>友達</kw><br>
+1475 | <kk>朗</kk> | <kt>朗</kt> | ロウ；ほが.らか、あき.らか | melodious, clear, bright, serene, cheerful<br>
+<kw>朗読</kw> | <kw>朗々</kw> | <kw>明朗</kw> | <kw>朗らか</kw><br>
+1476 | <kk>浪</kk> | <kt></kt> | ロウ | wandering, waves, billows, reckless, unrestrained<br>
+<kw>浪費</kw> | <kw>放浪</kw><br>
+1477 | <kk>呉</kk> | <kt></kt> | ゴ；く.れる、くれ | give, do something for, kingdom of Wu<br>
+<kw>呉服</kw> | <kw>呉越同舟</kw> | <kw>呉れる</kw><br>
+1478 | <kk>娯</kk> | <kt></kt> | ゴ | recreation, pleasure<br>
+<kw>娯楽</kw><br>
+1479 | <kk>誤</kk> | <kt></kt> | ゴ；あやま.る、-あやま.る | mistake, err, do wrong, mislead<br>
+<kw>誤解</kw> | <kw>正誤</kw> | <kw>誤る</kw><br>
+1480 | <kk>富</kk> | <kt></kt> | フ、フウ；と.む、とみ | wealth, enrich, abundant<br>
+<kw>富強</kw> | <kw>富裕</kw> | <kw>富貴</kw> | <kw>富む</kw> | <kw>富</kw> | <kw>富山県</kw><br>
+1481 | <kk>副</kk> | <kt></kt> | フク | vice-, assistant, aide, duplicate, copy<br>
+<kw>副業</kw> | <kw>副作用</kw> | <kw>正副</kw><br>
+1482 | <kk>幅</kk> | <kt></kt> | フク；はば | hanging scroll, width<br>
+<kw>幅員</kw> | <kw>振幅</kw> | <kw>全幅</kw> | <kw>横幅</kw><br>
+1483 | <kk>福</kk> | <kt>福</kt> | フク | blessing, fortune, luck, wealth<br>
+<kw>福徳</kw><br>
+1484 | <kk>祉</kk> | <kt>祉</kt> | シ | welfare, happiness<br>
+<kw>福祉</kw><br>
+1485 | <kk>禍</kk> | <kt>禍</kt> | カ；わざわい | calamity, misfortune, evil, curse<br>
+<kw>禍福</kw> | <kw>禍根</kw> | <kw>災禍</kw><br>
+1486 | <kk>渦</kk> | <kt></kt> | カ；うず | whirlpool, eddy, vortex<br>
+<kw>渦中</kw> | <kw>渦潮</kw> | <kw>渦巻く</kw><br>
+1487 | <kk>鍋</kk> | <kt></kt> | カ；なべ | pot, pan, kettle<br>
+<kw>鍋</kw> | <kw>鍋料理</kw><br>
+1488 | <kk>蘭</kk> | <kt></kt> | ラン、ラ | orchid, Holland<br>
+<kw>蘭学</kw><br>
+1489 | <kk>欄</kk> | <kt>欄</kt> | ラン；てすり | column, handrail, blank, space<br>
+<kw>欄干</kw> | <kw>欄外</kw> | <kw>空欄</kw><br>
+1490 | <kk>潤</kk> | <kt></kt> | ジュン；うるお.う、うるお.す、うる.む | wet, be watered, profit by, receive benefits, favor, charm, steep<br>
+<kw>潤色</kw> | <kw>湿潤</kw> | <kw>潤う</kw> | <kw>潤す</kw> | <kw>潤む</kw><br>
+1491 | <kk>淵</kk> | <kt></kt> | エン、カク、コウ；ふち、かた.い、はなわ | abyss, edge, deep pool, the depths<br>
+<kw>深淵</kw> | <kw>絶望の淵</kw><br>
+1492 | <kk>滑</kk> | <kt></kt> | カツ、コツ；すべ.る、なめ.らか | slippery, slide, slip, fail exam<br>
+<kw>滑走</kw> | <kw>滑降</kw> | <kw>円滑</kw> | <kw>滑稽</kw> | <kw>滑る</kw> | <kw>滑らか</kw><br>
+1493 | <kk>稽</kk> | <kt></kt> | ケイ；かんが.える、とど.める | think, consider<br>
+<kw>稽古</kw><br>
+1494 | <kk>肩</kk> | <kt></kt> | ケン；かた | shoulder<br>
+<kw>肩章</kw> | <kw>比肩</kw> | <kw>肩</kw><br>
+1495 | <kk>脅</kk> | <kt></kt> | キョウ；おびや.かす、おど.す、おど.かす | threaten, coerce<br>
+<kw>脅迫</kw> | <kw>脅威</kw> | <kw>脅かす</kw> | <kw>脅し文句</kw> | <kw>脅かす</kw><br>
+1496 | <kk>肯</kk> | <kt></kt> | コウ；がえんじ.る | agreement, consent, comply with<br>
+<kw>肯定</kw> | <kw>首肯</kw><br>
+1497 | <kk>双</kk> | <kt>雙</kt> | ソウ；ふた、たぐい、ならぶ、ふたつ | pair, set, comparison, counter for pairs<br>
+<kw>双肩</kw> | <kw>双方</kw> | <kw>無双</kw> | <kw>双子</kw> | <kw>双葉</kw><br>
